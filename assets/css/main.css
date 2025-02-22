@@ -1,0 +1,35 @@
+* {
+  font-family: 'Anek Devanagari', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100vh;
+  width: 100vw;
+  font-size: 100%;
+}
+
+body {
+  background-color: #060b10;
+  color: #fff;
+}
+
+/* Estiliza a barra de rolagem inteira */
+::-webkit-scrollbar {
+  width: 8px; /* Largura da barra vertical */
+  height: 8px; /* Altura da barra horizontal */
+}
+
+/* Estiliza o fundo da barra de rolagem */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+  border-radius: 10px;
+}
+
+/* Estiliza o "thumb" (parte que se move) */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+  border-radius: 10px;
+}
