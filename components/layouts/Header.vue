@@ -1,5 +1,5 @@
 <template>
-  <header class="w-full bg-[#18181B] text-white py-4 shadow-md">
+  <header class="w-full bg-gray-900 shadow-md text-white py-4">
     <div class="w-[95%] mx-auto flex justify-between items-center px-6">
       <NuxtLink to="/" class="flex items-center space-x-2">
         <span class="border-2 border-white rounded-full px-3 py-1 text-lg font-bold">EV</span>

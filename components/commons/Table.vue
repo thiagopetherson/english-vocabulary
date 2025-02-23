@@ -1,34 +1,37 @@
 <template>
-  <div class="overflow-auto max-w-full">    
-    <div>
-      <div class="flex py-3.5 border-b border-gray-200 dark:border-gray-700">
-        <UInput v-model="q" placeholder="Filter term..." />
+  <div class="overflow-x-auto max-w-full">
+    <div class="bg-gray-900 shadow-md rounded-lg p-4">
+      <div class="flex py-3.5 border-b border-gray-700">
+        <UInput v-model="q" placeholder="Filter term..." class="w-full" />
       </div>
 
       <UTable
         v-if="filteredRows.length > 0"
         :sort="sort"
         :columns="columns"
-        :rows="filteredRows"        
-        class="min-w-full"
+        :rows="filteredRows"
+        class="w-full text-sm md:text-base"
         :ui="{         
-          td: { base: 'whitespace-normal break-words' } // Quebra de linha nos textos longos
+          thead: { base: 'bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300' },
+          tr: { base: 'border-b border-gray-200 dark:border-gray-700' },
+          td: { base: 'px-4 py-3 whitespace-normal break-words' },
+          th: { base: 'px-4 py-3 text-left font-semibold' }
         }"
       >
         <template #term-data="{ row }">
-          <span class="w-full block" v-html="row.term"></span>
+          <span class="block font-medium text-gray-900 dark:text-gray-100" v-html="row.term"></span>
         </template>
         <template #translation-data="{ row }">
-          <span class="w-full block" v-html="formatText(row.translation)"></span>
+          <span class="block text-gray-700 dark:text-gray-300" v-html="formatText(row.translation)"></span>
         </template>
         <template #example-data="{ row }">
-          <span class="w-full block" v-html="formatText(row.example)"></span>
+          <span class="block italic text-gray-600 dark:text-gray-400" v-html="formatText(row.example)"></span>
         </template>
         <template #description-data="{ row }">
-          <span class="w-full block" v-html="formatText(row.description)"></span>
+          <span class="block text-gray-700 dark:text-gray-300" v-html="formatText(row.description)"></span>
         </template>
         <template #pronunciation-data="{ row }">
-          <span class="w-full block" v-html="formatText(row.pronunciation)"></span>
+          <span class="block text-gray-700 dark:text-gray-300" v-html="formatText(row.pronunciation)"></span>
         </template>
       </UTable>
     </div>
@@ -74,4 +77,3 @@ const formatText = (text) => {
   return text ? text.replace(/\|/g, '<br><br>') : '—'
 }
 </script>
-
