@@ -13,9 +13,9 @@
         class="w-full text-sm md:text-base"
         :ui="{         
           thead: { base: 'bg-gray-800 text-gray-300' },
-          tr: { base: 'border-b border-gray-700' },
-          td: { base: 'px-4 py-3 whitespace-normal break-words' },
-          th: { base: 'px-4 py-3 text-left font-semibold' }
+          tr: { base: 'border-b border-gray-700 text-gray-300' },
+          td: { base: 'px-4 py-3 whitespace-normal break-words text-gray-300' },
+          th: { base: 'px-4 py-3 text-left font-semibold text-gray-300' }
         }"
       >
         <template #term-data="{ row }">
