@@ -12,26 +12,26 @@
         :rows="filteredRows"
         class="w-full text-sm md:text-base"
         :ui="{         
-          thead: { base: 'bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300' },
-          tr: { base: 'border-b border-gray-200 dark:border-gray-700' },
+          thead: { base: 'bg-gray-800 text-gray-300' },
+          tr: { base: 'border-b border-gray-700' },
           td: { base: 'px-4 py-3 whitespace-normal break-words' },
           th: { base: 'px-4 py-3 text-left font-semibold' }
         }"
       >
         <template #term-data="{ row }">
-          <span class="block font-medium text-gray-900 dark:text-gray-100" v-html="row.term"></span>
+          <span class="block font-medium text-gray-100" v-html="row.term"></span>
         </template>
         <template #translation-data="{ row }">
-          <span class="block text-gray-700 dark:text-gray-300" v-html="formatText(row.translation)"></span>
+          <span class="block text-gray-100" v-html="formatText(row.translation)"></span>
         </template>
         <template #example-data="{ row }">
-          <span class="block italic text-gray-600 dark:text-gray-400" v-html="formatText(row.example)"></span>
+          <span class="block italic text-gray-400" v-html="formatText(row.example)"></span>
         </template>
         <template #description-data="{ row }">
-          <span class="block text-gray-700 dark:text-gray-300" v-html="formatText(row.description)"></span>
+          <span class="block text-gray-300" v-html="formatText(row.description)"></span>
         </template>
         <template #pronunciation-data="{ row }">
-          <span class="block text-gray-700 dark:text-gray-300" v-html="formatText(row.pronunciation)"></span>
+          <span class="block text-gray-300" v-html="formatText(row.pronunciation)"></span>
         </template>
       </UTable>
     </div>

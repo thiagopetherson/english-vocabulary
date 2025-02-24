@@ -1,6 +1,6 @@
 <template>
   <div class="p-6 max-w-2xl mx-auto bg-gray-900 shadow-md rounded-lg">
-    <h2 class="text-2xl font-semibold mb-6 text-gray-800 dark:text-gray-200">Add New Term</h2>
+    <h2 class="text-2xl font-semibold mb-6 text-gray-200">Add New Term</h2>
 
     <UFormGroup label="Term" class="mb-4">
       <UInput 
