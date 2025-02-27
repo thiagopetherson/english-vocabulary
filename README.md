@@ -4,6 +4,10 @@ This is a simple English dictionary built as a didactic project using Vue 3 and 
 
 ![alt text](image.png)
 
+## See it working
+
+https://my-english-vocabulary.netlify.app/
+
 ## Setup
 
 Make sure to install the dependencies:
