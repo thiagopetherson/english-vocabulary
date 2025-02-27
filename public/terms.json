@@ -1930,5 +1930,75 @@
     "example": "You need to act fast in an emergency. | She wants to act in movies. | His kind act helped many people.",
     "description": "",
     "pronunciation": ""
+  },
+  {
+    "term": "From what",
+    "translation": "Do que | A partir do que | Pelo que",
+    "example": "From what (pelo que) I heard, the meeting was canceled. | From what I can tell, he is not interested. | From what I remember, she used to live here. | From what you said, it sounds like a great idea.",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Heal",
+    "translation": "Curar | Cicatrizar | Recuperar",
+    "example": "Time will heal your wounds (feridas). | His broken leg took months to heal. | She needed time to heal after the accident.",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Silly",
+    "translation": "Bobo | Tolo | Sem sentido",
+    "example": "Don't be so silly! | She told a silly joke that made everyone laugh. | I made a silly mistake on the test. |  That movie was so silly (sem sentido), but I enjoyed it.",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Overthinking",
+    "translation": "Pensar demais | Pensar excessivamente | Procupação excessiva",
+    "example": "Stop overthinking and just make a decision. | Overthinking can make simple problems seem much bigger. | She spent the whole night overthinking what he said. | Overthinking often leads to unnecessary stress.",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Overanalyzing",
+    "translation": "Analisar demais | Analisar excessivamente",
+    "example": "Stop overanalyzing every little detail. | He tends to overanalyze social situations and gets nervous. | She spent hours overanalyzing his text message.",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Actually",
+    "translation": "Na verdade",
+    "example": "I thought the movie would be boring, but actually, it was really good. | He looks serious, but he’s actually very funny. | I don’t actually like coffee, I just drink it for the caffeine. | Did you actually read the entire book?",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Wrap",
+    "translation": "Embrulhar | Envolver | Encerrar",
+    "example": "She wrapped the gift in colorful paper. | Let’s wrap up the meeting and go to lunch. | He wrapped his arms around her.",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Tend (Verbo)",
+    "translation": "Tender",
+    "example": "",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Every",
+    "translation": "Cada | Todo",
+    "example": "She reads a book every night. | Every student must complete the test. | I go to the gym every Monday and Wednesday. | Every detail matters in this project.",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Matter",
+    "translation": "Importar | Assunto | Matéria",
+    "example": "It doesn’t matter to me. | Health matters more than. | This is a serious matter. | Water is a liquid matter (matéria líquida).",
+    "description": "",
+    "pronunciation": ""
   }
 ]
