@@ -1,12 +1,12 @@
 <template>
-  <div class="p-6 max-w-2xl mx-auto bg-gray-900 shadow-md rounded-lg">
-    <h2 class="text-2xl font-semibold mb-6 text-gray-200">Add New Term</h2>
+  <div class="p-6 max-w-2xl mx-auto bg-gray-900 dark:bg-gray-900 shadow-md rounded-lg">
+    <h2 class="text-2xl font-semibold mb-6 text-gray-200 dark:text-gray-200">Add New Term</h2>
 
     <UFormGroup label="Term" class="mb-4">
       <UInput 
         v-model="newTerm.term" 
         placeholder="Digite o termo" 
-        class="py-2 focus:ring-0"
+        class="py-2 focus:ring-0 text-gray-100 dark:text-gray-100"
       />
     </UFormGroup>
 
@@ -14,7 +14,7 @@
       <UInput 
         v-model="newTerm.translation" 
         placeholder="Use '|' to separate multiple translations." 
-        class="py-2 focus:ring-0"
+        class="py-2 focus:ring-0 text-gray-100 dark:text-gray-100"
       />
     </UFormGroup>
 
@@ -22,7 +22,7 @@
       <UTextarea 
         v-model="newTerm.example" 
         placeholder="Use '|' to separate multiple examples." 
-        class="py-2 focus:ring-0"
+        class="py-2 focus:ring-0 text-gray-100 dark:text-gray-100"
       />
     </UFormGroup>
 
@@ -30,7 +30,7 @@
       <UTextarea 
         v-model="newTerm.description" 
         placeholder="Use '|' to separate multiple descriptions." 
-        class="py-2 focus:ring-0"
+        class="py-2 focus:ring-0 text-gray-100 dark:text-gray-100"
       />
     </UFormGroup>
 
@@ -38,7 +38,7 @@
       <UInput 
         v-model="newTerm.pronunciation" 
         placeholder="Use '|' to separate multiple pronunciations." 
-        class="py-2 focus:ring-0"
+        class="py-2 focus:ring-0 text-gray-100 dark:text-gray-100"
       />
     </UFormGroup>
 
@@ -47,7 +47,7 @@
         v-model="password" 
         type="password" 
         placeholder="Type the password" 
-        class="py-2 focus:ring-0"
+        class="py-2 focus:ring-0 text-gray-100 dark:text-gray-100"
       />
     </UFormGroup>
 
@@ -57,7 +57,7 @@
       block
       :loading="loading"
       class="mt-4 px-6 py-4 text-lg font-semibold transition-all duration-300 ease-in-out 
-        bg-blue-600 hover:bg-blue-700 text-white disabled:opacity-50 disabled:cursor-not-allowed"
+        bg-blue-600 dark:bg-blue-600 hover:bg-blue-700 dark:hover:bg-blue-700 text-white disabled:opacity-50 disabled:cursor-not-allowed"
     >
       Save
     </UButton>

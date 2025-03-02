@@ -2000,5 +2000,159 @@
     "example": "It doesn’t matter to me. | Health matters more than. | This is a serious matter. | Water is a liquid matter (matéria líquida).",
     "description": "",
     "pronunciation": ""
+  },
+  {
+    "term": "Mindset",
+    "translation": "Mentalidade | Modo de pensar",
+    "example": "You need to have a growth mindset (mentalidade de crescrimento) to keep improving. | His positive mindset helped him overcome (superar) many difficulties. Changing your mindset can change your life. | She has a strong business mindset.",
+    "description": "Refere-se à forma como uma pessoa encara desafios, oportunidades e a vida em geral.",
+    "pronunciation": ""
+  },
+  {
+    "term": "Overcome",
+    "translation": "Superar | Vencer algo difícil",
+    "example": "He managed to overcome his fear of public speaking. | With determination, she overcame all the difficulties. | They overcame the crisis with teamwork and perseverance.",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Amount",
+    "translation": "Quantidade | Montante",
+    "example": "He spent a large amount of money on his new car. | You need a small amount of sugar for this recipe. | The amount of time we have is limited. | She was surprised by the amount of work she had to do.",
+    "description": "Geralmente usado para algo incontável, como dinheiro, tempo ou esforço.",
+    "pronunciation": ""
+  },
+  {
+    "term": "Aim",
+    "translation": "Mirar | Apontar | Planejar",
+    "example": "I aim to improve my English. | They are aiming for first place in the competition. | The company aims to provide high-quality service.",
+    "description": "Passado (aimed)",
+    "pronunciation": ""
+  },
+  {
+    "term": "Shifty",
+    "translation": "Desonesto | Suspeito | Evasivo",
+    "example": "He gave me a shifty look (olhar suspeito). | I don’t trust him, he seems shifty.",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Shift",
+    "translation": "Mudar | Deslocar | Turno (substântivo)",
+    "example": "We need to shift (mudar) our strategy. | She works the night shift.",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Proof (substântivo)",
+    "translation": "Prova | Evidência | Comprovação",
+    "example": "Do you have any proof of your claim (alegação) ? | The fingerprints were solid proof of his presence at the crime scene.",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Push",
+    "translation": "Empurrar | Pressionar | Forçar | Incentivar",
+    "example": "He pushed (empurraram) the door open. | She pushed the button to call the elevator. | She is pushing herself (se esforçando) to study harder. | They pushed (pressionaram) him to take the job.",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Pull",
+    "translation": "Puxar | Tirar | Atrair",
+    "example": "She pulled the door open. | He pulled his phone out of his pocket. | The new movie is pulling a lot of attention. Can you pull the chair closer to the table ? | The dog pulled on the leash.",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Embrace",
+    "translation": "Abraçar | Aceitar | Adotar",
+    "example": "We should embrace new challenges with confidence. | He embraced the idea of working remotely. | We should embrace change instead of fearing it (temê-la). ",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Entire (adjetivo)",
+    "translation": "Inteiro | Completo | Total",
+    "example": "I spent the entire day studying. | She ate the entire cake by herself. | The entire team worked hard to finish the project. | This is the best movie I’ve seen in my entire life!",
+    "description": "Ele é usado para indicar que algo está completo, sem partes faltando.",
+    "pronunciation": ""
+  },
+  {
+    "term": "Make sure",
+    "translation": "Certifique-se | Assegurar-se | Garantir",
+    "example": "Make sure you lock the door before leaving. | I need to make sure everything is ready for the meeting. | Make sure to bring your ID to the airport. | She made sure everyone understood the instructions.",
+    "description": "...que algo aconteça ou seja feito corretamente | Menos formal que o [ensure that]",
+    "pronunciation": ""
+  },
+  {
+    "term": "Cover (Verbo)",
+    "translation": "Cobrir | Proteger | Incluir",
+    "example": "I covered my mouth when I sneezed. | She covered the cake with chocolate. | I cover my bike with a tarp when it rains. | She always covers her books with plastic. | This insurance covers all medical expenses",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Covered",
+    "translation": "Coberto | Protegido",
+    "example": "The mountains were covered in (de) snow. | Her arms were covered in (de) tattoos. | Make sure the food is covered before putting it in the fridge. | After the accident, his car was covered in dust (de poeira).",
+    "description": "Pode ser usado como adjetivo para indicar que algo está coberto ou protegido por alguma coisa.",
+    "pronunciation": ""
+  },
+  {
+    "term": "Blame",
+    "translation": "Culpar | Responsabilizar",
+    "example": "Don’t blame me for your mistakes ! | She always blames her brother when something goes wrong. |  They blamed the weather for the flight delay. | I blamed myself for not studying enough.",
+    "description": "Culpar ou responsabilizar alguém por algo ruim que aconteceu. | Pode ser [culpado] também ",
+    "pronunciation": ""
+  },
+  {
+    "term": "Shame (Verbo)",
+    "translation": "Envergonhar | Humilhar",
+    "example": "They tried to shame her for her choices. | The teacher shamed him in front of the whole class. | Don’t shame people for making mistakes.",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Shame (Substantivo)",
+    "translation": "Vergonha de uma pessoa ou situação | Pena | Tristeza",
+    "example": "She felt deep shame for what she had done. | It’s a shame you couldn’t come to the party | There’s no shame in asking for help.",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Lazy (Adjetivo)",
+    "translation": "Preguiçoso | Desleixado",
+    "example": "He's too lazy to clean his room. | I had a lazy Sunday, just watching movies. | She gave a lazy excuse for being late. | Stop being lazy and do your homework !",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Ensure",
+    "translation": "Assegurar-se | Garantir que algo aconteça",
+    "example": "We need to ensure that all data is protected. | We need to ensure that everyone has access to clean water. | Please ensure that all doors are locked before leaving. | The new software update ensures better security for users.",
+    "description": "Mesmo significado que [make sure], só que mais formal e usado em contextos profissionais",
+    "pronunciation": ""
+  },
+  {
+    "term": "Tarp",
+    "translation": "Lona",
+    "example": "This tarp is yellow",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Jealous (Adjetivo)",
+    "translation": "Ciumento | Invejoso",
+    "example": "She gets jealous when he talks to other girls. | He's jealous of his brother's success. | Don't be jealous! You will have your turn. | They had a jealous argument (discussão por ciúmes) last night.",
+    "description": "Significa ciumento ou invejoso, dependendo do contexto.",
+    "pronunciation": ""
+  },
+  {
+    "term": "Treat",
+    "translation": "Tratar | Cuidar | Lidar",
+    "example": "You should treat others with respect. | The doctor treated her injury immediately. | How do you treat a cold ?",
+    "description": "Como substantivo pode ser agrado, presente ou recompensa.",
+    "pronunciation": ""
   }
 ]

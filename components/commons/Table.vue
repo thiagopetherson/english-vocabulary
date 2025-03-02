@@ -2,7 +2,7 @@
   <div class="overflow-x-auto max-w-full">
     <div class="bg-gray-900 shadow-md rounded-lg p-4">
       <div class="flex py-3.5 border-b border-gray-700">
-        <UInput v-model="q" placeholder="Filter term..." class="w-full" />
+        <UInput v-model="q" placeholder="Filter term..." class="w-full text-gray-200 bg-gray-800 border-gray-600 focus:ring-0 focus:border-gray-500" />
       </div>
 
       <UTable
@@ -14,8 +14,8 @@
         :ui="{         
           thead: { base: 'bg-gray-800 text-gray-300' },
           tr: { base: 'border-b border-gray-700' },
-          td: { base: 'px-4 py-3 whitespace-normal break-words' },
-          th: { base: 'px-4 py-3 text-left font-semibold' }
+          td: { base: 'px-4 py-3 whitespace-normal break-words text-gray-100' },
+          th: { base: 'px-4 py-3 text-left font-semibold text-gray-300' }
         }"
       >
         <template #term-data="{ row }">
