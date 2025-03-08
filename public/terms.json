@@ -145,14 +145,7 @@
     "example": "",
     "description": "",
     "pronunciation": "Tchu rév fãn"
-  },
-  {
-    "term": "Fringe",
-    "translation": "Franja",
-    "example": "",
-    "description": "",
-    "pronunciation": "Frindj"
-  },
+  },  
   {
     "term": "Explored",
     "translation": "Explorado",
@@ -383,14 +376,7 @@
     "example": "I didn't notice you were here. | Did you notice the new painting on the wall ? | She received a notice about the meeting.",
     "description": "",
     "pronunciation": "Nôutis"
-  },
-  {
-    "term": "Briefcase",
-    "translation": "Mala",
-    "example": "",
-    "description": "",
-    "pronunciation": "Bríf-keis"
-  },
+  },  
   {
     "term": "Bake",
     "translation": "Assar",
@@ -595,20 +581,6 @@
     "pronunciation": ""
   },
   {
-    "term": "Scarf",
-    "translation": "Cachecol",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
-  },
-  {
-    "term": "Mittens",
-    "translation": "Luvas sem a parte dos dedos",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
-  },
-  {
     "term": "Anything else",
     "translation": "Mais alguma coisa... | Algo mais...",
     "example": "Would you like anything else ? | Is there anything else I can do for you ? | I don’t think there’s anything else to discuss.",
@@ -745,8 +717,8 @@
     "term": "Raise",
     "translation": "Levantar | Erguer | Aumentar | Criar | Educar | Aumento (substântivo)",
     "example": "Please raise your hand if you have a question. | They decided to raise the prices of their products. | She raised three children herself. | He got a raise at work.",
-    "description": "",
-    "pronunciation": "Pode ser um verbo ou substantivo, dependendo do contexto. | Alguém faz algo subir."
+    "description": "Pode ser um verbo ou substantivo, dependendo do contexto. | Alguém faz algo subir.",
+    "pronunciation": ""
   },
   {
     "term": "Endless",
@@ -1251,14 +1223,7 @@
     "example": "",
     "description": "",
     "pronunciation": ""
-  },
-  {
-    "term": "Who cares... ?",
-    "translation": "Quem se importa... ?",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
-  },
+  },  
   {
     "term": "By the way",
     "translation": "A própósito | Falando nisso | Aliás",
@@ -2048,111 +2013,237 @@
     "translation": "Prova | Evidência | Comprovação",
     "example": "Do you have any proof of your claim (alegação) ? | The fingerprints were solid proof of his presence at the crime scene.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Prûf"
   },
   {
     "term": "Push",
     "translation": "Empurrar | Pressionar | Forçar | Incentivar",
     "example": "He pushed (empurraram) the door open. | She pushed the button to call the elevator. | She is pushing herself (se esforçando) to study harder. | They pushed (pressionaram) him to take the job.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Pûsh"
   },
   {
     "term": "Pull",
     "translation": "Puxar | Tirar | Atrair",
     "example": "She pulled the door open. | He pulled his phone out of his pocket. | The new movie is pulling a lot of attention. Can you pull the chair closer to the table ? | The dog pulled on the leash.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Pul"
   },
   {
     "term": "Embrace",
     "translation": "Abraçar | Aceitar | Adotar",
     "example": "We should embrace new challenges with confidence. | He embraced the idea of working remotely. | We should embrace change instead of fearing it (temê-la). ",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Embrêis"
   },
   {
     "term": "Entire (adjetivo)",
     "translation": "Inteiro | Completo | Total",
     "example": "I spent the entire day studying. | She ate the entire cake by herself. | The entire team worked hard to finish the project. | This is the best movie I’ve seen in my entire life!",
     "description": "Ele é usado para indicar que algo está completo, sem partes faltando.",
-    "pronunciation": ""
+    "pronunciation": "Entáir"
   },
   {
     "term": "Make sure",
     "translation": "Certifique-se | Assegurar-se | Garantir",
     "example": "Make sure you lock the door before leaving. | I need to make sure everything is ready for the meeting. | Make sure to bring your ID to the airport. | She made sure everyone understood the instructions.",
     "description": "...que algo aconteça ou seja feito corretamente | Menos formal que o [ensure that]",
-    "pronunciation": ""
+    "pronunciation": "Meik shur"
   },
   {
     "term": "Cover (Verbo)",
     "translation": "Cobrir | Proteger | Incluir",
     "example": "I covered my mouth when I sneezed. | She covered the cake with chocolate. | I cover my bike with a tarp when it rains. | She always covers her books with plastic. | This insurance covers all medical expenses",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Kâvêr"
   },
   {
     "term": "Covered",
     "translation": "Coberto | Protegido",
     "example": "The mountains were covered in (de) snow. | Her arms were covered in (de) tattoos. | Make sure the food is covered before putting it in the fridge. | After the accident, his car was covered in dust (de poeira).",
     "description": "Pode ser usado como adjetivo para indicar que algo está coberto ou protegido por alguma coisa.",
-    "pronunciation": ""
+    "pronunciation": "Kâvêrd"
   },
   {
     "term": "Blame",
     "translation": "Culpar | Responsabilizar",
     "example": "Don’t blame me for your mistakes ! | She always blames her brother when something goes wrong. |  They blamed the weather for the flight delay. | I blamed myself for not studying enough.",
     "description": "Culpar ou responsabilizar alguém por algo ruim que aconteceu. | Pode ser [culpado] também ",
-    "pronunciation": ""
+    "pronunciation": "Blêim"
   },
   {
     "term": "Shame (Verbo)",
     "translation": "Envergonhar | Humilhar",
     "example": "They tried to shame her for her choices. | The teacher shamed him in front of the whole class. | Don’t shame people for making mistakes.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Sheim"
   },
   {
     "term": "Shame (Substantivo)",
     "translation": "Vergonha de uma pessoa ou situação | Pena | Tristeza",
     "example": "She felt deep shame for what she had done. | It’s a shame you couldn’t come to the party | There’s no shame in asking for help.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Sheim"
   },
   {
     "term": "Lazy (Adjetivo)",
     "translation": "Preguiçoso | Desleixado",
     "example": "He's too lazy to clean his room. | I had a lazy Sunday, just watching movies. | She gave a lazy excuse for being late. | Stop being lazy and do your homework !",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Lêizi"
   },
   {
     "term": "Ensure",
     "translation": "Assegurar-se | Garantir que algo aconteça",
     "example": "We need to ensure that all data is protected. | We need to ensure that everyone has access to clean water. | Please ensure that all doors are locked before leaving. | The new software update ensures better security for users.",
     "description": "Mesmo significado que [make sure], só que mais formal e usado em contextos profissionais",
-    "pronunciation": ""
+    "pronunciation": "Ênshûr"
   },
   {
     "term": "Tarp",
     "translation": "Lona",
     "example": "This tarp is yellow",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Tárp"
   },
   {
     "term": "Jealous (Adjetivo)",
     "translation": "Ciumento | Invejoso",
     "example": "She gets jealous when he talks to other girls. | He's jealous of his brother's success. | Don't be jealous! You will have your turn. | They had a jealous argument (discussão por ciúmes) last night.",
     "description": "Significa ciumento ou invejoso, dependendo do contexto.",
-    "pronunciation": ""
+    "pronunciation": "Djelâs"
   },
   {
     "term": "Treat",
-    "translation": "Tratar | Cuidar | Lidar",
-    "example": "You should treat others with respect. | The doctor treated her injury immediately. | How do you treat a cold ?",
+    "translation": "Tratar | Cuidar",
+    "example": "You should treat others with respect. | The doctor treated her injury immediately.",
     "description": "Como substantivo pode ser agrado, presente ou recompensa.",
-    "pronunciation": ""
+    "pronunciation": "Trit"
+  },
+  {
+    "term": "Whether",
+    "translation": "Se",
+    "example": "I don’t know whether I should go or stay. | She asked me whether I preferred coffee or tea. | Let me know whether you’ll come. | I’ll go to the party whether or not it rains.",
+    "description": "Geralmente é usado quando há duas ou mais alternativas. (Formal) | Em alguns casos, [whether or not] é usado para enfatizar que algo acontecerá independentemente da escolha",
+    "pronunciation": "Wéthêr"
+  },
+  {
+    "term": "Commit",
+    "translation": "Comprometer-se | Dedicar-se | Cometer (crime, erro ou ato) | Destinar",
+    "example": "She committed herself to the project. | If you want to succeed, you must commit to your goals. | He committed a serious mistake. | The company committed more resources to the project.",
+    "description": "",
+    "pronunciation": "Cômit"
+  },
+  {
+    "term": "Meanwhile",
+    "translation": "Enquanto isso | Nesse meio tempo",
+    "example": "I'll prepare dinner. Meanwhile, you can set the table. | She was waiting for the doctor. Meanwhile, she read a magazine. | He started a new job. Meanwhile, his wife was finishing her degree.",
+    "description": "É um advérbio usado para indicar que duas ações acontecem ao mesmo tempo ou que algo ocorre enquanto outra coisa está acontecendo.",
+    "pronunciation": "Mínwail"
+  },
+  {
+    "term": "Begin",
+    "translation": "Começar | Iniciar",
+    "example": "I always begin my day with a cup of coffee. | She began learning French last year. | The movie had already begun when we arrived.",
+    "description": "Begin, Began and Begun",
+    "pronunciation": "Biguin"
+  },
+  {
+    "term": "Dismiss (Verbo)",
+    "translation": "Dispensar | Descartar",
+    "example": "The manager dismissed two employees yesterday. | She dismissed his suggestion without even considering it. | The teacher dismissed the class early today.",
+    "description": "",
+    "pronunciation": "Dismês"
+  },
+  {
+    "term": "Concern",
+    "translation": "Preocupação | Interesse | Preocupar (Verbo) | Afetar (Verbo) | Dizer respeito a algo (Verbo)",
+    "example": "This issue concerns (diz respeito) everyone in the company. | Her health concerns me (me preocupa) a lot. | The rules concern (diz respeito) all employees. | There is growing concern (preocupação) about climate change. | Education should be a bigger concern (preocupação) for the government.",
+    "description": "",
+    "pronunciation": "Kânsérn"
+  },
+  {
+    "term": "Issue",
+    "translation": "Problema (Subs) | Questão (Subs) | Emitir (Verbo) | Publicar (Verbo)",
+    "example": "This is a serious issue that needs to be solved. | The article discusses social (questões sociais) issues. | There was an issue with my internet connection. | The government will issue (emitirá) new ID cards next year. | The bank issued (emitiu) a new credit card for me. | ",
+    "description": "",
+    "pronunciation": "Íshiu"
+  },
+  {
+    "term": "Due",
+    "translation": "Devido a | Previsto para",
+    "example": "The flight was delayed due to bad weather. | She was absent (ausente) due to illness (doença).",
+    "description": "",
+    "pronunciation": "Diu"
+  },
+  {
+    "term": "Handsome",
+    "translation": "Bonito | Atraente | Generoso",
+    "example": "He is a very handsome man. | Her brother is tall, strong, and handsome. | That’s a handsome house you have! | He received a handsome (generosa) reward for his work. | She donated a handsome amount to charity (caridade).",
+    "description": "Usado para descrever um homem de aparência agradável e charmosa.",
+    "pronunciation": "Rêndsãm"
+  },
+  {
+    "term": "Despite",
+    "translation": "Apesar de",
+    "example": "Despite the rain, we went to the park. | She passed the test despite feeling nervous. | Despite his efforts, he couldn't finish the project on time. | Despite trying hard, he failed the exam.",
+    "description": "É usado para indicar que algo aconteceu apesar de outra coisa, sugerindo um contraste.",
+    "pronunciation": "Dispáit"
+  },
+  {
+    "term": "Even though",
+    "translation": "Apesar de que | Embora",
+    "example": "Even though it was raining, we went for a walk. | She smiled even though she was feeling sad. | Even though I tried my best, I didn't win the competition. | He went to the party even though he was tired. | Even though the movie was long, I enjoyed it.",
+    "description": "É usado para expressar uma ideia de contraste, geralmente introduzindo uma condição que não impede que a ação principal aconteça.",
+    "pronunciation": "Ívãn ðo"
+  },
+  {
+    "term": "However",
+    "translation": "No entanto | Contudo",
+    "example": "I wanted to go to the park; however (no entanto), it started raining. | The movie was very long. However, it was interesting. | I studied a lot. However, I didn't pass the exam.",
+    "description": "É comumente usado para mostrar uma contradição ou oposição em relação ao que foi dito anteriormente.",
+    "pronunciation": "Ráuévêr"
+  },
+  {
+    "term": "Wise",
+    "translation": "Sábio",
+    "example": "My grandmother is very wise. She always gives good advice. | It was a wise decision to save money for the future.",
+    "description": "",
+    "pronunciation": "Wáiz"
+  },
+  {
+    "term": "Behave",
+    "translation": "Comportar-se (Verbo)",
+    "example": "You need to behave yourself in class. | The children were told to behave during the party. | He didn't behave well at the meeting. | Please behave! | She behaved well at the party. | She always behaves politely with others.",
+    "description": "É usado para descrever a maneira como alguém age ou se comporta, especialmente em termos de boas maneiras, disciplina ou respeito.",
+    "pronunciation": "Birêiv"
+  },
+  {
+    "term": "Donate",
+    "translation": "Doar",
+    "example": "",
+    "description": "Passado [donated]",
+    "pronunciation": "Dôunêit"
+  },
+  {
+    "term": "Advice",
+    "translation": "Conselho",
+    "example": "My grandmother is very wise. She always gives good advice.",
+    "description": "",
+    "pronunciation": "Ádvais"
+  },
+  {
+    "term": "Whetever it takes",
+    "translation": "O que for preciso",
+    "example": "I'll do whatever it takes to finish this project on time. | He promised to support her (apoiá-la), no matter whatever it takes. | I'm going to do whatever it takes to help you.",
+    "description": "",
+    "pronunciation": "Ué-té-vãr it teiks"
+  },
+  {
+    "term": "How long does it take... ?",
+    "translation": "Quanto tempo demora...?",
+    "example": "How long does it take to learn english ? | How long does it take to get to Rio ?",
+    "description": "",
+    "pronunciation": "Ráu long dâs it tei"
   }
 ]
