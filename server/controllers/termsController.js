@@ -48,3 +48,26 @@ export const store = async (event) => {
     throw createError({ statusCode: 500, message: 'Erro ao adicionar termo' })
   }
 }
+
+export const destroy = async (term) => {
+  try {
+    const data = await fs.readFile(filePath, 'utf-8')
+    let terms = JSON.parse(data)
+
+    const index = terms.findIndex(t => t.term.toLowerCase() === term.toLowerCase())
+
+    if (index === -1) {
+      throw createError({ statusCode: 404, message: 'Termo não encontrado para exclusão' })
+    }
+
+    // Remove o termo
+    terms.splice(index, 1)
+
+    // Atualiza o arquivo JSON
+    await fs.writeFile(filePath, JSON.stringify(terms, null, 2), 'utf-8')
+
+    return { message: 'Termo removido com sucesso!' }
+  } catch (error) {
+    throw createError({ statusCode: 500, message: 'Erro ao excluir termo' })
+  }
+}

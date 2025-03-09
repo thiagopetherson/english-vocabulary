@@ -80,12 +80,12 @@ const loading = ref(false)
 
 const addTerm = async () => {
   if (!newTerm.value.term || !newTerm.value.translation) {
-    $toast.warning('O termo e a tradução são obrigatórios!')
+    $toast.warning('The term and translation are required!')
     return
   }
 
   if (password.value !== 'ab34') {
-    $toast.error('Senha incorreta!')
+    $toast.error('Incorrect password!')
     return
   }
 
@@ -95,7 +95,7 @@ const addTerm = async () => {
   const checkResponse = await useFetch(`/api/terms?term=${newTerm.value.term}`)
 
   if (checkResponse.data.value) {
-    $toast.warning('Este termo já existe no dicionário!')
+    $toast.warning('This term already exists in the list!')
     loading.value = false
     return
   }
@@ -110,12 +110,12 @@ const addTerm = async () => {
   loading.value = false
 
   if (response.error.value) {
-    $toast.error('Erro ao adicionar termo!')
+    $toast.error('Error adding term!')
     return
   }
 
   newTerm.value = { term: '', translation: '', example: '', description: '', pronunciation: '' }
   password.value = ''
-  $toast.success('Termo adicionado com sucesso!')
+  $toast.success('Term added successfully!')
 }
 </script>

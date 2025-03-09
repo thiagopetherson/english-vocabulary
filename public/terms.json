@@ -145,7 +145,7 @@
     "example": "",
     "description": "",
     "pronunciation": "Tchu rév fãn"
-  },  
+  },
   {
     "term": "Explored",
     "translation": "Explorado",
@@ -376,7 +376,7 @@
     "example": "I didn't notice you were here. | Did you notice the new painting on the wall ? | She received a notice about the meeting.",
     "description": "",
     "pronunciation": "Nôutis"
-  },  
+  },
   {
     "term": "Bake",
     "translation": "Assar",
@@ -1043,13 +1043,6 @@
     "pronunciation": ""
   },
   {
-    "term": "Pillow",
-    "translation": "Travesseiro",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
-  },
-  {
     "term": "Customers",
     "translation": "Clientes",
     "example": "",
@@ -1223,7 +1216,7 @@
     "example": "",
     "description": "",
     "pronunciation": ""
-  },  
+  },
   {
     "term": "By the way",
     "translation": "A própósito | Falando nisso | Aliás",
@@ -1908,105 +1901,105 @@
     "translation": "Curar | Cicatrizar | Recuperar",
     "example": "Time will heal your wounds (feridas). | His broken leg took months to heal. | She needed time to heal after the accident.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Ríl"
   },
   {
     "term": "Silly",
     "translation": "Bobo | Tolo | Sem sentido",
     "example": "Don't be so silly! | She told a silly joke that made everyone laugh. | I made a silly mistake on the test. |  That movie was so silly (sem sentido), but I enjoyed it.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Síli"
   },
   {
     "term": "Overthinking",
     "translation": "Pensar demais | Pensar excessivamente | Procupação excessiva",
     "example": "Stop overthinking and just make a decision. | Overthinking can make simple problems seem much bigger. | She spent the whole night overthinking what he said. | Overthinking often leads to unnecessary stress.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Ôvêrthínking"
   },
   {
     "term": "Overanalyzing",
     "translation": "Analisar demais | Analisar excessivamente",
     "example": "Stop overanalyzing every little detail. | He tends to overanalyze social situations and gets nervous. | She spent hours overanalyzing his text message.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Ôvêrânáláizin"
   },
   {
     "term": "Actually",
     "translation": "Na verdade",
     "example": "I thought the movie would be boring, but actually, it was really good. | He looks serious, but he’s actually very funny. | I don’t actually like coffee, I just drink it for the caffeine. | Did you actually read the entire book?",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Áktchuâli"
   },
   {
     "term": "Wrap",
     "translation": "Embrulhar | Envolver | Encerrar",
     "example": "She wrapped the gift in colorful paper. | Let’s wrap up the meeting and go to lunch. | He wrapped his arms around her.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Ráp"
   },
   {
     "term": "Tend (Verbo)",
     "translation": "Tender",
     "example": "",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Ténd"
   },
   {
     "term": "Every",
     "translation": "Cada | Todo",
     "example": "She reads a book every night. | Every student must complete the test. | I go to the gym every Monday and Wednesday. | Every detail matters in this project.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Évri"
   },
   {
     "term": "Matter",
     "translation": "Importar | Assunto | Matéria",
     "example": "It doesn’t matter to me. | Health matters more than. | This is a serious matter. | Water is a liquid matter (matéria líquida).",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Méter"
   },
   {
     "term": "Mindset",
     "translation": "Mentalidade | Modo de pensar",
     "example": "You need to have a growth mindset (mentalidade de crescrimento) to keep improving. | His positive mindset helped him overcome (superar) many difficulties. Changing your mindset can change your life. | She has a strong business mindset.",
     "description": "Refere-se à forma como uma pessoa encara desafios, oportunidades e a vida em geral.",
-    "pronunciation": ""
+    "pronunciation": "Máind-sét"
   },
   {
     "term": "Overcome",
     "translation": "Superar | Vencer algo difícil",
     "example": "He managed to overcome his fear of public speaking. | With determination, she overcame all the difficulties. | They overcame the crisis with teamwork and perseverance.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Ôvêrkâm"
   },
   {
     "term": "Amount",
     "translation": "Quantidade | Montante",
     "example": "He spent a large amount of money on his new car. | You need a small amount of sugar for this recipe. | The amount of time we have is limited. | She was surprised by the amount of work she had to do.",
     "description": "Geralmente usado para algo incontável, como dinheiro, tempo ou esforço.",
-    "pronunciation": ""
+    "pronunciation": "Amáunt"
   },
   {
     "term": "Aim",
     "translation": "Mirar | Apontar | Planejar",
     "example": "I aim to improve my English. | They are aiming for first place in the competition. | The company aims to provide high-quality service.",
     "description": "Passado (aimed)",
-    "pronunciation": ""
+    "pronunciation": "Êim"
   },
   {
     "term": "Shifty",
     "translation": "Desonesto | Suspeito | Evasivo",
     "example": "He gave me a shifty look (olhar suspeito). | I don’t trust him, he seems shifty.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Shífti"
   },
   {
     "term": "Shift",
     "translation": "Mudar | Deslocar | Turno (substântivo)",
     "example": "We need to shift (mudar) our strategy. | She works the night shift.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Shíft"
   },
   {
     "term": "Proof (substântivo)",

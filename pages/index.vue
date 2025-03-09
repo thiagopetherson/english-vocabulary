@@ -7,7 +7,7 @@ const fetchTerms = async () => {
   const { data, error } = await useFetch('/api/terms', { cache: 'no-cache' })
 
   if (error.value) {
-    console.error('Erro ao carregar os termos:', error.value)
+    console.error('Error loading terms:', error.value)
     return
   }
 
