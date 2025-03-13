@@ -2238,5 +2238,103 @@
     "example": "How long does it take to learn english ? | How long does it take to get to Rio ?",
     "description": "",
     "pronunciation": "Ráu long dâs it tei"
+  },
+  {
+    "term": "Relieved",
+    "translation": "Aliviado",
+    "example": "I felt relieved after hearing the good news. | She was relieved to find her keys. | They seemed relieved when the meeting ended.",
+    "description": "",
+    "pronunciation": "Rilívd"
+  },
+  {
+    "term": "Snooze",
+    "translation": "Cochilar | Tirar uma soneca",
+    "example": "I need to snooze for a few minutes. | She took a quick snooze after lunch.",
+    "description": "",
+    "pronunciation": "Snûz"
+  },
+  {
+    "term": "Hit",
+    "translation": "Bater | Acertar | Atingir",
+    "example": "He hit the ball very hard. | I accidentally hit my head on the door. | We hit our sales target (meta de vendas) this month. | Hit the button to start the game. | The song is a big hit",
+    "description": "Substântivo [acerto, sucesso, pancada] | Como verbo (presente, passado e particípio são iguais): Hit, Hit, Hit",
+    "pronunciation": "Rít"
+  },
+  {
+    "term": "Unintentionally",
+    "translation": "Involuntariamente | Sem querer | Acidentalmente",
+    "example": "I unintentionally hurt his feelings. | She unintentionally deleted the file. | He made an unintentional mistake during the meeting.",
+    "description": "",
+    "pronunciation": "Anintênchânali"
+  },
+  {
+    "term": "Face (Verbo)",
+    "translation": "Encarar | Enfrentar",
+    "example": "You have to face your fears. | She faced many challenges in her career. | We are facing a serious problem.",
+    "description": "",
+    "pronunciation": "Fêis"
+  },
+  {
+    "term": "Pour",
+    "translation": "Derramar | Servir (líquido) | Despejar",
+    "example": "She poured water into the glass. | Rain poured down all night.",
+    "description": "",
+    "pronunciation": "Pôr"
+  },
+  {
+    "term": "Wave",
+    "translation": "Acenar",
+    "example": "She waved goodbye to her friends as they left. | He waved his hand to get her attention. | She is waving at us from across the street.",
+    "description": "",
+    "pronunciation": "Uêiv"
+  },
+  {
+    "term": "Heavy",
+    "translation": "Pesado | Intenso",
+    "example": "The box is very heavy. | It was a heavy decision to make. | The heavy rain caused flooding. | There was a heavy fog this morning.",
+    "description": "Adjetivo",
+    "pronunciation": "Révi"
+  },
+  {
+    "term": "Shock",
+    "translation": "Ficar surpreso, chocado ou abalado",
+    "example": "I was shocked when I heard the news. | She was shocked by the sudden change in plans. | They were shocked by the accident. | The news left me completely shocked.",
+    "description": "",
+    "pronunciation": "Shók"
+  },
+  {
+    "term": "Bullshit",
+    "translation": "Uma expressão informal e vulgar usada para descrever algo que é falso, enganoso ou sem sentido",
+    "example": "He told me that story, but I think it's just bullshit. | This excuse is total bullshit! | You really believe that? That's pure bullshit.",
+    "description": "",
+    "pronunciation": "Bûlshít"
+  },
+  {
+    "term": "Regularly",
+    "translation": "Regularmente",
+    "example": "",
+    "description": "",
+    "pronunciation": "Réguilârli"
+  },
+  {
+    "term": "Dive",
+    "translation": "Mergulhar | Mergulhar de cabeça em algo (contexto figurativo)",
+    "example": "He dove into the pool to cool off. | Let's dive into this problem and find a solution. | She decided to dive into the new project without hesitation.",
+    "description": "Passado [dove]",
+    "pronunciation": "Daiv"
+  },
+  {
+    "term": "Spell",
+    "translation": "Soletrar",
+    "example": "Can you spell your name for me ?",
+    "description": "",
+    "pronunciation": "Spél"
+  }, 
+  {
+    "term": "Tricky",
+    "translation": "É um adjetivo usado para descrever algo que é complicado, difícil ou envolve desafios.",
+    "example": "The test was tricky, but I managed to finish it. | It was a tricky situation, and I wasn't sure what to do. | The second problem was trickier (comparativo) than the first. | This is the trickiest (superlativo) part of the project.",
+    "description": "",
+    "pronunciation": "Tríqui"
   }
 ]
