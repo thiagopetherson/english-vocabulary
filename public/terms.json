@@ -2024,7 +2024,7 @@
   },
   {
     "term": "Embrace",
-    "translation": "Abraçar | Aceitar | Adotar",
+    "translation": "Adotar | Aderir",
     "example": "We should embrace new challenges with confidence. | He embraced the idea of working remotely. | We should embrace change instead of fearing it (temê-la). ",
     "description": "",
     "pronunciation": "Embrêis"
@@ -2192,7 +2192,7 @@
   },
   {
     "term": "However",
-    "translation": "No entanto | Contudo",
+    "translation": "Porém | No entanto | Contudo",
     "example": "I wanted to go to the park; however (no entanto), it started raining. | The movie was very long. However, it was interesting. | I studied a lot. However, I didn't pass the exam.",
     "description": "É comumente usado para mostrar uma contradição ou oposição em relação ao que foi dito anteriormente.",
     "pronunciation": "Ráuévêr"
@@ -2336,5 +2336,110 @@
     "example": "The test was tricky, but I managed to finish it. | It was a tricky situation, and I wasn't sure what to do. | The second problem was trickier (comparativo) than the first. | This is the trickiest (superlativo) part of the project.",
     "description": "",
     "pronunciation": "Tríqui"
+  },
+  {
+    "term": "Schedule",
+    "translation": "Agendar | Marcar",
+    "example": "I scheduled a meeting for Friday. (Verb)| The event is scheduled to start at 3 PM. (Verb) | My schedule is full today. (Subs) | What’s your schedule for tomorrow ? (Subs)",
+    "description": "Como substântivo [Significa agenda, cronograma, programação, ou horário.]",
+    "pronunciation": "Skédjiul"
+  },
+  {
+    "term": "Glance",
+    "translation": "Olhar rapidamente para algo ou alguém.",
+    "example": "She glanced at her watch and realized she was late. | He glanced around the room but didn’t see anyone he knew. | I glanced out the window and saw it was raining.",
+    "description": "",
+    "pronunciation": "Glâns"
+  },
+  {
+    "term": "Uneasy",
+    "translation": "Inquieto | Desconfortável | Tenso",
+    "example": "I feel uneasy about this decision. | He gave her an uneasy smyle.",
+    "description": "Adjective",
+    "pronunciation": "Anízi"
+  },
+  {
+    "term": "Sit",
+    "translation": "Sentar | Estar sentado",
+    "example": "Please, sit down. | She sat on the chair. | They are sitting on the couch. | Can I sit here ?",
+    "description": "Sit - Sat - Sat",
+    "pronunciation": "Sít"
+  },
+  {
+    "term": "Was gone",
+    "translation": "Indica que algo ou alguém não estava mais presente, já tinha partido ou desaparecido.",
+    "example": "When I arrived, she was gone. | The money was gone when I checked my wallet. | By the time we got there, the bus was gone.",
+    "description": "Was gone é uma expressão em inglês que usa o passado do verbo [to go] no particípio (gone)",
+    "pronunciation": "Uóz gôn"
+  },
+  {
+    "term": "Had gone",
+    "translation": "Tinha ido",
+    "example": "I had already gone when my girlfriend called me. | She had gone to work before it started raining. | They had gone home when we called.",
+    "description": "",
+    "pronunciation": "Réad gôn"
+  },
+  {
+    "term": "Stare",
+    "translation": "Olhar fixamente ou encarar algo ou alguém por um longo período de tempo, geralmente de forma intensa.",
+    "example": "She stared at the painting for a long time. | He stared at her without saying a word. | Don't stare at people, it's impolite.",
+    "description": "",
+    "pronunciation": "Stér"
+  },
+  {
+    "term": "Impolite",
+    "translation": "Indelicado | Incortês",
+    "example": "",
+    "description": "[Impolitely]",
+    "pronunciation": "Ímpoláit"
+  },
+  {
+    "term": "Polite",
+    "translation": "Educado | Cortês",
+    "example": "",
+    "description": "[Politely]",
+    "pronunciation": "Póláit"
+  },
+  {
+    "term": "Hesitate",
+    "translation": "Hesitar",
+    "example": "",
+    "description": "",
+    "pronunciation": "Rêzîtêit"
+  },
+  {
+    "term": "Gesture",
+    "translation": "É um [Gesto] ou [Movimento] feito com as mãos",
+    "example": "She made a gesture of agreement by nodding her head. | He gave a welcoming gesture to the guests. | The teacher used a gesture to tell the students to be quiet. | When he saw her, he gestured to her.",
+    "description": "Geralmente para expressar uma ideia, emoção ou comando sem usar palavras. | O verbo [Gesture] também pode ser usado para significar fazer um gesto (gesticular).",
+    "pronunciation": "Jestchêr"
+  },
+  {
+    "term": "Relief",
+    "translation": "Alívio ou sensação de tranquilidade",
+    "example": "After the test results came back negative, she felt a great sense of relief. | He sighed with relief when he found his lost wallet.",
+    "description": "",
+    "pronunciation": "Rilíf"
+  },
+  {
+    "term": "Surround",
+    "translation": "Cercar | Envolver algo ou alguém de todos os lados",
+    "example": "The police surrounded the building to catch the criminal. | We were surrounded by beautiful mountains during our hike. | The city is surrounded by a large forest.",
+    "description": "",
+    "pronunciation": "Surráund"
+  },
+  {
+    "term": "Drop",
+    "translation": "Deixar cair | Cair | Abandonar algo",
+    "example": "I accidentally dropped my phone. | The temperature will drop overnight (durante a noite).",
+    "description": "",
+    "pronunciation": "Dróp"
+  },
+  {
+    "term": "Clap",
+    "translation": "Bater palmas ou aplaudir | Dar um tapinha ou bater algo",
+    "example": "The audience clapped after the performance. | She clapped her hands to get everyone's attention. | We clapped for the team after they won the match. | He clapped his friend on the back to congratulate him.",
+    "description": "Passado [clapped]",
+    "pronunciation": "Cláp"
   }
 ]
