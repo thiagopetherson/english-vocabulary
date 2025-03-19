@@ -1235,7 +1235,7 @@
     "term": "Tough",
     "translation": "Difícil | Resistente | Duro",
     "example": "This test was really tough (difícil). | She is a tough (forte) woman who never gives up. | The steak was too tough (duro) to eat.",
-    "description": "",
+    "description": "Tâf",
     "pronunciation": ""
   },
   {
@@ -1286,14 +1286,7 @@
     "example": "Please fill out the form with your personal details. | She filled the glass with water. | The manager asked me to fill in (substituí-lo) for him during his absence.",
     "description": "Substituir alguém temporariamente [fill in]. Preencher formulários, documentos ... [fill out]",
     "pronunciation": ""
-  },
-  {
-    "term": "Laughter",
-    "translation": "Riso",
-    "example": "Her laughter was contagious, and everyone in the room started laughing. | We could hear the laughter of children playing outside. | He couldn't hold back (segurar) his laughter when he heard the joke.",
-    "description": "É o som ou expressão de alegria ou diversão",
-    "pronunciation": ""
-  },
+  },  
   {
     "term": "Expose",
     "translation": "Expor | Revelar",
@@ -2448,5 +2441,96 @@
     "example": "I don't like these guys, but I conceded and bought their course. | He conceded access rights to the website for all employees. | (After the long negotiation, the company finally conceded a salary increase to the employees.",
     "description": "Passado [conceded]",
     "pronunciation": "Kônssíd"
+  },
+  {
+    "term": "Loud",
+    "translation": "Alto | Barulhento",
+    "example": "The music is too loud. | He spoke in a loud voice. | Don't be so loud!",
+    "description": "Usado para descrever sons ou vozes com barulhos elevados",
+    "pronunciation": ""
+  },
+  {
+    "term": "Laugh",
+    "translation": "Rir",
+    "example": "I always laugh at his jokes. | She laughed out loud. | His laugh (risada) is contagious. (Subs)",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Unsure",
+    "translation": "Inseguro",
+    "example": "I’m unsure about the answer. | She was unsure of what to say. | He looked unsure of himself.",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Mess",
+    "translation": "Bagunça | Desordem | Confusão",
+    "example": "My room is a mess. | After the party, the kitchen was a complete mess. | The situation turned into a mess quickly.",
+    "description": "Pode ser usada para falar de lugares desorganizados, situações complicadas ou até problemas pessoais.",
+    "pronunciation": ""
+  },
+  {
+    "term": "Gather",
+    "translation": "Juntar | Reunir | Coletar",
+    "example": "She gathered flowers in the garden. | He gathered information for the report. | They gathered (se reuniram) for dinner.. | I gather (eu deduzo) that you’re not happy with the decision.",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Touch",
+    "translation": "Tocar | Encostar",
+    "example": "Please don't touch the screen. | She touched his arm gently. | Try not to touch anything in the museum. | He has a magic touch with animals. (Subs)",
+    "description": "Pode servir também como substântivo",
+    "pronunciation": ""
+  },
+  {
+    "term": "Miracle",
+    "translation": "Milagre",
+    "example": "",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Sly",
+    "translation": "Astuto (no mau sentido)",
+    "example": "He gave me a sly smile when he told the joke. | She has a sly way of getting what she wants. | The sly fox tricked the rabbit into falling into the trap.",
+    "description": "Usado para descrever alguém que age de maneira dissimulada, secreta ou astuta, geralmente com intenções de enganar.",
+    "pronunciation": ""
+  },
+  {
+    "term": "Scam (Subs)",
+    "translation": "Golpe | Fraude | Enganação",
+    "example": "They fell for a scam and lost all their money. | This is a scam website; don’t trust it.",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Scam (Verb)",
+    "translation": "Vítima de golpe ou fraude | Enganado ou Fraudado",
+    "example": "She was scammed by a fake lottery email. | I can’t believe I was scammed out of (e perdi) my money!",
+    "description": "",
+    "pronunciation": ""
+  },
+  {
+    "term": "Waste",
+    "translation": "Desperdiçar (Verbo) | Usar algo de maneira ineficiente (Verbo) | Desperdício (Subs)",
+    "example": "Don't waste your food. | I wasted my time watching that movie. | There's a lot of waste (desperdício) in the kitchen. (subs) | he company is focused on reducing waste. (subs)",
+    "description": "Pode ser usado como substântivo",
+    "pronunciation": ""
+  },
+  {
+    "term": "Purchase",
+    "translation": "Comprar | Aquisição de algo",
+    "example": "I want to purchase a new laptop. | They purchased tickets for the concert. | The purchase of the house took several months. (subs) | I made an online purchase last night. (subs)",
+    "description": "Também funciona como substantivo. | É mais formal que [buy], mas significam a mesma coisa",
+    "pronunciation": ""
+  },
+  {
+    "term": "Smiley",
+    "translation": "Espressão facial de sorriso",
+    "example": "She had a big smiley face when she saw the gift. | I sent him a smiley face in the message.",
+    "description": "É a expressão, não necessariamente o ato de sorrir. Refere-se ao sorriso físico ou à imagem de um sorriso.",
+    "pronunciation": ""
   }
 ]
