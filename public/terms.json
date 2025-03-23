@@ -452,91 +452,91 @@
     "translation": "Eu cresci",
     "example": "",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Ái grû áp"
   },
   {
     "term": "To be born",
     "translation": "Nascer",
     "example": "",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Tú bî bó"
   },
   {
     "term": "I was born",
     "translation": "Eu nasci",
     "example": "",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Ái wôz bórn"
   },
   {
     "term": "He will be born",
     "translation": "Ele nascerá",
     "example": "",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Rí wîl bî bór"
   },
   {
     "term": "I wake up",
     "translation": "Eu acordo",
     "example": "",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Ái wêik áp"
   },
   {
     "term": "I get up",
     "translation": "Eu levanto",
     "example": "",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Ái guét áp"
   },
   {
     "term": "Towards",
     "translation": "Em direção a... | para...",
     "example": "She walked towards the door. | His attitude towards me has changed. | The car was heading towards the city.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Tûórdz"
   },
   {
     "term": "Moreover",
     "translation": "Além do mais | Além disso",
     "example": "She is a great singer. Moreover (além disso), she is a talented dancer. | He project is delayed, and moreover, we are facing (enfrentando) budget issues.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Môróvêr"
   },
   {
     "term": "Recognize",
     "translation": "Reconhecer (admitir)",
     "example": "I didn't recognize her at first. | Can you recognize this place ? | He recognized the song as soon as (assim que) it started playing.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Régognáiz"
   },
   {
     "term": "Strive",
     "translation": "Esforçar-se | Lutar por algo com dedicação",
     "example": "",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Straiv"
   },
   {
     "term": "Goodness",
     "translation": "Bondade",
     "example": "",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Gúdness"
   },
   {
     "term": "Truthful",
     "translation": "Verdadeiro | Honesto",
     "example": "",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Trúzful"
   },
   {
     "term": "Own up",
     "translation": "Assumir | Admitir",
     "example": "",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Ôun âp"
   },
   {
     "term": "Align",
@@ -1526,7 +1526,7 @@
     "pronunciation": ""
   },
   {
-    "term": "Grow",
+    "term": "Glow",
     "translation": "Brilhar | Reluzir | Irradiar",
     "example": "The star was glowing. | The fireflies (vagalumes) glowed in the dark. | Her face glowed with happiness. | The city skyline (horizonte da cidade) glowed under the sunset (por do sol).",
     "description": "",
@@ -2447,90 +2447,146 @@
     "translation": "Alto | Barulhento",
     "example": "The music is too loud. | He spoke in a loud voice. | Don't be so loud!",
     "description": "Usado para descrever sons ou vozes com barulhos elevados",
-    "pronunciation": ""
+    "pronunciation": "Laud"
   },
   {
     "term": "Laugh",
     "translation": "Rir",
     "example": "I always laugh at his jokes. | She laughed out loud. | His laugh (risada) is contagious. (Subs)",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Láf"
   },
   {
     "term": "Unsure",
     "translation": "Inseguro",
     "example": "I’m unsure about the answer. | She was unsure of what to say. | He looked unsure of himself.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Anshôr"
   },
   {
     "term": "Mess",
     "translation": "Bagunça | Desordem | Confusão",
     "example": "My room is a mess. | After the party, the kitchen was a complete mess. | The situation turned into a mess quickly.",
     "description": "Pode ser usada para falar de lugares desorganizados, situações complicadas ou até problemas pessoais.",
-    "pronunciation": ""
+    "pronunciation": "Més"
   },
   {
     "term": "Gather",
     "translation": "Juntar | Reunir | Coletar",
     "example": "She gathered flowers in the garden. | He gathered information for the report. | They gathered (se reuniram) for dinner.. | I gather (eu deduzo) that you’re not happy with the decision.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Guéder"
   },
   {
     "term": "Touch",
     "translation": "Tocar | Encostar",
     "example": "Please don't touch the screen. | She touched his arm gently. | Try not to touch anything in the museum. | He has a magic touch with animals. (Subs)",
     "description": "Pode servir também como substântivo",
-    "pronunciation": ""
+    "pronunciation": "Tâtch"
   },
   {
     "term": "Miracle",
     "translation": "Milagre",
     "example": "",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Mírâkel"
   },
   {
     "term": "Sly",
     "translation": "Astuto (no mau sentido)",
     "example": "He gave me a sly smile when he told the joke. | She has a sly way of getting what she wants. | The sly fox tricked the rabbit into falling into the trap.",
     "description": "Usado para descrever alguém que age de maneira dissimulada, secreta ou astuta, geralmente com intenções de enganar.",
-    "pronunciation": ""
+    "pronunciation": "Slái"
   },
   {
     "term": "Scam (Subs)",
     "translation": "Golpe | Fraude | Enganação",
     "example": "They fell for a scam and lost all their money. | This is a scam website; don’t trust it.",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Ském"
   },
   {
     "term": "Scam (Verb)",
     "translation": "Vítima de golpe ou fraude | Enganado ou Fraudado",
     "example": "She was scammed by a fake lottery email. | I can’t believe I was scammed out of (e perdi) my money!",
     "description": "",
-    "pronunciation": ""
+    "pronunciation": "Ském | Skémid (Passado)."
   },
   {
     "term": "Waste",
     "translation": "Desperdiçar (Verbo) | Usar algo de maneira ineficiente (Verbo) | Desperdício (Subs)",
     "example": "Don't waste your food. | I wasted my time watching that movie. | There's a lot of waste (desperdício) in the kitchen. (subs) | he company is focused on reducing waste. (subs)",
     "description": "Pode ser usado como substântivo",
-    "pronunciation": ""
+    "pronunciation": "Wêist"
   },
   {
     "term": "Purchase",
     "translation": "Comprar | Aquisição de algo",
     "example": "I want to purchase a new laptop. | They purchased tickets for the concert. | The purchase of the house took several months. (subs) | I made an online purchase last night. (subs)",
     "description": "Também funciona como substantivo. | É mais formal que [buy], mas significam a mesma coisa",
-    "pronunciation": ""
+    "pronunciation": "Pârchês"
   },
   {
     "term": "Smiley",
     "translation": "Espressão facial de sorriso",
     "example": "She had a big smiley face when she saw the gift. | I sent him a smiley face in the message.",
     "description": "É a expressão, não necessariamente o ato de sorrir. Refere-se ao sorriso físico ou à imagem de um sorriso.",
-    "pronunciation": ""
+    "pronunciation": "Smáilí"
+  },
+  {
+    "term": "Young couple",
+    "translation": "Jovem casal",
+    "example": "",
+    "description": "",
+    "pronunciation": "Iâng cápou"
+  },
+  {
+    "term": "Set",
+    "translation": "Colocar | Ajustar",
+    "example": "I will set the table for dinner. | She set the alarm for 7 a.m. | I bought a new set (conjunto) of knives. (subs)",
+    "description": "",
+    "pronunciation": "Sét"
+  },
+  {
+    "term": "Upset",
+    "translation": "Aborrecido (Adj) | Chateado (Adj) | Chatear (Verb) | Perturbar (Verb) | Reviravolta - Surpresa Inesperada (Subs)",
+    "example": "She was upset (chateada) after the argument. | I feel upset (chateado) about the situation. | I didn’t mean to upset (chatear) you. | The news upset (perturbou) him a lot. | It was a big upset (reviravolta) when the team lost.",
+    "description": "Pode ser adjetivo, verbo [upset - upset - upset] e substantivo. ",
+    "pronunciation": "Âpsét"
+  },
+  {
+    "term": "Handle",
+    "translation": "Manusear | Lidar",
+    "example": "I can handle this situation. | She handled the problem very well. | He knows how to handle difficult customers. | Be careful when you handle fragile objects. | This machine is easy to handle.",
+    "description": "",
+    "pronunciation": "Rêndôl"
+  },
+  {
+    "term": "Somehow",
+    "translation": "De alguma forma. | De algum jeito",
+    "example": "Somehow, we managed to finish the project on time. | I don't know how he fixed the computer, but somehow it works now. | She somehow knew I was lying. | Somehow, I need to do it by tomorrow morning. | She loves him somehow.",
+    "description": "É um advérbio usado quando você não sabe exatamente como algo aconteceu ou vai acontecer, mas aconteceu ou acontecerá.",
+    "pronunciation": "Sâmháu"
+  },
+  {
+    "term": "Inside",
+    "translation": "She is inside the house. (prep) | The inside of the box is empty. (adj)",
+    "example": "",
+    "description": "Pode ser preposição, adjetivo ou advérbio",
+    "pronunciation": "Inssáid"
+  },
+  {
+    "term": "Fix",
+    "translation": "Consertar | Corrigir | Resolver",
+    "example": "I fix computers. | I fixed my car yesterday. | Can you fix this bug ? | ",
+    "description": "",
+    "pronunciation": "Fíks"
+  },
+  {
+    "term": "Repair",
+    "translation": "Consertar | Reparar",
+    "example": "I need to repair my car. | The technician repaired the computer. | My phone is in repair. | The house needs a lot of repairs.",
+    "description": "[Repair] soa um pouco mais formal e técnico do que [Fix]",
+    "pronunciation": "Répér"
   }
 ]
