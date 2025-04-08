@@ -1055,14 +1055,7 @@
     "example": "",
     "description": "",
     "pronunciation": ""
-  },
-  {
-    "term": "Necklace",
-    "translation": "Jóia valiosa | Colar",
-    "example": "She wore a beautiful necklace for the party. | I bought a gold necklace for my mother's birthday.",
-    "description": "",
-    "pronunciation": ""
-  },
+  }, 
   {
     "term": "Put off",
     "translation": "Adiar | Desencorajar | Desmotivar",
@@ -1398,14 +1391,7 @@
     "example": "",
     "description": "",
     "pronunciation": ""
-  },
-  {
-    "term": "Wheel",
-    "translation": "Roda",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
-  },
+  },  
   {
     "term": "Stuck",
     "translation": "Preso | Emperrado | Encalhado",
@@ -1461,14 +1447,7 @@
     "example": "She jumped into the pool. | He put his keys into (dentro) his bag. | Are you going into the store now ? | He didn’t get into the university he wanted.",
     "description": "",
     "pronunciation": ""
-  },
-  {
-    "term": "Awe",
-    "translation": "Adoração | Admiração profunda | Deslumbramento | Impressionar (verbo)",
-    "example": " The sight of the mountains filled me with awe. | The children looked at the fireworks (fogos de artifício) in awe (com espanto). | The audience was in awe of the performer’s talent. | The breathtaking view awed (impressionou) everyone.",
-    "description": "A palavra [awe] é geralmente associada a coisas extraordinárias que provocam um sentimento de reverência e humildade diante de sua grandeza ou beleza. Ou como verbo [to awe] impressionar",
-    "pronunciation": ""
-  },
+  }, 
   {
     "term": "Munch",
     "translation": "Mastigar",
@@ -1643,14 +1622,7 @@
     "example": "",
     "description": "",
     "pronunciation": ""
-  },
-  {
-    "term": "How have you been ?",
-    "translation": "Como você tem estado ?",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
-  },
+  }, 
   {
     "term": "Disagree (Verbo)",
     "translation": "Discordar",
@@ -1804,14 +1776,7 @@
     "example": "I'll call you later. | See you later! | She arrived later (mais tarde) than expected. | ",
     "description": "",
     "pronunciation": ""
-  },
-  {
-    "term": "Weekday",
-    "translation": "Dias úteis da semana",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
-  },
+  },  
   {
     "term": "Borrow",
     "translation": "Pegar emprestado (por um tempo determinado)",
@@ -1825,14 +1790,7 @@
     "example": "The bank loaned me $10,000. | I took out a loan (empréstimo) to buy a car. | The student loan (empréstimo estudantil) will take years to pay off (quitar). | We got a car loan (financiamento de carro)",
     "description": "Usado mais para dinheiro e bens de alto valor",
     "pronunciation": ""
-  },
-  {
-    "term": "Myth",
-    "translation": "Mito",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
-  },
+  },  
   {
     "term": "That's all",
     "translation": "Isso é tudo | Só isso",
@@ -2021,14 +1979,7 @@
     "example": "I covered my mouth when I sneezed. | She covered the cake with chocolate. | I cover my bike with a tarp when it rains. | She always covers her books with plastic. | This insurance covers all medical expenses",
     "description": "",
     "pronunciation": "Kâvêr"
-  },
-  {
-    "term": "Covered",
-    "translation": "Coberto | Protegido",
-    "example": "The mountains were covered in (de) snow. | Her arms were covered in (de) tattoos. | Make sure the food is covered before putting it in the fridge. | After the accident, his car was covered in dust (de poeira).",
-    "description": "Pode ser usado como adjetivo para indicar que algo está coberto ou protegido por alguma coisa.",
-    "pronunciation": "Kâvêrd"
-  },
+  }, 
   {
     "term": "Blame",
     "translation": "Culpar | Responsabilizar",
@@ -2196,14 +2147,7 @@
     "example": "My grandmother is very wise. She always gives good advice.",
     "description": "",
     "pronunciation": "Ádvais"
-  },
-  {
-    "term": "Whetever it takes",
-    "translation": "O que for preciso",
-    "example": "I'll do whatever it takes to finish this project on time. | He promised to support her (apoiá-la), no matter whatever it takes. | I'm going to do whatever it takes to help you.",
-    "description": "",
-    "pronunciation": "Ué-té-vãr it teiks"
-  },
+  },  
   {
     "term": "How long does it take... ?",
     "translation": "Quanto tempo demora...?",
@@ -2217,13 +2161,6 @@
     "example": "I felt relieved after hearing the good news. | She was relieved to find her keys. | They seemed relieved when the meeting ended.",
     "description": "",
     "pronunciation": "Rilívd"
-  },
-  {
-    "term": "Snooze",
-    "translation": "Cochilar | Tirar uma soneca",
-    "example": "I need to snooze for a few minutes. | She took a quick snooze after lunch.",
-    "description": "",
-    "pronunciation": "Snûz"
   },
   {
     "term": "Hit",
@@ -2343,14 +2280,7 @@
     "example": "When I arrived, she was gone. | The money was gone when I checked my wallet. | By the time we got there, the bus was gone.",
     "description": "Was gone é uma expressão em inglês que usa o passado do verbo [to go] no particípio (gone)",
     "pronunciation": "Uóz gôn"
-  },
-  {
-    "term": "Had gone",
-    "translation": "Tinha ido",
-    "example": "I had already gone when my girlfriend called me. | She had gone to work before it started raining. | They had gone home when we called.",
-    "description": "",
-    "pronunciation": "Réad gôn"
-  },
+  },  
   {
     "term": "Stare",
     "translation": "Olhar fixamente ou encarar algo ou alguém por um longo período de tempo, geralmente de forma intensa.",
@@ -2626,7 +2556,7 @@
   },
   {
     "term": "So",
-    "translation": "Então | Por isso | Tão",
+    "translation": "Então | Por isso | Tãoy",
     "example": "The server went down, so we lost some data. | She was so tired after the presentation. | So, let’s begin the project review.",
     "description": "Pode ser usado para indicar consequência, ênfase (muito) ou para introduzir uma ideia.",
     "pronunciation": "Sou"
@@ -2644,5 +2574,40 @@
     "example": "Her belief in the team’s potential helped them succeed. | It’s important to respect different beliefs in the workplace. | The manager’s belief that everyone can improve changed the company culture.",
     "description": "Refere-se a algo que uma pessoa acredita ser verdade, seja uma ideia, opinião ou valor pessoal ou coletivo.",
     "pronunciation": "Bilíf"
-  }    
+  },
+  {
+    "term": "Complain",
+    "translation": "Reclamar | Queixar-se",
+    "example": "Can't complain. | He’s always complaining about the workload (carga de trabalho). | If you have a problem, you should complain to HR.",
+    "description": "Usado para expressar insatisfação com algo. Pode se referir a situações pessoais, profissionais ou cotidianas.",
+    "pronunciation": "Kâmplêin"
+  },
+  {
+    "term": "Someone else",
+    "translation": "Outra pessoa | Alguém mais",
+    "example": "Can someone else handle this task? | I thought you were someone else. | Someone else will join the meeting later.",
+    "description": "Expressão usada para se referir a uma pessoa diferente da que está sendo mencionada ou com quem se está falando.",
+    "pronunciation": "Sâmwân éls"
+  },  
+  {
+    "term": "Whatever",
+    "translation": "O que quer que | Qualquer que seja | Tanto faz",
+    "example": "Whetever! (tanto faz) | You can choose whatever you want. | Whatever decision you make, I’ll support you. | We’ll do whatever is necessary to finish this project.",
+    "description": "Usado para indicar que qualquer opção ou escolha é válida. Também pode ser usado para enfatizar indiferença, dependendo do tom.",
+    "pronunciation": "Uâtevêr"
+  },
+  {
+    "term": "Whatever it takes",
+    "translation": "O que for preciso | O que for necessário",
+    "example": "We’ll do whatever it takes to meet the deadline. | She’s willing (disposta) to do whatever it takes to get the promotion. | Our team is ready to make it happen, whatever it takes.",
+    "description": "Expressão usada para indicar que a pessoa está disposta a fazer tudo o que for necessário para alcançar um objetivo.",
+    "pronunciation": "Uâtevêr it têiks"
+  },
+  {
+    "term": "As soon as",
+    "translation": "Assim que | Logo que",
+    "example": "I'll send the report as soon as I finish it. | Please call me as soon as you arrive. | As soon as the meeting ends, let’s discuss the next steps.",
+    "description": "Expressão usada para indicar que uma ação acontecerá imediatamente depois de outra.",
+    "pronunciation": "Éz sún éz"
+  }  
 ]
