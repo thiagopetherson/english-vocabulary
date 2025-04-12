@@ -2367,11 +2367,16 @@
   },
   {
     "term": "Unsure",
-    "translation": "Inseguro",
-    "example": "I’m unsure about the answer. | She was unsure of what to say. | He looked unsure of himself.",
-    "description": "",
-    "pronunciation": "Anshôr"
+    "translation": "Incerto, em dúvida",
+    "example": "I'm unsure about what to do next.",
+    "description": "Usado quando alguém não tem certeza sobre algo, como uma decisão, situação ou informação. Refere-se à dúvida ou hesitação."
   },
+  {
+    "term": "Insecure",
+    "translation": "Inseguro, sem confiança",
+    "example": "He feels insecure about his English pronunciation.",
+    "description": "Usado quando alguém sente falta de confiança, geralmente relacionado à autoestima, aparência ou habilidades. Tem um tom mais emocional."
+  },  
   {
     "term": "Mess",
     "translation": "Bagunça | Desordem | Confusão",
