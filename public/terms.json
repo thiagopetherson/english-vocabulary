@@ -2434,12 +2434,12 @@
     "pronunciation": "Pârchês"
   },
   {
-    "term": "Smiley",
-    "translation": "Espressão facial de sorriso",
-    "example": "She had a big smiley face when she saw the gift. | I sent him a smiley face in the message.",
-    "description": "É a expressão, não necessariamente o ato de sorrir. Refere-se ao sorriso físico ou à imagem de um sorriso.",
-    "pronunciation": "Smáilí"
-  },
+    "term": "Smile",
+    "translation": "Sorrir (Verbo) | Sorriso (Subs)",
+    "example": "She smiled at me. (verbo) | He always smiles when he's nervous. (verbo) | Her smile is beautiful. (subs) | I love your smile. (subs)",
+    "description": "Pode ser usado como verbo ou substantivo, dependendo do contexto.",
+    "pronunciation": "Smaiol"
+  },  
   {
     "term": "Young couple",
     "translation": "Jovem casal",
