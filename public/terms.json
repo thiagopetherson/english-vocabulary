@@ -534,10 +534,10 @@
   {
     "term": "Elderly",
     "translation": "Idoso | Terceira Idade",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
-  },
+    "example": "The elderly need special care. | She works at a home for the elderly. | An elderly man helped me cross the street.",
+    "description": "Usado como adjetivo ou substantivo para se referir a pessoas de idade avançada. Muitas vezes aparece com o artigo 'the' para indicar o grupo em geral (the elderly = os idosos).",
+    "pronunciation": "Éldârli"
+  },  
   {
     "term": "Lend",
     "translation": "Emprestar",
@@ -707,54 +707,54 @@
     "pronunciation": "Plãss"
   },
   {
-    "term": "Evolving",
-    "translation": "Evoluindo | Desenvolvendo",
-    "example": "Technology is constantly evolving. | Her ideas are still evolving. | The company is evolving to meet customer needs.",
-    "description": "Verbo evolve [evoluir]",
-    "pronunciation": ""
+    "term": "Evolve",
+    "translation": "Evoluir | Desenvolver",
+    "example": "Technology evolves rapidly. | People evolve over time. | The company evolved into a global brand.",
+    "description": "Verbo usado para indicar desenvolvimento gradual ou progresso ao longo do tempo.",
+    "pronunciation": "Ivólv"
   },
   {
     "term": "Rise",
     "translation": "Subir | Crescer | Aumentar | Levantar-se | Nascer (Determinados Contextos)",
-    "example": "The sun rises in the east. | Prices rose last year. | He has risen (se superou) to the challenge",
-    "description": "Rise, Rose, Risen | Algo sobe por conta própria",
-    "pronunciation": ""
+    "example": "The sun rises in the east. | Prices rose last year. | He has risen to the challenge.",
+    "description": "Verbo irregular: Rise, Rose, Risen. Usado quando algo sobe ou se eleva por conta própria, sem agente externo.",
+    "pronunciation": "Ráiz"
   },
   {
     "term": "Threats",
     "translation": "Ameaças",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
+    "example": "There are many threats in this area. | The country faces new security threats. | Online threats are becoming more common.",
+    "description": "Substantivo no plural. Refere-se a situações, pessoas ou ações que representam perigo ou risco.",
+    "pronunciation": "Thrêts"
   },
   {
     "term": "Uncertainties",
     "translation": "Incertezas",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
+    "example": "The economy is full of uncertainties. | We must be ready to face uncertainties. | Life is full of uncertainties.",
+    "description": "Substantivo plural que indica falta de certeza ou previsibilidade sobre algo.",
+    "pronunciation": "Ânsârtâniz"
   },
   {
     "term": "Ever-changing",
-    "translation": "Contante mudança",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
+    "translation": "Constante mudança",
+    "example": "We live in an ever-changing world. | Technology is an ever-changing field. | She adapted to the ever-changing environment.",
+    "description": "Adjetivo composto usado para descrever algo que está em constante transformação.",
+    "pronunciation": "Évâr-tchêindjin"
   },
   {
     "term": "Reward",
     "translation": "Recompensa | Recompensar",
-    "example": "",
-    "description": "Pode ser substântivo ou verbo",
-    "pronunciation": ""
-  },
+    "example": "She received a reward for her honesty. | Hard work brings great rewards. | They rewarded him with a promotion.",
+    "description": "Pode ser usado como substantivo ou verbo. Refere-se a algo dado em reconhecimento a um esforço, conquista ou comportamento.",
+    "pronunciation": "Riwórd"
+  },  
   {
     "term": "Across",
     "translation": "Através de... | De um lado para o outro... | Do outro lado...",
-    "example": "She walked across the street. | They swam across the river. | There's a supermarket across the road. | My best friend lives across the street.",
-    "description": "Por ser usado como preposição ou advérbio",
-    "pronunciation": ""
-  },
+    "example": "She walked across the street. | They swam across the river. | There's a supermarket across the road. | My best friend lives across the street. | The bird flew across the sky. | We traveled across the country by train. | I saw someone waving across the window.",
+    "description": "Pode ser usado como preposição ou advérbio. Indica movimento de um lado para o outro ou localização do outro lado de algo.",
+    "pronunciation": "Âkrós"
+  },  
   {
     "term": "Based",
     "translation": "Baseado",
@@ -1849,8 +1849,8 @@
   },
   {
     "term": "Wrap",
-    "translation": "Embrulhar | Envolver | Encerrar",
-    "example": "She wrapped the gift in colorful paper. | Let’s wrap up the meeting and go to lunch. | He wrapped his arms around her.",
+    "translation": "Embrulhar | Envolver",
+    "example": "She wrapped the gift in colorful paper. | He wrapped his arms around her.",
     "description": "",
     "pronunciation": "Ráp"
   },
@@ -2607,5 +2607,40 @@
     "example": "We’re going through a difficult time at work. | She went through all the reports before the meeting. | He went through a lot last year. | She goes through a tunnel every day.",
     "description": "Usado para descrever o ato de enfrentar uma situação difícil, revisar cuidadosamente algo ou experimentar uma série de eventos.",
     "pronunciation": "Gôu thru"
+  },
+  {
+    "term": "Split",
+    "translation": "Dividir (Verbo) | Separar em partes (Verbo)",
+    "example": "Let's split the bill. | They split the work between them. | The class was split into groups.",
+    "description": "Usado para indicar a divisão de algo em partes ou entre pessoas. Pode ser usado em contextos financeiros, tarefas, grupos etc.",
+    "pronunciation": "Splêt"
+  },
+  {
+    "term": "Wrap up",
+    "translation": "Finalizar (Verbo) | Concluir algo (Verbo)",
+    "example": "Let's wrap up the meeting. | We need to wrap this up before lunch. | She wrapped up her presentation in 5 minutes.",
+    "description": "Expressão usada para encerrar ou concluir algo, como uma reunião, atividade ou apresentação.",
+    "pronunciation": "Rép âp"
+  },
+  {
+    "term": "Complete",
+    "translation": "Completar (Verbo) | Concluir (Verbo)",
+    "example": "I completed the task yesterday. | She completed her training successfully. | He finally completed the form.",
+    "description": "Usado para indicar que algo foi finalizado ou concluído com êxito.",
+    "pronunciation": "Kâmplít"
+  },
+  {
+    "term": "Lack",
+    "translation": "Faltar (Verbo) | Falta (Substantivo)",
+    "example": "They lack confidence. | I lack the time to help. | There is a lack of resources.",
+    "description": "Pode ser usado como verbo para indicar ausência de algo, ou como substantivo para indicar escassez.",
+    "pronunciation": "Lék"
+  },
+  {
+    "term": "Summarize",
+    "translation": "Resumir (Verbo)",
+    "example": "Can you summarize the article? | He summarized the main points. | Let me summarize what we've learned.",
+    "description": "Usado para expressar a ação de apresentar algo de forma mais curta e direta, destacando os principais pontos.",
+    "pronunciation": "Sâmaráiz"
   }  
 ]
