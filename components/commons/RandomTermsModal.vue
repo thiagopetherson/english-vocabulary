@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- Botão para abrir o modal -->
-    <button @click="openModal" class="btn btn-primary">Show random terms</button>
+    <button @click="openModal" class="btn btn-primary underline">Show random terms</button>
 
     <!-- Modal -->
     <div v-if="isModalVisible" class="modal-overlay" @click.self="closeModal">
