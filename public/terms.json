@@ -2329,14 +2329,7 @@
     "example": "The audience clapped after the performance. | She clapped her hands to get everyone's attention. | We clapped for the team after they won the match. | He clapped his friend on the back to congratulate him.",
     "description": "Passado [clapped]",
     "pronunciation": "Cláp"
-  },
-  {
-    "term": "Concede",
-    "translation": "Conceder | Ceder | Reconhecer algo",
-    "example": "I don't like these guys, but I conceded and bought their course. | He conceded access rights to the website for all employees. | (After the long negotiation, the company finally conceded a salary increase to the employees.",
-    "description": "Passado [conceded]",
-    "pronunciation": "Kônssíd"
-  },
+  }, 
   {
     "term": "Loud",
     "translation": "Alto | Barulhento",
@@ -2642,5 +2635,117 @@
     "example": "Can you summarize the article? | He summarized the main points. | Let me summarize what we've learned.",
     "description": "Usado para expressar a ação de apresentar algo de forma mais curta e direta, destacando os principais pontos.",
     "pronunciation": "Sâmaráiz"
-  }  
+  },
+  {
+    "term": "Grant",
+    "translation": "Conceder (Verbo) | Subsídio (Substantivo)",
+    "example": "The university granted him a scholarship. | She was granted permission to leave early. | He applied for a government grant.",
+    "description": "Pode ser usado como verbo (conceder algo oficialmente) ou como substantivo (um tipo de benefício financeiro, como bolsas e subsídios).",
+    "pronunciation": "Grént"
+  },
+  {
+    "term": "Concede",
+    "translation": "Admitir | Ceder | Conceder",
+    "example": "He finally conceded that he was wrong. | She conceded the election. | The company conceded some demands after negotiations.",
+    "description": "Verbo usado para admitir algo, especialmente depois de resistir, ou para ceder diante de uma situação.",
+    "pronunciation": "Kânsíd"
+  },
+  {
+    "term": "Happy",
+    "translation": "Feliz | Contente",
+    "example": "I'm very happy today. | She looks happy with the results. | He was happy to see his family again.",
+    "description": "Adjetivo comum usado para expressar alegria ou satisfação.",
+    "pronunciation": "Rép-i"
+  },
+  {
+    "term": "Glad",
+    "translation": "Feliz | Contente | Satisfeito",
+    "example": "I'm glad you're here. | He was glad to help. | She’s glad about the good news.",
+    "description": "Adjetivo usado para expressar alegria ou satisfação por algo específico. Muitas vezes usado com 'to' ou 'about'.",
+    "pronunciation": "Gléd"
+  },
+  {
+    "term": "Meantime",
+    "translation": "Enquanto isso | Nesse meio tempo",
+    "example": "The meeting starts at 3 p.m. In the meantime, let's grab some coffee. | He’ll be ready soon. In the meantime, wait here. | She’s getting dressed; in the meantime, I’ll set the table.",
+    "description": "Usado como advérbio para indicar o intervalo entre dois momentos. Frequentemente aparece em expressões como 'in the meantime'.",
+    "pronunciation": "Mín-taim"
+  },  
+  {
+    "term": "Chase",
+    "translation": "Perseguir | Correr atrás",
+    "example": "The dog chased the cat. | He’s chasing his dreams. | The police chased the thief.",
+    "description": "Verbo usado para indicar perseguição literal (como entre pessoas ou animais) ou figurada (como perseguir objetivos, sonhos etc).",
+    "pronunciation": "Tchêis"
+  },
+  {
+    "term": "Store",
+    "translation": "Armazenar (Verbo) | Loja (Substantivo)",
+    "example": "She bought it at the store. | You can store files on this device. | They stored the boxes in the garage.",
+    "description": "Pode ser usado como substantivo (loja) ou como verbo (armazenar, guardar algo).",
+    "pronunciation": "Stôr"
+  },
+  {
+    "term": "Otherwise",
+    "translation": "Caso contrário | Se não...",
+    "example": "You need to hurry, otherwise you'll miss the bus. | Study hard, otherwise you'll fail. | I hope you're right, otherwise we’re in trouble.",
+    "description": "Usado como advérbio para indicar uma consequência negativa ou uma alternativa.",
+    "pronunciation": "Âdhâr-uáiz"
+  },
+  {
+    "term": "Piece",
+    "translation": "Pedaço | Peça | Parte",
+    "example": "Can I have a piece of cake? | She gave me a piece of advice. | I lost a piece of the puzzle.",
+    "description": "Substantivo usado para indicar parte de algo maior ou um item específico.",
+    "pronunciation": "Pís"
+  },
+  {
+    "term": "Suggest",
+    "translation": "Sugerir | Recomendar",
+    "example": "Can you suggest a good movie? | I suggest taking a break. | She suggested that we leave early.",
+    "description": "Verbo usado para dar uma ideia, conselho ou recomendação. Pode ser seguido por 'that', por um verbo com -ing, ou por um objeto direto.",
+    "pronunciation": "Sâdjést"
+  },  
+  {
+    "term": "Helpful",
+    "translation": "Útil | Prestativo | Que ajuda",
+    "example": "She was very helpful during the trip. | Your tips were really helpful. | That guide was helpful for my studies.",
+    "description": "Adjetivo usado para descrever alguém ou algo que ajuda ou facilita uma situação.",
+    "pronunciation": "Rélpfôl"
+  },
+  {
+    "term": "Useful",
+    "translation": "Útil | Prático",
+    "example": "This tool is really useful. | I found the book very useful. | Is this information useful to you?",
+    "description": "Adjetivo usado para indicar que algo é funcional, prático ou tem uma aplicação clara e vantajosa.",
+    "pronunciation": "Iússfôl"
+  },
+  {
+    "term": "Mix",
+    "translation": "Misturar (Verbo) | Mistura (Substantivo)",
+    "example": "Mix the flour with water. | I like to mix styles. | This cake is made from a special mix.",
+    "description": "Pode ser usado como verbo (misturar) ou como substantivo (mistura de ingredientes, estilos, etc).",
+    "pronunciation": "Mêks"
+  },
+  {
+    "term": "Rather",
+    "translation": "Um tanto | Em vez disso (dependendo do contexto)",
+    "example": "I'm rather tired today. | The movie was rather interesting. | I would rather stay home than go out. | She would rather read a book than watch TV. | We would rather take the train than drive in traffic.",
+    "description": "Usado para indicar intensidade moderada (um tanto, bastante) ou preferência quando combinado com 'would' (I'd rather = Eu preferiria).",
+    "pronunciation": "Rédhâr"
+  },  
+  {
+    "term": "Guide",
+    "translation": "Guia (Substantivo) | Guiar (Verbo)",
+    "example": "She followed the travel guide. | Let me guide you through the process. | The teacher guided the students.",
+    "description": "Pode ser substantivo (alguém ou algo que mostra o caminho) ou verbo (guiar, conduzir).",
+    "pronunciation": "Gáid"
+  },
+  {
+    "term": "On the other hand",
+    "translation": "Por outro lado",
+    "example": "I love living in the city. On the other hand, it’s very noisy. | She's very strict (rigorosa). On the other hand, she's fair. | We could stay here. On the other hand, we might miss the opportunity.",
+    "description": "Expressão usada para mostrar contraste ou apresentar um ponto de vista diferente do que foi mencionado anteriormente.",
+    "pronunciation": "Ón dhi âdhâr rènd"
+  } 
 ]
