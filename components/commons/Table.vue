@@ -111,8 +111,7 @@ const formatText = (text) => {
 const removeTerm = async (term) => {
   const password = window.prompt(`Enter password "${term}"`)
 
-  if (password === null || password.trim() === '') {   
-    $toast.warning('Type the password!') 
+  if (password === null || password.trim() === '') {    
     return
   }
 
