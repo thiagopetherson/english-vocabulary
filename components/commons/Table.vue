@@ -111,11 +111,12 @@ const formatText = (text) => {
 const removeTerm = async (term) => {
   const password = window.prompt(`Enter password "${term}"`)
 
-  if (password === '') {    
+  if (password === null || password.trim() === '') {   
+    $toast.warning('Type the password!') 
     return
   }
 
-  if (password !== 'ab34') {
+  if (password.trim() !== 'ab34') {
     $toast.error('Incorrect password!')
     return
   }
@@ -130,7 +131,7 @@ const removeTerm = async (term) => {
   }
 
   $toast.success(`Term "${term}" successfully removed!`)
-  window.location.reload() // Atualiza a listagem simples
+  window.location.reload() // Depois retirar isso
 }
 
 </script>
