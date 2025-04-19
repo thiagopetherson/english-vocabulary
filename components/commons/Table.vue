@@ -111,6 +111,10 @@ const formatText = (text) => {
 const removeTerm = async (term) => {
   const password = window.prompt(`Enter password "${term}"`)
 
+  if (password === '') {    
+    return
+  }
+
   if (password !== 'ab34') {
     $toast.error('Incorrect password!')
     return
