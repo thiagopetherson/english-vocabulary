@@ -1109,8 +1109,8 @@
     "term": "Through",
     "translation": "Através de... | por... | durante...",
     "example": "We walked through the park on our way home. | She looked through the window and saw the rain. | I stayed at home through the storm.",
-    "description": "",
-    "pronunciation": ""
+    "description": "É uma preposição que indica movimento ou ação que acontece ao longo de algo, ou um período de tempo em que algo ocorre. | No contexto de tempo, pode ser usada para indicar algo que acontece durante todo um evento ou período.",
+    "pronunciation": "Frú"
   },
   {
     "term": "Nowadays (Advérbio)",
@@ -2554,7 +2554,7 @@
   },  
   {
     "term": "Belief",
-    "translation": "Crença | Convicção",
+    "translation": "Crença",
     "example": "Her belief in the team’s potential helped them succeed. | It’s important to respect different beliefs in the workplace. | The manager’s belief that everyone can improve changed the company culture.",
     "description": "Refere-se a algo que uma pessoa acredita ser verdade, seja uma ideia, opinião ou valor pessoal ou coletivo.",
     "pronunciation": "Bilíf"
@@ -2754,5 +2754,47 @@
     "example": "I was mistaken about the time. | If I’m not mistaken, she lives in Paris. | He was mistaken for someone else.",
     "description": "Adjetivo que indica que alguém cometeu um erro ou entendeu algo de forma errada. Também usado na expressão 'If I’m not mistaken'.",
     "pronunciation": "Mistêikân"
-  }
+  },
+  {
+    "term": "Recharge",
+    "translation": "Recarregar | Recuperar",
+    "example": "I need to recharge my phone. | After a long day, I like to recharge with a good book. | The battery is running low, you should recharge it.",
+    "description": "É um verbo usado para indicar a ação de carregar novamente algo que tenha perdido energia, como baterias, ou também para indicar o ato de recuperar forças ou energia.",
+    "pronunciation": "Rí-chárd"
+  },
+  {
+    "term": "Throughout",
+    "translation": "Durante | Ao longo de | Em todo",
+    "example": "She worked throughout the night to finish the project. | The news spread throughout the city. | Throughout history, people have sought freedom.",
+    "description": "É uma preposição usada para indicar que algo acontece durante todo o tempo em uma área ou período específico. Também pode significar 'em todos os lugares de' ou 'em toda a extensão de'.",
+    "pronunciation": "Frú-aut"
+  }, 
+  {
+    "term": "Calm",
+    "translation": "Calmo | Tranquilo | Acalmar (Verbo)",
+    "example": "She remained calm during the crisis. | The sea was calm this morning. | He tried to calm the nervous child.",
+    "description": "É um adjetivo usado para descrever uma pessoa, situação ou ambiente que é tranquilo, sem agitação ou stress. Também pode ser usado como verbo, significando tornar algo ou alguém mais tranquilo.",
+    "pronunciation": "Cáum"
+  },
+  {
+    "term": "Balance",
+    "translation": "Equilibrar (Verbo)",
+    "example": "He balanced the plate on his hand. | She balanced her work and studies very well. | The gymnast balanced on the beam for several minutes.",
+    "description": "É um verbo que significa colocar algo de maneira que fique estável, sem cair, ou manter a harmonia e proporção entre coisas diferentes.",
+    "pronunciation": "Bálans"
+  },
+  {
+    "term": "Hunt",
+    "translation": "Caçar | Procurar intensamente (Verbo)",
+    "example": "He went to hunt for deer in the forest. | She is hunting for a new job. | They hunted for treasure during their vacation.",
+    "description": "Como verbo, significa procurar algo ativamente ou caçar animais. Também pode ser usado em um contexto mais figurado, como procurar por algo com grande esforço ou intensidade.",
+    "pronunciation": "Ránt"
+  },
+  {
+    "term": "Evaluate",
+    "translation": "Avaliar | Analisar",
+    "example": "The teacher will evaluate your project next week. | We need to evaluate the results before making a decision. | He evaluated the situation carefully before acting.",
+    "description": "É um verbo que significa examinar ou analisar algo de maneira cuidadosa, a fim de julgar seu valor, qualidade ou importância.",
+    "pronunciation": "Iváliueit"
+  } 
 ]
