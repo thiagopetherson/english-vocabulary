@@ -373,7 +373,7 @@
   {
     "term": "Left behind",
     "translation": "Deixado para trás | Ficar para trás",
-    "example": "They left me behind. | I forgot my phone and left it behind. | Many employees feel left behind during fast tech transitions.",
+    "example": "They left me behind. | I forgot my phone and left it behind. | Many employees feel left behind during fast tech transitions. | I got left behind on this project. I'll need some time.",
     "description": "Usado quando algo ou alguém não acompanha o restante ou é esquecido.",
     "pronunciation": "Léft bihaind"
   },
@@ -1107,7 +1107,7 @@
   },
   {
     "term": "Through",
-    "translation": "Através de... | por... | durante...",
+    "translation": "Através de... | por...",
     "example": "We walked through the park on our way home. | She looked through the window and saw the rain. | I stayed at home through the storm.",
     "description": "É uma preposição que indica movimento ou ação que acontece ao longo de algo, ou um período de tempo em que algo ocorre. | No contexto de tempo, pode ser usada para indicar algo que acontece durante todo um evento ou período.",
     "pronunciation": "Frú"
@@ -2803,5 +2803,12 @@
     "example": "I can't figure out how this machine works. | She finally figured out the answer to the puzzle. | We need to figure out a solution before it's too late.",
     "description": "É uma phrasal verb usada para indicar que alguém entende, descobre ou resolve algo após pensar ou investigar. Muito comum em situações que envolvem raciocínio ou resolução de problemas.",
     "pronunciation": "Fíguiur aut"
+  },
+  {
+    "term": "Challenge",
+    "translation": "Desafio | Desafiar (Verbo)",
+    "example": "Climbing Mount Everest is a great challenge. | She challenged him to a race. | They faced many challenges during their journey.",
+    "description": "Como substantivo, 'challenge' refere-se a uma tarefa difícil ou situação que exige esforço. Como verbo, significa desafiar alguém a fazer algo ou a enfrentar uma dificuldade.",
+    "pronunciation": "Chálindj"
   }  
 ]
