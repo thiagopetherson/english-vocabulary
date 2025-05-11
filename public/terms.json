@@ -1066,44 +1066,44 @@
   {
     "term": "Not yet!",
     "translation": "Ainda não!",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
+    "example": "He hasn’t finished his report yet. | The project is not ready yet. | I haven't received the package yet.",
+    "description": "Usado para indicar que algo ainda não aconteceu ou não foi concluído.",
+    "pronunciation": "nót iét"
   },
   {
     "term": "Loudly (Advérbio)",
     "translation": "Descreve a ação de fazer algo de maneira alta ou ruidosa, com um volume elevado.",
-    "example": "She sang loudly during the concert. | He laughed loudly when he heard the funny story.",
-    "description": "",
-    "pronunciation": ""
+    "example": "She sang loudly during the concert. | He laughed loudly when he heard the funny story. | The children played loudly in the yard.",
+    "description": "Usado para descrever ações que são feitas com um volume elevado ou de maneira ruidosa.",
+    "pronunciation": "laudli"
   },
   {
     "term": "Shout",
     "translation": "Gritar",
-    "example": "Don’t shout at people for no reason! | She shouted for help when she saw the fire.",
-    "description": "",
-    "pronunciation": ""
+    "example": "Don’t shout at people for no reason! | She shouted for help when she saw the fire. | He shouted her name from across the street.",
+    "description": "Fazer um som muito alto, geralmente para chamar atenção ou expressar emoções fortes.",
+    "pronunciation": "shaʊt"
   },
   {
     "term": "Ride",
     "translation": "Andar ou viajar em algo, geralmente um veículo ou animal",
     "example": "She loves to ride her bike in the park. | We will ride horses through the mountains. | He was riding his motorcycle when it started to rain.",
-    "description": "",
-    "pronunciation": ""
+    "description": "Usado para descrever o ato de se deslocar em um veículo ou montar um animal.",
+    "pronunciation": "raid"
   },
   {
     "term": "Although",
     "translation": "Embora | Apesar de...",
     "example": "Although it was raining, we went for a walk. | She is very talented, although she is still learning. | Although he was tired, he finished the project on time.",
-    "description": "É usada para introduzir uma ideia contrastante ou contraditória em relação à ideia principal da frase.",
-    "pronunciation": ""
+    "description": "Usado para introduzir uma ideia contrastante ou contraditória em relação à ideia principal da frase.",
+    "pronunciation": "olðou"
   },
   {
     "term": "Therefore",
     "translation": "Portanto",
     "example": "She was the most qualified candidate; therefore, she got the job. | The weather was bad, therefore the event was canceled. | He didn't study for the test; therefore, he didn't pass.",
-    "description": "É usado para indicar uma consequência ou conclusão com base em algo previamente mencionado.",
-    "pronunciation": ""
+    "description": "Usado para indicar uma consequência ou conclusão com base em algo previamente mencionado.",
+    "pronunciation": "thérfor"
   },
   {
     "term": "Through",
@@ -1248,317 +1248,303 @@
   {
     "term": "Expose",
     "translation": "Expor | Revelar",
-    "example": "She was afraid that the truth would be exposed during the trial. | The documentary exposes the impact of climate change on the environment. | The investigation will expose the company's unethical (antiética) practices. | Exposure (exposição) to the sun for too long can expose your skin to harmful (nocivos) effects.",
-    "description": "",
-    "pronunciation": ""
+    "example": "She was afraid that the truth would be exposed during the trial. | The documentary exposes the impact of climate change on the environment. | The investigation will expose the company's unethical practices. | Exposure to the sun for too long can expose your skin to harmful effects.",
+    "description": "Usado para indicar a ação de tornar algo conhecido ou visível, muitas vezes algo oculto ou secreto.",
+    "pronunciation": "ɪksˈpəʊz"
   },
   {
     "term": "Go away",
     "translation": "Ir embora | Sair",
-    "example": "Please go away, I'm busy right now. | She told him to go away after the argument (discussão). | The kids went away for the weekend to visit their grandparents.",
+    "example": "Please go away, I'm busy right now. | She told him to go away after the argument. | The kids went away for the weekend to visit their grandparents.",
     "description": "[Go away] tende a ser mais direto e usado para pedir que alguém se afaste de maneira imediata, enquanto [Leave] é mais neutro e usado para indicar a ação de sair, sem a mesma ênfase em afastamento.",
-    "pronunciation": ""
+    "pronunciation": "ɡoʊ əˈweɪ"
   },
   {
     "term": "Hire",
     "translation": "Contratar",
     "example": "The company hired a new manager last week. | She was hired as a software developer. | We need to hire more staff for the project.",
-    "description": "Geralmente usado em contexto de trabalho",
-    "pronunciation": ""
+    "description": "Usado para indicar o ato de contratar alguém para um trabalho ou função.",
+    "pronunciation": "haɪər"
   },
   {
-    "term": "Avoid (verbo)",
+    "term": "Avoid",
     "translation": "Evitar",
-    "example": "He drives carefully to avoid accidents. | She avoided talking about the argument. | I always avoid him at work. | She crossed (atravessou) the street to avoid the crowd (multidão). | He avoided making eye contact with her.",
+    "example": "He drives carefully to avoid accidents. | She avoided talking about the argument. | I always avoid him at work. | She crossed the street to avoid the crowd. | He avoided making eye contact with her.",
     "description": "Tomar medidas para impedir que algo aconteça ou para não entrar em contato com algo ou alguém.",
-    "pronunciation": ""
+    "pronunciation": "əˈvɔɪd"
   },
   {
     "term": "Crowd",
     "translation": "Multidão",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
+    "example": "The crowd cheered as the team entered the stadium.",
+    "description": "Refere-se a um grande número de pessoas reunidas em um local.",
+    "pronunciation": "kraʊd"
   },
   {
     "term": "Deploy",
     "translation": "Implantar | Distribuir | Posicionar algo estrategicamente",
-    "example": "The company will deploy (implantar) a new security system next week. | The army deployed (posicionar) thousands of soldiers to the border. | We need to deploy (implantar) the latest version of the app today.",
-    "description": "",
-    "pronunciation": ""
+    "example": "The company will deploy a new security system next week. | The army deployed thousands of soldiers to the border. | We need to deploy the latest version of the app today.",
+    "description": "Usado para indicar o ato de colocar algo em posição ou de lançar uma ferramenta ou recurso de forma estratégica.",
+    "pronunciation": "dɪˈplɔɪ"
   },
   {
     "term": "Soundscapes",
     "translation": "Paisagens sonoras",
     "example": "The forest soundscape at night is filled with the sounds of crickets and owls. | The city's soundscape includes car horns, people talking, and distant music.",
-    "description": "",
-    "pronunciation": ""
+    "description": "Termo que descreve os sons de um ambiente ou cenário, incluindo música e ruídos naturais ou artificiais.",
+    "pronunciation": "ˈsaʊndˌskeɪps"
   },
   {
     "term": "Achievements",
-    "translation": "Conquistas | Realizações | Feitos alcançados por meio de esforços",
-    "example": "Winning the championship was one of his greatest achievements. | She takes pride (se orgulha) in her academic achievements. | The scientist’s achievements in medicine saved many lives. | The scientist’s achievements in medicine saved many lives.",
-    "description": "",
-    "pronunciation": ""
+    "translation": "Conquistas | Realizações",
+    "example": "Winning the championship was one of his greatest achievements. | She takes pride in her academic achievements. | The scientist’s achievements in medicine saved many lives.",
+    "description": "Refere-se a algo que foi alcançado ou realizado, frequentemente através de esforço ou habilidade.",
+    "pronunciation": "əˈtʃiːv.mənts"
   },
   {
     "term": "Take pride",
     "translation": "Se orgulhar",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
+    "example": "He takes pride in his work, always doing it to the best of his ability.",
+    "description": "Sentir satisfação ou orgulho por algo que se fez, alcançou ou realizou.",
+    "pronunciation": "teɪk praɪd"
   },
   {
     "term": "Gems",
-    "translation": "Pedra preciosa ou alguém valioso",
+    "translation": "Pedra preciosa | Alguém valioso",
     "example": "The necklace is adorned with beautiful gems. | That book is a hidden gem; not many people know about it. | She is one of the gems of the company, always bringing innovative ideas.",
-    "description": "",
-    "pronunciation": ""
+    "description": "Refere-se a pedras preciosas ou algo ou alguém considerado raro e valioso.",
+    "pronunciation": "dʒɛmz"
   },
   {
     "term": "Unforgettable",
     "translation": "Inesquecível",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
+    "example": "The concert was an unforgettable experience.",
+    "description": "Algo tão marcante ou impactante que não pode ser esquecido.",
+    "pronunciation": "ˌʌn.fəˈɡɛt.ə.bəl"
   },
   {
     "term": "Misadventure",
-    "translation": "Desventura ou aventura malsucedida",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
+    "translation": "Desventura | Aventura malsucedida",
+    "example": "His misadventure in the mountains turned into a thrilling story to tell.",
+    "description": "Uma experiência ou evento que ocorreu de forma inesperada e negativa, frequentemente associado a algo que deu errado.",
+    "pronunciation": "ˌmɪs.ədˈvɛn.tʃər"
   },
   {
     "term": "Once upon a time...",
     "translation": "Era uma vez...",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
+    "example": "Once upon a time, there was a kingdom surrounded by mountains.",
+    "description": "Frase tradicional usada para iniciar histórias ou contos de fadas.",
+    "pronunciation": "wʌns əˈpɒn ə taɪm"
   },
   {
     "term": "Countless",
     "translation": "Incontáveis",
     "example": "She has read countless books.",
-    "description": "",
-    "pronunciation": ""
+    "description": "Usado para indicar algo que é tão numeroso que é impossível contar ou quantificar.",
+    "pronunciation": "ˈkaʊnt.ləs"
   },
   {
     "term": "Sights",
     "translation": "Vistas | Pontos turísticos",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
+    "example": "The city offers many breathtaking sights, including ancient monuments and beautiful parks.",
+    "description": "Refere-se a vistas ou pontos turísticos notáveis e visualmente impressionantes.",
+    "pronunciation": "saɪts"
   },
   {
     "term": "Step",
-    "translation": "Passo | Etapa | Medida (ação tomada para alcançar algo)",
+    "translation": "Passo | Etapa",
     "example": "She took a step forward and opened the door. | Learning a new language is a step-by-step process. | The company took an important step toward sustainability.",
-    "description": "",
-    "pronunciation": ""
+    "description": "Refere-se a um movimento ou ação para alcançar um objetivo, ou uma fase de um processo.",
+    "pronunciation": "stɛp"
   },
   {
     "term": "Stretch",
     "translation": "Alongar | Esticar | Expandir",
-    "example": "She stretches every morning to stay flexible. | The road stretches for miles ahead. | He tried to stretch the budget to make it last longer (duasse mais).",
-    "description": "",
-    "pronunciation": ""
+    "example": "She stretches every morning to stay flexible. | The road stretches for miles ahead. | He tried to stretch the budget to make it last longer (durar mais).",
+    "description": "Estender ou alongar algo física ou figurativamente.",
+    "pronunciation": "Strétch"
   },
   {
     "term": "Last longer",
     "translation": "Durar mais",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
-  },
-  {
-    "term": "Canvas",
-    "translation": "Tela | Moldura (artística)",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
+    "example": "We are trying to make the battery last longer. | These shoes were made to last longer. | He worked extra hours to make the project last longer than expected.",
+    "description": "Manter-se funcional ou existente por mais tempo.",
+    "pronunciation": "Lást lònguer"
   },  
   {
     "term": "Stuck",
     "translation": "Preso | Emperrado | Encalhado",
-    "example": "I am stuck in traffic.",
-    "description": "",
-    "pronunciation": ""
+    "example": "I am stuck in traffic. | He got stuck trying to open the drawer. | We were stuck in a meeting all afternoon. | I feel stuck in my current job and I'm looking for new opportunities.",
+    "description": "Incapaz de se mover ou de sair de uma situação.",
+    "pronunciation": "Stâk"
   },
   {
     "term": "Cherish",
-    "translation": "Valorizar | Estimar | Apreciar | Prezar profundamente,",
-    "example": "I cherish our friendsship. | I will always cherish the memories of my childhood. | She cherishes the time spent with her family. | He cherished every moment of his life.",
-    "description": "",
-    "pronunciation": ""
+    "translation": "Valorizar | Estimar | Apreciar | Prezar profundamente",
+    "example": "I cherish our friendship. | I will always cherish the memories of my childhood. | She cherishes the time spent with her family. | He cherished every moment of his life.",
+    "description": "Demonstrar carinho ou valor emocional por algo ou alguém.",
+    "pronunciation": "Tché-rish"
   },
   {
     "term": "Apologize (Verbo)",
     "translation": "Pedir desculpas",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
+    "example": "I apologize for the mistake. | He apologized to his coworker for being late. | We must apologize to the client for the delay.",
+    "description": "Admitir erro e pedir desculpas.",
+    "pronunciation": "Apólodjaiz"
   },
   {
     "term": "Lead",
     "translation": "Conduzir",
     "example": "He leads the team with great dedication. | The teacher leads the students in various activities. | He led the team to victory last year. | She led the discussion during the meeting.",
-    "description": "Passado é [led]",
-    "pronunciation": ""
+    "description": "Guiar ou dirigir um grupo, projeto ou situação. (Passado: led)",
+    "pronunciation": "Lííd"
   },
   {
     "term": "Wander",
     "translation": "Vagar | Perambular | Andar sem rumo | Divagar",
     "example": "He loves to wander through the city at night. | My mind tends to wander when I'm bored. | She spent hours wandering in the park.",
-    "description": "O passado é [wandered]",
-    "pronunciation": ""
+    "description": "Andar ou pensar sem direção definida. (Passado: wandered)",
+    "pronunciation": "Uónder"
   },
   {
     "term": "Turn",
     "translation": "Virar | Turno",
     "example": "She turned the key in the lock to open the door. | The weather can turn cold in the evening. | If you turn left at the traffic lights, you'll find the café. | The leaves turned yellow in the fall.",
-    "description": "",
-    "pronunciation": ""
+    "description": "Mudar de direção, condição ou indicar vez de alguém.",
+    "pronunciation": "Târn"
   },
   {
     "term": "Turn down",
     "translation": "Recusar",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
+    "example": "He turned down the job offer. | She turned down the invitation politely. | They turned down the volume during the call.",
+    "description": "Recusar uma oferta ou reduzir algo (como volume ou intensidade).",
+    "pronunciation": "Târn dáun"
   },
   {
     "term": "Into",
     "translation": "Para dentro de algo | Transformar-se em algo | Indicar uma ação ou direção que leva a algo",
-    "example": "She jumped into the pool. | He put his keys into (dentro) his bag. | Are you going into the store now ? | He didn’t get into the university he wanted.",
-    "description": "",
-    "pronunciation": ""
-  }, 
+    "example": "She jumped into the pool. | He put his keys into his bag. | Are you going into the store now? | He didn’t get into the university he wanted.",
+    "description": "Indica movimento para dentro, envolvimento ou transformação.",
+    "pronunciation": "Íntu"
+  },
   {
     "term": "Munch",
     "translation": "Mastigar",
-    "example": "She sat on the couch (sofá), munching on popcorn while watching a movie. | The rabbit was happily munching on a carrot. | He munched on an apple as he read his book.",
-    "description": "",
-    "pronunciation": ""
-  },
-  {
-    "term": "Twitch",
-    "translation": "Contrair-se | Tremer | Se mover rapidamente",
-    "example": "His eye twitched from exhaustion. | She felt a twitch in her hand after holding the heavy bag for too long. | The cat twitched its tail before jumping.",
-    "description": "De forma involuntária ou de maneira curta e abrupta.",
-    "pronunciation": ""
+    "example": "She sat on the couch, munching on popcorn while watching a movie. | The rabbit was happily munching on a carrot. | He munched on an apple as he read his book.",
+    "description": "Comer algo fazendo sons de mastigação.",
+    "pronunciation": "Mântch"
   },
   {
     "term": "Switch",
-    "translation": "Trocar | Mudar | Alternar algo.",
-    "example": "I decided to switch my phone for a newer model. | Can you switch to another TV channel ?",
-    "description": "",
-    "pronunciation": ""
+    "translation": "Trocar | Mudar | Alternar algo",
+    "example": "I decided to switch my phone for a newer model. | Can you switch to another TV channel?",
+    "description": "Trocar de uma opção para outra.",
+    "pronunciation": "Suítch"
   },
   {
     "term": "Dash",
-    "translation": "Correr rapidamente, avançar em alta velocidade.",
+    "translation": "Correr rapidamente, avançar em alta velocidade",
     "example": "He dashed to catch the last train. | She dashed into the room with exciting news.",
-    "description": "",
-    "pronunciation": ""
+    "description": "Mover-se rapidamente com urgência ou entusiasmo.",
+    "pronunciation": "Désh"
   },
   {
     "term": "Bask",
     "translation": "Aproveitar | Desfrutar | Aquecer-se",
-    "example": "She basked in the warm sunlight (sol quente) on the beach. | He basked in the glory of his achievement.",
-    "description": "Desfrutar de algo bom ou Aquecer-se ao sol ou ao calor",
-    "pronunciation": ""
+    "example": "She basked in the warm sunlight on the beach. | He basked in the glory of his achievement.",
+    "description": "Aproveitar ou se beneficiar de algo agradável, como sol ou elogios.",
+    "pronunciation": "Básk"
   },
   {
     "term": "Glow",
     "translation": "Brilhar | Reluzir | Irradiar",
-    "example": "The star was glowing. | The fireflies (vagalumes) glowed in the dark. | Her face glowed with happiness. | The city skyline (horizonte da cidade) glowed under the sunset (por do sol).",
-    "description": "",
-    "pronunciation": ""
+    "example": "The star was glowing. | The fireflies glowed in the dark. | Her face glowed with happiness. | The city skyline glowed under the sunset.",
+    "description": "Emitir luz suave ou brilhar com emoção/energia.",
+    "pronunciation": "Glôu"
   },
   {
     "term": "Under",
     "translation": "Debaixo | Sob | Abaixo",
     "example": "The cat is under the table. | She is under a lot of stress at work. | Children under 12 get a discount.",
     "description": "Posição física abaixo de algo (debaixo de, sob). | Estar submetido a uma condição ou influência. | Menos que um determinado número ou valor (abaixo de)",
-    "pronunciation": ""
-  },
+    "pronunciation": "Ândâr"
+  },  
   {
     "term": "Over",
     "translation": "Sobre | Acima | Através | Ao longo",
     "example": "The lamp is hanging (pendurada) over the table. | He jumped over the fence. | There were over 50 people at the party. | The game is over.",
     "description": "Posição acima de algo | Movimento de um lado para outro | Quantidade maior que um determinado número ou valor | Encerramento ou término de algo",
-    "pronunciation": ""
-  },
+    "pronunciation": "Ôuvâr"
+  },  
   {
     "term": "Whisper",
     "translation": "Sussurrar | Murmurar",
     "example": "She whispered a secret in my ear. | They were whispering during the meeting. | The wind whispered through the trees.",
-    "description": "",
-    "pronunciation": ""
+    "description": "Verbo usado para falar em voz muito baixa, normalmente para manter a conversa discreta ou secreta.",
+    "pronunciation": "Uísper"
   },
   {
     "term": "Stumble",
-    "translation": "Tropeçar | Cambalear | hesitar",
+    "translation": "Tropeçar | Cambalear | Hesitar",
     "example": "He stumbled on a rock while walking in the park. | She stumbled into the room after drinking too much. | I stumbled over my words during the presentation.",
-    "description": "",
-    "pronunciation": ""
+    "description": "Pode ser usado literalmente (perder o equilíbrio ao andar) ou figurativamente (cometer erros, hesitar ao falar).",
+    "pronunciation": "Stâmbol"
   },
   {
     "term": "Playful",
     "translation": "Brincalhão | Divertido",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
+    "example": "He made a playful comment during the meeting to ease the tension. | The team had a playful discussion before getting serious. | Her playful attitude makes the work environment lighter.",
+    "description": "Adjetivo usado para descrever alguém ou algo leve, descontraído ou que gosta de brincar.",
+    "pronunciation": "Plêiful"
   },
   {
     "term": "Funny",
     "translation": "Engraçado | Estranho",
     "example": "That movie was so funny! I couldn't stop laughing. | There's something funny about this situation. | He told me a funny joke at the party.",
-    "description": "",
-    "pronunciation": ""
+    "description": "Pode ser usado para algo que causa riso ou para descrever algo estranho/suspeito.",
+    "pronunciation": "Fâni"
   },
   {
     "term": "Cuddle (Verbo)",
     "translation": "Abraçar | Aconchegar | Ficar agarradinho",
-    "example": "She loves to cuddle with her cat on the couch. | The baby cuddled his teddy bear while sleeping. | hey cuddled under the blanket (cobertor) to stay warm (ficar aquecido)",
-    "description": "",
-    "pronunciation": ""
+    "example": "She loves to cuddle with her cat on the couch. | The baby cuddled his teddy bear while sleeping. | They cuddled under the blanket to stay warm.",
+    "description": "Verbo usado para descrever um gesto carinhoso de ficar abraçado ou aconchegado com alguém ou algo.",
+    "pronunciation": "Câdol"
   },
   {
     "term": "Further",
     "translation": "Mais distante | Adicional | Aprofundado",
-    "example": "Do you have any further question ? | We need to walk further (mais distante) to reach the village. | Do you need further information about the project ? | ",
-    "description": "",
-    "pronunciation": ""
+    "example": "Do you have any further questions? | We need to walk further to reach the village. | We can discuss this in further detail later.",
+    "description": "Pode indicar distância (literal ou figurada), algo adicional ou o aprofundamento de um tema.",
+    "pronunciation": "Fârder"
   },
   {
-    "term": "Futhermore",
+    "term": "Furthermore",
     "translation": "Além disso | Além do mais",
-    "example": "She is an excellent student. Furthermore, she always helps her classmates. | The project is behind schedule. Furthermore, we are running out of budget. | ",
-    "description": "",
-    "pronunciation": ""
+    "example": "She is an excellent student. Furthermore, she always helps her classmates. | The project is behind schedule. Furthermore, we are running out of budget.",
+    "description": "Usado para adicionar uma informação relevante ou reforçar um argumento.",
+    "pronunciation": "Fârdarmór"
   },
   {
     "term": "Reach",
-    "translation": "Alcançar, | Atingir | Chegar",
-    "example": "We finally reached the hotel after a long trip. | She reached her goal of becoming a doctor. | I don’t think it’s a good idea. Furthermore, it could be risky",
-    "description": "",
-    "pronunciation": ""
+    "translation": "Alcançar | Atingir | Chegar",
+    "example": "We finally reached the hotel after a long trip. | She reached her goal of becoming a doctor. | We hope to reach more customers with this new strategy.",
+    "description": "Pode se referir a alcançar fisicamente algo, atingir metas ou estabelecer contato.",
+    "pronunciation": "Ríitch"
   },
   {
     "term": "Risky",
     "translation": "Arriscado",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
+    "example": "Launching a new product without testing can be risky. | It's a risky investment, but it could bring great rewards. | He made a risky decision without consulting the team.",
+    "description": "Adjetivo usado para descrever algo que envolve perigo, incerteza ou possibilidade de falha.",
+    "pronunciation": "Ríski"
   },
   {
     "term": "In a little while",
     "translation": "Daqui a Pouco | Em breve",
     "example": "We will leave in a little while. | She said she would call me back in a little while. | Dinner will be ready in a little while.",
-    "description": "Usado para indicar que algo acontecerá em um curto período de tempo. (um período mais curto que [soon]",
-    "pronunciation": ""
+    "description": "Usado para indicar que algo acontecerá em um curto período de tempo. (um período mais curto que [soon]. Pode-se usar [in a little bit] também.",
+    "pronunciation": "In â lírô uáil"
   },
   {
     "term": "Explain",
@@ -2196,14 +2182,7 @@
     "example": "I was shocked when I heard the news. | She was shocked by the sudden change in plans. | They were shocked by the accident. | The news left me completely shocked.",
     "description": "",
     "pronunciation": "Shók"
-  },
-  {
-    "term": "Bullshit",
-    "translation": "Uma expressão informal e vulgar usada para descrever algo que é falso, enganoso ou sem sentido",
-    "example": "He told me that story, but I think it's just bullshit. | This excuse is total bullshit! | You really believe that? That's pure bullshit.",
-    "description": "",
-    "pronunciation": "Bûlshít"
-  },
+  },  
   {
     "term": "Regularly",
     "translation": "Regularmente",
@@ -2810,5 +2789,180 @@
     "example": "Climbing Mount Everest is a great challenge. | She challenged him to a race. | They faced many challenges during their journey.",
     "description": "Como substantivo, 'challenge' refere-se a uma tarefa difícil ou situação que exige esforço. Como verbo, significa desafiar alguém a fazer algo ou a enfrentar uma dificuldade.",
     "pronunciation": "Chálindj"
+  },
+  {
+    "term": "Said no one ever",
+    "translation": "Disse ninguém nunca (irônico)",
+    "example": "I just love getting stuck in traffic... said no one ever. | Cleaning the house is my favorite weekend activity – said no one ever. | Yay (Eba), another Monday morning! Said no one ever.",
+    "description": "Expressão usada de forma irônica para enfatizar que ninguém em sã consciência diria algo tão absurdo ou improvável. É comum em piadas ou comentários sarcásticos.",
+    "pronunciation": "Séd nou uãn éver"
+  },
+  {
+    "term": "Which one",
+    "translation": "Qual (dentre dois ou mais)",
+    "example": "Which one do you prefer: coffee or tea? | I have two jackets — which one should I wear? | Which one of these is your car?",
+    "description": "É uma expressão interrogativa usada para escolher ou identificar um item entre duas ou mais opções específicas. Usada com frequência em perguntas.",
+    "pronunciation": "Uítch uãn"
+  },
+  {
+    "term": "Neither",
+    "translation": "Nenhum | Tampouco",
+    "example": "Neither of the answers is correct. | I like neither option. | She doesn't like coffee. – Neither do I.",
+    "description": "Usado para indicar que duas opções ou pessoas não são escolhidas ou não se aplicam. Pode ser pronome, determinante ou advérbio, e é comum em frases negativas.",
+    "pronunciation": "Níder or Náider"
+  },
+  {
+    "term": "Complaints",
+    "translation": "Reclamações | Queixas",
+    "example": "The company received several complaints about the delay. | She filed a complaint with the manager. | They listened to the customers’ complaints carefully.",
+    "description": "É o plural de 'complaint'. Refere-se a expressões de insatisfação, críticas ou queixas sobre algo considerado errado, injusto ou insatisfatório.",
+    "pronunciation": "Kâmplêints"
+  },
+  {
+    "term": "Overwhelmed",
+    "translation": "Sobrecarregado",
+    "example": "She felt overwhelmed by all the responsibilities. | He is overwhelmed with work this week.",
+    "description": "É o particípio passado do verbo 'overwhelm'. Usado para descrever alguém que está sentindo uma carga emocional ou física muito intensa, seja por estresse, tarefas ou sentimentos.",
+    "pronunciation": "Ôuveruélmd"
+  },
+  {
+    "term": "Overwhelm",
+    "translation": "Sobrecarregar (Verbo)",
+    "example": "The project deadlines are starting to overwhelm the team. | She was overwhelmed by the amount of emails in her inbox. | His responsibilities at work often overwhelm him.",
+    "description": "Verbo usado para descrever a sensação de estar sobrecarregado com trabalho ou responsabilidades, geralmente devido a um volume excessivo de tarefas.",
+    "pronunciation": "Ôuverwélm"
+  },
+  {
+    "term": "Acknowledge",
+    "translation": "Reconhecer | Admitir | Acusar recebimento",
+    "example": "He refused to acknowledge his mistake. | She acknowledged the importance of teamwork. | Please acknowledge receipt of this email.",
+    "description": "Verbo usado para indicar que alguém reconhece, admite ou aceita algo como verdadeiro, ou que confirma o recebimento de uma informação ou mensagem.",
+    "pronunciation": "âk-nólidj"
+  },
+  {
+    "term": "Nonsense",
+    "translation": "Bobagem | Absurdo | Disparate | Sem sentido",
+    "example": "What he said was complete nonsense. | Don’t listen to that nonsense. | She laughed at the nonsense (Bobagens) in the movie.",
+    "description": "Usado para descrever algo sem sentido, sem lógica ou que é considerado ridículo. Pode ser usado tanto de forma séria quanto brincalhona.",
+    "pronunciation": "Nán-sens"
+  },
+  {
+    "term": "Shrink",
+    "translation": "Encolher | Reduzir",
+    "example": "The company plans to shrink its workforce due to budget cuts. | The project timeline might shrink if we prioritize tasks more effectively. | The data files shrank after we compressed them.",
+    "description": "Verbo [passado - shrank] usado para indicar a redução de algo em tamanho, quantidade ou intensidade, como em processos de corte de custos, diminuição de equipe ou arquivos.",
+    "pronunciation": "shrink"
+  },
+  {
+    "term": "Speech",
+    "translation": "Discurso | Fala",
+    "example": "The CEO gave an inspiring speech during the annual meeting. | She prepared a speech for the presentation to the investors. | His speech focused on the company's future goals and challenges.",
+    "description": "Substantivo usado para descrever uma comunicação verbal formal, como um discurso ou apresentação feita em público, frequentemente em um contexto profissional ou corporativo.",
+    "pronunciation": "spíitch"
+  },
+  {
+    "term": "Disturb",
+    "translation": "Perturbar | Interromper",
+    "example": "Please do not disturb me while I’m in the meeting. | His constant talking during the presentation disturbed the audience. | It’s important to avoid disturbing your colleagues during focused work hours.",
+    "description": "Verbo usado para indicar a ação de causar interrupção ou perturbação em algo ou alguém, especialmente em um ambiente profissional onde a concentração é necessária.",
+    "pronunciation": "distârb"
+  },
+  {
+    "term": "Something else",
+    "translation": "Outra coisa | Algo diferente",
+    "example": "We need to discuss something else before the meeting ends. | Is there something else you'd like to add to the agenda? | I think we should focus on something else, as the current approach isn’t working.",
+    "description": "Expressão usada para se referir a uma nova ideia, tópico ou assunto que é diferente do que está sendo discutido no momento. Comumente usada para mudar o foco da conversa ou das tarefas.",
+    "pronunciation": "sâmingth éls"
+  },
+  {
+    "term": "Anyone",
+    "translation": "Qualquer um | Alguém",
+    "example": "Is anyone available to take over this task? | Has anyone seen the latest report? | Anyone interested in joining the project team can apply.",
+    "description": "Pronome usado para se referir a qualquer pessoa em um contexto geral, frequentemente utilizado para fazer perguntas ou oferecer algo para um grupo sem especificar quem.",
+    "pronunciation": "êniwân"
+  },
+  {
+    "term": "No one",
+    "translation": "Ninguém",
+    "example": "No one attended the meeting yesterday. | I asked for help, but no one responded. | No one is available to cover the shift this afternoon.",
+    "description": "Expressão usada para indicar que nenhuma pessoa está envolvida ou presente em uma situação, geralmente utilizada para negar a presença ou participação de alguém.",
+    "pronunciation": "nôu wân"
+  },
+  {
+    "term": "Nobody",
+    "translation": "Ninguém",
+    "example": "Nobody responded to the email I sent yesterday. | Nobody has finished the report yet. | It seems like nobody wants to take responsibility for this task.",
+    "description": "Pronome usado para se referir à ausência de qualquer pessoa, ou seja, para indicar que não há ninguém envolvido ou presente em uma situação específica.",
+    "pronunciation": "nôubôdi"
+  },
+  {
+    "term": "Nobody else",
+    "translation": "Mais ninguém | Nenhuma outra pessoa",
+    "example": "Nobody else volunteered to lead the project. | I completed the task because nobody else had time. | Nobody else knew how to fix the issue with the server.",
+    "description": "Expressão usada para indicar que nenhuma outra pessoa, além da mencionada, está envolvida ou disponível em determinada situação.",
+    "pronunciation": "nôubôdi éls"
+  },
+  {
+    "term": "Commute",
+    "translation": "Deslocar-se | Viajar (frequentemente entre casa e trabalho)",
+    "example": "She commutes to work every day by train. | He spends two hours commuting to his office. | Many people prefer to commute by bicycle to avoid traffic.",
+    "description": "Refere-se ao ato de viajar regularmente entre um local de residência e um local de trabalho ou estudo. Também pode ser usado para descrever o trajeto em si.",
+    "pronunciation": "kəmíut"
+  },
+  {
+    "term": "In contrast",
+    "translation": "Em contraste | Ao contrário",
+    "example": "In contrast to her old job, she now has more free time. | The weather was sunny, in contrast to yesterday's rain. | He works in a big office, in contrast to his previous home office.",
+    "description": "Usado para mostrar uma diferença ou oposição entre duas coisas, destacando características opostas.",
+    "pronunciation": "in côntrest"
+  },  
+  {
+    "term": "Against",
+    "translation": "Contra",
+    "example": "She is against the idea of working overtime. | The company is against the new policy proposal. | They protested against the decision made by the board.",
+    "description": "Preposição usada para indicar oposição ou resistência a algo ou alguém, ou para mostrar uma direção ou movimento oposto.",
+    "pronunciation": "êguênst"
+  },
+  {
+    "term": "Overtime",
+    "translation": "Hora extra",
+    "example": "She had to work overtime to finish the project. | The company offers overtime pay for employees who work beyond regular hours. | He was paid for the overtime he worked during the holiday season.",
+    "description": "Refere-se ao tempo adicional trabalhado além do horário regular, geralmente remunerado de forma diferenciada.",
+    "pronunciation": "ôuvêrtaim"
+  },
+  {
+    "term": "Any",
+    "translation": "Qualquer | Algum(a)",
+    "example": "Do you have any questions? | Is there any news about the project deadline ? | If you need any help, let me know.",
+    "description": "Pronome usado para se referir a uma quantidade indeterminada de coisas ou pessoas, frequentemente utilizado em perguntas, frases negativas e condicionais.",
+    "pronunciation": "éni"
+  },
+  {
+    "term": "Workload",
+    "translation": "Carga de trabalho",
+    "example": "The workload has increased significantly this month due to the new project. | She is struggling to manage her workload effectively. | His workload is too heavy, and he needs assistance.",
+    "description": "Refere-se à quantidade de trabalho que uma pessoa ou grupo de pessoas precisa realizar em um período específico. É frequentemente usada no contexto profissional ou corporativo.",
+    "pronunciation": "wôrk-lôud"
+  },
+  {
+    "term": "Unlike",
+    "translation": "Diferente de",
+    "example": "Unlike his colleagues, John prefers to work from home. | Unlike the previous project, this one has a much tighter deadline. | She is unlike anyone I’ve ever met in this company.",
+    "description": "Usado para indicar uma diferença entre duas coisas, pessoas ou situações, mostrando que algo é oposto ou distinto de outra coisa.",
+    "pronunciation": "ãn-láik"
+  },
+  {
+    "term": "Refuse",
+    "translation": "Recusar",
+    "example": "She refused to attend the meeting because of the schedule conflict. | He refused to accept the job offer after reconsidering the terms. | The company refuses to comment on the allegations.",
+    "description": "Verbo utilizado para indicar a ação de rejeitar ou não aceitar algo, seja uma proposta, convite ou responsabilidade.",
+    "pronunciation": "ri-fiúz"
+  },
+  {
+    "term": "Value",
+    "translation": "Valorizar | Apreciar",
+    "example": "I really value your input on this project. | The company values honesty and integrity in its employees. | She values the time spent with her family.",
+    "description": "Verbo usado para expressar a ação de considerar algo importante ou digno de apreço, atribuindo-lhe valor ou significado.",
+    "pronunciation": "vél-iu"
   }  
 ]
