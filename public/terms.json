@@ -33,28 +33,14 @@
     "example": "I’m back from my vacation.",
     "description": "Usado para indicar que alguém retornou.",
     "pronunciation": "Aim bék"
-  },
-  {
-    "term": "Pretty busy",
-    "translation": "Muito ocupado",
-    "example": "I’ve been pretty busy this week with work.",
-    "description": "Expressa que alguém está com muitos compromissos ou tarefas.",
-    "pronunciation": "Príri bîzi"
-  },
+  },  
   {
     "term": "This way",
     "translation": "Por aqui",
     "example": "This way, follow me!",
     "description": "Usado para indicar uma direção.",
     "pronunciation": "Dis uêi"
-  },
-  {
-    "term": "Pretty crazy",
-    "translation": "Muito louco",
-    "example": "The meeting today was pretty crazy, lots of unexpected issues.",
-    "description": "Pode ser usado para descrever situações intensas ou absurdas.",
-    "pronunciation": "Príri crêizi"
-  },
+  },  
   {
     "term": "For sure",
     "translation": "Claro que sim",
@@ -261,31 +247,31 @@
   {
     "term": "Curious",
     "translation": "Curioso",
-    "example": "",
-    "description": "",
+    "example": "She was curious about the new project. | I'm curious to know what happened. | The kids looked curious.",
+    "description": "Adjetivo usado para descrever alguém que sente vontade de saber ou aprender algo.",
     "pronunciation": "Kiúriâs"
   },
   {
     "term": "Mysterious",
     "translation": "Misterioso",
-    "example": "",
-    "description": "",
+    "example": "He received a mysterious message. | The place felt mysterious at night. | She had a mysterious smile.",
+    "description": "Adjetivo usado para descrever algo difícil de entender ou que provoca curiosidade.",
     "pronunciation": "Mistírias"
   },
   {
     "term": "Relaxed",
     "translation": "Relaxado",
-    "example": "",
-    "description": "",
+    "example": "She felt relaxed after the massage. | He looks relaxed today. | We had a relaxed weekend.",
+    "description": "Adjetivo usado para expressar um estado de calma e ausência de estresse.",
     "pronunciation": "Rilékst"
   },
   {
     "term": "Exhausted",
     "translation": "Exausto",
-    "example": "",
-    "description": "",
+    "example": "He was exhausted after work. | I'm exhausted from walking. | They felt exhausted after the trip.",
+    "description": "Adjetivo usado para indicar cansaço extremo, físico ou mental.",
     "pronunciation": "Igzóstid"
-  },
+  },  
   {
     "term": "Surprise",
     "translation": "Surpresa | Surpreender",
@@ -2964,5 +2950,20 @@
     "example": "I really value your input on this project. | The company values honesty and integrity in its employees. | She values the time spent with her family.",
     "description": "Verbo usado para expressar a ação de considerar algo importante ou digno de apreço, atribuindo-lhe valor ou significado.",
     "pronunciation": "vél-iu"
-  }  
+  },
+  {
+    "term": "At all",
+    "translation": "De jeito nenhum | Nem um pouco",
+    "example": "He didn’t help at all. | I don’t like it at all. | She didn’t complain at all.",
+    "description": "Expressão usada para enfatizar a negação, indicando ausência total de algo.",
+    "pronunciation": "ét ól"
+  },
+  {
+    "term": "Not all",
+    "translation": "Nem todos | Não são todos",
+    "example": "Not all employees agreed. | Not all tasks are urgent. | Not all files were uploaded.",
+    "description": "Expressão usada para indicar que apenas parte de um grupo é afetada ou se aplica à afirmação.",
+    "pronunciation": "nót ól"
+  } 
+  
 ]
