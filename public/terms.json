@@ -98,13 +98,6 @@
     "pronunciation": "Nép"
   },
   {
-    "term": "Even know",
-    "translation": "Até sei",
-    "example": "I even know how to fix the issue, but I didn’t have time.",
-    "description": "Expressa conhecimento inesperado ou adicional.",
-    "pronunciation": "Íven nôu"
-  },
-  {
     "term": "As well",
     "translation": "Também",
     "example": "I work on Mondays as well.",
@@ -142,10 +135,10 @@
   {
     "term": "Passed away",
     "translation": "Faleceu",
-    "example": "Jack passed away yesterday morning.",
-    "description": "Uma forma mais suave de dizer que alguém morreu.",
+    "example": "Jack passed away yesterday. | Her grandfather passed away last year. | Many people passed away in the accident.",
+    "description": "Uma forma mais suave e respeitosa de dizer que alguém morreu.",
     "pronunciation": "Péstêd uêi"
-  },
+  },  
   {
     "term": "I got there",
     "translation": "Eu cheguei lá",
@@ -213,7 +206,7 @@
     "term": "Seek",
     "translation": "Procurar | Buscar | Tentar obter",
     "example": "I seek new opportunities in my career. | They sought medical help immediately. | She is seeking advice from her mentor. | He seeks justice. | We're seeking a solution to improve productivity.",
-    "description": "Passado [sought]. Usado para objetivos, ajuda, justiça, soluções, etc.",
+    "description": "Passado [sought]. Verbo usado para indicar o ato de procurar ou tentar encontrar algo, como informações, ajuda, oportunidades ou soluções.",
     "pronunciation": "Sík"
   },
   {
@@ -581,11 +574,11 @@
     "pronunciation": "Rân aut"
   },
   {
-    "term": "Was over",
-    "translation": "Algo foi concluído | Algo terminou",
-    "example": "The party was over by midnight. | The meeting was over after an hour. | His time in the city was over. | Her vacation was over, so she had to go back to work.",
-    "description": "Usado para indicar que algo foi concluído ou terminou. Pode ser usado em diversos contextos, como eventos, atividades, sentimentos...",
-    "pronunciation": "Uâz ôuvêr"
+    "term": "Over",
+    "translation": "Acabado | Terminado",
+    "example": "The party was over by midnight. | The meeting is over now. | The show is over. | The game is over.",
+    "description": "Usado para indicar que algo acabou ou terminou, especialmente eventos ou situações.",
+    "pronunciation": "Ôuvêr"
   },
   {
     "term": "Was out",
@@ -768,26 +761,12 @@
     "example": "",
     "description": "Usamos esse termo quando alguém espirra. Em português geralmente usamos [saúde]",
     "pronunciation": ""
-  },
-  {
-    "term": "Chatting",
-    "translation": "Conversando de maneira informal ou descontraída",
-    "example": "We were chatting about our plans for the weekend. | I had a nice chat with my friend yesterday.",
-    "description": "Verbo chat",
-    "pronunciation": ""
-  },
+  },  
   {
     "term": "Arise",
     "translation": "Surgir | Aparecer",
     "example": "Something unexpected may arise during the meeting. | He arose early to catch the first train. | Problems arise when people don't communicate well. | Problems arise when people don't expect.",
     "description": "Algo que começa a acontecer geralmente de maneira inesperada.",
-    "pronunciation": ""
-  },
-  {
-    "term": "Insightful (Adjetivo)",
-    "translation": "Conhecimento profundo",
-    "example": "Her insightful analysis helped us understand the situation better. | He has an insightful look at marketing.",
-    "description": "Significa algo que demonstra uma compreensão profunda e clara sobre algo, ou que oferece uma perspectiva perspicaz.",
     "pronunciation": ""
   },
   {
@@ -1876,13 +1855,6 @@
     "pronunciation": "Êim"
   },
   {
-    "term": "Shifty",
-    "translation": "Desonesto | Suspeito | Evasivo",
-    "example": "He gave me a shifty look (olhar suspeito). | I don’t trust him, he seems shifty.",
-    "description": "",
-    "pronunciation": "Shífti"
-  },
-  {
     "term": "Shift",
     "translation": "Mudar | Deslocar | Turno (substântivo)",
     "example": "We need to shift (mudar) our strategy. | She works the night shift.",
@@ -2628,13 +2600,6 @@
     "example": "I'm glad you're here. | He was glad to help. | She’s glad about the good news.",
     "description": "Adjetivo usado para expressar alegria ou satisfação por algo específico. Muitas vezes usado com 'to' ou 'about'.",
     "pronunciation": "Gléd"
-  },
-  {
-    "term": "Meantime",
-    "translation": "Enquanto isso | Nesse meio tempo",
-    "example": "The meeting starts at 3 p.m. In the meantime, let's grab some coffee. | He’ll be ready soon. In the meantime, wait here. | She’s getting dressed; in the meantime, I’ll set the table.",
-    "description": "Usado como advérbio para indicar o intervalo entre dois momentos. Frequentemente aparece em expressões como 'in the meantime'.",
-    "pronunciation": "Mín-taim"
   },  
   {
     "term": "Chase",
@@ -2964,6 +2929,117 @@
     "example": "Not all employees agreed. | Not all tasks are urgent. | Not all files were uploaded.",
     "description": "Expressão usada para indicar que apenas parte de um grupo é afetada ou se aplica à afirmação.",
     "pronunciation": "nót ól"
-  } 
-  
+  },
+  {
+    "term": "Get by",
+    "translation": "Se virar | Dar conta",
+    "example": "I can get by with my basic English. | She gets by on a small salary. | We’ll get by until help arrives.",
+    "description": "Expressão usada para indicar que alguém consegue lidar com uma situação difícil com os recursos limitados que tem.",
+    "pronunciation": "Guét bái"
+  },
+  {
+    "term": "Mood",
+    "translation": "Humor | Estado de espírito",
+    "example": "She’s in a good mood today. | His mood changed quickly. | The music set a romantic mood.",
+    "description": "Substantivo usado para expressar o estado emocional de uma pessoa ou a atmosfera de um ambiente.",
+    "pronunciation": "Múud"
+  },
+  {
+    "term": "Quote",
+    "translation": "Citação | Citar",
+    "example": "She shared a quote from a famous author. | He likes to quote inspiring phrases. | Can you quote what the manager said?",
+    "description": "Pode ser usado como substantivo para se referir a uma citação ou frase dita por alguém, ou como verbo, significando o ato de citar algo ou alguém.",
+    "pronunciation": "Kuôut"
+  },
+  {
+    "term": "Welcome",
+    "translation": "Bem-vindo | Dar boas-vindas",
+    "example": "Welcome to our office! | We welcomed the new team member warmly. | You’re always welcome here.",
+    "description": "Pode ser usado como interjeição para cumprimentar alguém, como verbo para expressar o ato de receber bem, ou como adjetivo indicando que algo ou alguém é bem-vindo.",
+    "pronunciation": "Uélkâm"
+  },
+  {
+    "term": "Embarrassed",
+    "translation": "Envergonhado | Constrangido",
+    "example": "She felt embarrassed after tripping on stage. | He looked embarrassed when he forgot her name. | I get embarrassed when people compliment me.",
+    "description": "Adjetivo usado para descrever alguém que está sentindo vergonha ou desconforto por causa de uma situação embaraçosa.",
+    "pronunciation": "Êm-bérâst"
+  },
+  {
+    "term": "Thank",
+    "translation": "Agradecer",
+    "example": "I want to thank you for your help. | Don’t forget to thank her for the gift. | He thanked everyone after the meeting.",
+    "description": "Verbo usado para expressar gratidão ou reconhecimento a alguém por algo que fez.",
+    "pronunciation": "Thénk"
+  },
+  {
+    "term": "Starting",
+    "translation": "A partir de",
+    "example": "Starting next week, we’ll work remotely. | The new policy applies (entram em vigor) starting today. | Starting January, prices will increase.",
+    "description": "Usado para indicar o início de algo a partir de uma data ou ponto no tempo.",
+    "pronunciation": "Stárin"
+  },
+  {
+    "term": "Dismissal",
+    "translation": "Demissão | Dispensa",
+    "example": "The company announced several dismissals. | He faced dismissal after the mistake. | Her dismissal was unexpected.",
+    "description": "Substantivo usado para indicar o ato de dispensar alguém de um cargo, geralmente por decisão da empresa.",
+    "pronunciation": "Dismíssâl"
+  },  
+  {
+    "term": "Tend",
+    "translation": "Tender | Costumar | Cuidar de",
+    "example": "I tend to work late on Fridays. | She tends the garden every morning. | They tend to avoid conflicts.",
+    "description": "Verbo que indica a tendência de fazer algo regularmente ou cuidar de algo/alguém.",
+    "pronunciation": "Ténd"
+  },
+  {
+    "term": "Whenever",
+    "translation": "Sempre que | Sempre que acontecer",
+    "example": "Call me whenever you need help. | Whenever it rains, we stay inside. | You can visit whenever you want.",
+    "description": "Usado para indicar que algo acontece em qualquer momento ou toda vez que uma condição ocorre.",
+    "pronunciation": "Uénévér"
+  },
+  {
+    "term": "Pretend",
+    "translation": "Fingir | Fazer de conta",
+    "example": "She pretended to be busy. | He pretended not to hear the question. | They pretended everything was fine.",
+    "description": "Verbo usado para indicar que alguém finge algo ou simula uma situação que não é verdadeira.",
+    "pronunciation": "Priténd"
+  },
+  {
+    "term": "Chat",
+    "translation": "Conversar de maneira informal ou descontraída",
+    "example": "We were chatting about our plans for the weekend. | I had a nice chat with my friend yesterday.",
+    "description": "Verbo usado para descrever uma conversa casual e informal entre pessoas.",
+    "pronunciation": "tchá"
+  },
+  {
+    "term": "Cause",
+    "translation": "Causa | Provocar",
+    "example": "The storm caused a delay. | Stress can cause health problems.",
+    "description": "Verbo que significa provocar algo; substantivo que indica motivo ou razão.",
+    "pronunciation": "kóz"
+  },
+  {
+    "term": "Crash",
+    "translation": "Colidir | Quebrar (falhar)",
+    "example": "The car crashed into the wall. | My computer crashed yesterday.",
+    "description": "Verbo que indica uma colisão ou falha súbita, como de veículos ou sistemas.",
+    "pronunciation": "krésh"
+  },
+  {
+    "term": "Debug",
+    "translation": "Depurar | Encontrar e corrigir erros em um programa",
+    "example": "I need to debug the code before the release. | She spent hours debugging the app. | They debugged the system to fix the issue.",
+    "description": "Verbo usado para descrever o processo de identificar e corrigir erros em software ou sistemas.",
+    "pronunciation": "Dí-bâg"
+  },
+  {
+    "term": "Truth",
+    "translation": "Verdade",
+    "example": "The truth is important in every business deal. | She always tells the truth. | The truth came out during the meeting.",
+    "description": "Substantivo que representa a conformidade com fatos ou realidade; algo que é verdadeiro.",
+    "pronunciation": "Truúth"
+  }
 ]
