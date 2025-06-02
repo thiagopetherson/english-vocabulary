@@ -362,14 +362,7 @@
     "example": "I don't live with greed. | There's no greed in my life. | Greed can destroy a good team environment.",
     "description": "Desejo excessivo de ter mais (dinheiro, poder, bens), sem se importar com os outros.",
     "pronunciation": "Grid"
-  },
-  {
-    "term": "Even (adjetivo)",
-    "translation": "Nivelado | Igual",
-    "example": "Make sure the table is even before placing the vase. | The workload should be even among team members.",
-    "description": "Algo que está nivelado, estável ou igual.",
-    "pronunciation": "Íven"
-  },
+  },  
   {
     "term": "Even (advérbio)",
     "translation": "Até | Mesmo | Sequer",
@@ -1925,13 +1918,6 @@
     "pronunciation": "Sheim"
   },
   {
-    "term": "Shame (Substantivo)",
-    "translation": "Vergonha de uma pessoa ou situação | Pena | Tristeza",
-    "example": "She felt deep shame for what she had done. | It’s a shame you couldn’t come to the party | There’s no shame in asking for help.",
-    "description": "",
-    "pronunciation": "Sheim"
-  },
-  {
     "term": "Lazy (Adjetivo)",
     "translation": "Preguiçoso | Desleixado",
     "example": "He's too lazy to clean his room. | I had a lazy Sunday, just watching movies. | She gave a lazy excuse for being late. | Stop being lazy and do your homework !",
@@ -2513,7 +2499,7 @@
   {
     "term": "Whatever",
     "translation": "O que quer que | Qualquer que seja | Tanto faz",
-    "example": "Whetever! (tanto faz) | You can choose whatever you want. | Whatever decision you make, I’ll support you. | We’ll do whatever is necessary to finish this project.",
+    "example": "Whatever! (tanto faz) | You can choose whatever you want. | Whatever decision you make, I’ll support you. | We’ll do whatever is necessary to finish this project.",
     "description": "Usado para indicar que qualquer opção ou escolha é válida. Também pode ser usado para enfatizar indiferença, dependendo do tom.",
     "pronunciation": "Uâtevêr"
   },
@@ -3041,5 +3027,104 @@
     "example": "The truth is important in every business deal. | She always tells the truth. | The truth came out during the meeting.",
     "description": "Substantivo que representa a conformidade com fatos ou realidade; algo que é verdadeiro.",
     "pronunciation": "Truúth"
-  }
+  },
+  {
+    "term": "Wonder",
+    "translation": "Imaginar | Perguntar-se | Admirar",
+    "example": "I wonder if she’s coming to the meeting. | He wondered what would happen next. | Many people wonder about life on other planets.",
+    "description": "Verbo usado para expressar curiosidade ou incerteza sobre algo. Também pode indicar admiração por algo impressionante ou misterioso.",
+    "pronunciation": "Uândêr"
+  },
+  {
+    "term": "Congratulate",
+    "translation": "Parabenizar",
+    "example": "I called to congratulate her on the promotion. | They congratulated him after the presentation. | Don’t forget to congratulate your colleague on his success.",
+    "description": "Verbo usado para expressar alegria ou reconhecimento pelo sucesso ou conquista de alguém.",
+    "pronunciation": "Côngrétchiulêit"
+  },
+  {
+    "term": "Unable",
+    "translation": "Incapaz | Não consegue",
+    "example": "She was unable to attend the meeting. | I'm unable to access the file. | They were unable to fix the issue on time.",
+    "description": "Adjetivo usado para indicar que alguém não tem capacidade, permissão ou possibilidade de fazer algo.",
+    "pronunciation": "Ânêibôl"
+  },
+  {
+    "term": "Chunk",
+    "translation": "Pedaço | Porção",
+    "example": "He cut the cake into chunks. | I read the book in small chunks. | A chunk of the wall fell off.",
+    "description": "Substantivo usado para se referir a uma parte ou pedaço grande de algo, como comida, informação ou objetos físicos.",
+    "pronunciation": "Tchânk"
+  },
+  {
+    "term": "Secondly",
+    "translation": "Em segundo lugar",
+    "example": "Firstly, we need to plan. Secondly, we must take action. | Secondly, I want to thank everyone for coming.",
+    "description": "Usado para introduzir o segundo ponto em uma sequência de ideias, geralmente em textos ou falas organizadas.",
+    "pronunciation": "Sékândli"
+  },
+  {
+    "term": "Come",
+    "translation": "Vir | Chegar",
+    "example": "Can you come here for a moment? | What time will they come? | She came to the meeting late.",
+    "description": "Verbo usado para indicar movimento em direção ao local onde está quem fala ou para onde se quer ir.",
+    "pronunciation": "Kâm"
+  },
+  {
+    "term": "First of all",
+    "translation": "Primeiramente | Antes de tudo",
+    "example": "First of all, we need to review the report. | First of all, thank you for coming. | First of all, let’s set the goals.",
+    "description": "Expressão usada para introduzir o primeiro ponto ou passo em uma lista ou sequência de ideias.",
+    "pronunciation": "Fârst óv ól"
+  },  
+  {
+    "term": "Clarify",
+    "translation": "Esclarecer | Tornar claro",
+    "example": "Please clarify your instructions. | Can you clarify the main points? | He clarified the details during the meeting.",
+    "description": "Verbo usado para explicar algo de forma mais clara e fácil de entender, eliminando dúvidas ou confusões.",
+    "pronunciation": "Clérifi"
+  },
+  {
+    "term": "Aware",
+    "translation": "Ciente | Consciente",
+    "example": "I am aware of the deadline. | She is aware of the risks. | They were not aware of the changes.",
+    "description": "Adjetivo usado para indicar que alguém sabe ou percebe algo.",
+    "pronunciation": "Uérr"
+  },
+  {
+    "term": "Quite",
+    "translation": "Bastante | Muito | Completamente",
+    "example": "The report is quite detailed. | She is quite skilled. | The project is quite challenging.",
+    "description": "Advérbio usado para intensificar o grau ou a extensão de algo.",
+    "pronunciation": "Quáit"
+  },
+  {
+    "term": "Undue",
+    "translation": "Excessivo | Indevido",
+    "example": "He received undue criticism. | The delay caused undue stress. | Avoid undue pressure on your team.",
+    "description": "Adjetivo usado para descrever algo que é excessivo ou injustificado.",
+    "pronunciation": "Ândú"
+  },
+  {
+    "term": "Smooth",
+    "translation": "Suave | Liso | Fluido",
+    "example": "The process was smooth. | She gave a smooth presentation. | The software runs smooth.",
+    "description": "Adjetivo usado para indicar algo que acontece de forma fácil, sem problemas ou interrupções.",
+    "pronunciation": "Smúth"
+  },
+  {
+    "term": "Among",
+    "translation": "Entre | No meio de",
+    "example": "She was among the winners. | The secret was shared among friends. | Among the options, this is best.",
+    "description": "Usado para indicar que algo ou alguém está no meio ou faz parte de um grupo.",
+    "pronunciation": "A-mông"
+  },
+  {
+    "term": "Ashamed",
+    "translation": "Envergonhado",
+    "example": "He felt ashamed of his mistake. | She was ashamed to ask for help. | They seemed ashamed after the accident.",
+    "description": "Sentimento de vergonha ou constrangimento por algo que se fez ou aconteceu.",
+    "pronunciation": "A-xêimd"
+  },
+  
 ]
