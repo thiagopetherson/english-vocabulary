@@ -2845,13 +2845,6 @@
     "example": "She commutes to work every day by train. | He spends two hours commuting to his office. | Many people prefer to commute by bicycle to avoid traffic.",
     "description": "Refere-se ao ato de viajar regularmente entre um local de residência e um local de trabalho ou estudo. Também pode ser usado para descrever o trajeto em si.",
     "pronunciation": "kəmíut"
-  },
-  {
-    "term": "In contrast",
-    "translation": "Em contraste | Ao contrário",
-    "example": "In contrast to her old job, she now has more free time. | The weather was sunny, in contrast to yesterday's rain. | He works in a big office, in contrast to his previous home office.",
-    "description": "Usado para mostrar uma diferença ou oposição entre duas coisas, destacando características opostas.",
-    "pronunciation": "in côntrest"
   },  
   {
     "term": "Against",
@@ -3125,5 +3118,82 @@
     "example": "He felt ashamed of his mistake. | She was ashamed to ask for help. | They seemed ashamed after the accident.",
     "description": "Sentimento de vergonha ou constrangimento por algo que se fez ou aconteceu.",
     "pronunciation": "A-xêimd"
-  }  
+  },
+  {
+    "term": "Course of time",
+    "translation": "Com o passar do tempo | Ao longo do tempo",
+    "example": "Many changes happened over the course of time. | Skills improve in the course of time. | The team got stronger in the course of time.",
+    "description": "Expressão usada para indicar que algo ocorre gradualmente ou se desenvolve ao longo de um período de tempo.",
+    "pronunciation": "Côrs âv táim"
+  },
+  {
+    "term": "Coincide",
+    "translation": "Coincidir | Acontecer ao mesmo tempo",
+    "example": "The meeting coincides with my lunch break. | Their vacations coincided last year. | The deadlines coincide this month.",
+    "description": "Verbo usado para indicar que dois ou mais eventos acontecem ao mesmo tempo ou de forma compatível.",
+    "pronunciation": "Kôin-sáid"
+  },
+  {
+    "term": "Research",
+    "translation": "Pesquisa | Pesquisar",
+    "example": "She is doing research on market trends. | We need to research before launching the product. | He spent hours researching competitors.",
+    "description": "Pode ser usado como substantivo (pesquisa) ou verbo (pesquisar), especialmente em contextos acadêmicos, científicos ou profissionais.",
+    "pronunciation": "Rí-sârtch"
+  },
+  {
+    "term": "Assess",
+    "translation": "Avaliar | Analisar",
+    "example": "We need to assess the project's risks. | The manager assessed the team's performance. | Please assess the situation before making a decision.",
+    "description": "Verbo usado para indicar a ação de avaliar, analisar ou julgar algo, muito comum em contextos profissionais para medir desempenho, riscos ou condições.",
+    "pronunciation": "Á-sés"
+  },
+  {
+    "term": "Protect",
+    "translation": "Proteger",
+    "example": "Employees must protect confidential information. | The system protects data from unauthorized access. | We need to protect our client’s privacy.",
+    "description": "Verbo que significa guardar ou defender algo ou alguém contra dano, perigo ou ataque, muito usado em contextos de segurança e cuidados.",
+    "pronunciation": "Prô-tékt"
+  },
+  {
+    "term": "Measure",
+    "translation": "Medir | Medida",
+    "example": "We need to measure the performance of the system. | The company took measures to improve security. | Can you measure the length of this table?",
+    "description": "Pode ser verbo, que significa determinar o tamanho, quantidade ou grau de algo, ou substantivo, que indica uma ação tomada para atingir um objetivo.",
+    "pronunciation": "Mézhur"
+  },
+  {
+    "term": "Test-driven",
+    "translation": "Orientado por testes",
+    "example": "We follow a test-driven approach in software development. | Test-driven design helps catch bugs early. | We don't usually implement test-driven development in our projects. | We never implemented TDD in our projects.",
+    "description": "Geralmente usado em contextos como 'test-driven development' (desenvolvimento orientado por testes), significa que os testes são criados antes da implementação, guiando o desenvolvimento do software.",
+    "pronunciation": "Tést-drívan"
+  },
+  {
+    "term": "Expect",
+    "translation": "Esperar | Prever",
+    "example": "I expect the meeting to start on time. | We expect good results from the project. | I expected she had finished this feature last week. | They expected more of me.",
+    "description": "Verbo usado para indicar que se espera que algo aconteça ou que alguém faça algo.",
+    "pronunciation": "Iks-pékt"
+  },
+  {
+    "term": "Involve",
+    "translation": "Envolver | Incluir",
+    "example": "This project involves multiple teams. | The task involves careful planning. | This decision involves several aspects (factors). | Did you get involved in this project? | Were you involved in this project ?",
+    "description": "Verbo usado para indicar que algo inclui ou requer a participação de pessoas ou elementos.",
+    "pronunciation": "In-vólv"
+  },
+  {
+    "term": "Warn",
+    "translation": "Avisar | Alertar",
+    "example": "They warned us about the deadline. | I warned him not to be late. | They warned us about the danger of using Laravel. | They didn't warn us that It would be risky.",
+    "description": "Verbo usado para alertar alguém sobre um possível perigo ou problema.",
+    "pronunciation": "Uôrn"
+  },
+  {
+    "term": "Insist",
+    "translation": "Insistir",
+    "example": "She insisted on finishing the report herself. | They insisted that we attend the meeting. | He always insists that we use NestJs in the company's projects.",
+    "description": "Verbo usado para afirmar algo com firmeza ou para pedir que algo seja feito.",
+    "pronunciation": "In-síst"
+  }
 ]
