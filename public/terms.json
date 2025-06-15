@@ -387,24 +387,24 @@
   {
     "term": "Bald",
     "translation": "Careca",
-    "example": "",
-    "description": "",
+    "example": "He is bald and wears a hat. | My grandfather has been bald for years.",
+    "description": "Adjetivo usado para descrever alguém que não tem cabelo na cabeça.",
     "pronunciation": "Bóld"
   },
   {
     "term": "Blind",
     "translation": "Cego",
-    "example": "",
-    "description": "",
+    "example": "She has been blind since birth. | The blind man uses a cane to walk.",
+    "description": "Adjetivo usado para indicar a falta de visão total ou parcial.",
     "pronunciation": "Bláind"
   },
   {
     "term": "Deaf",
     "translation": "Surdo",
-    "example": "",
-    "description": "",
+    "example": "He is deaf and communicates using sign language. | The deaf community has its own culture.",
+    "description": "Adjetivo usado para indicar a perda total ou parcial da audição.",
     "pronunciation": "Dêf"
-  },
+  },  
   {
     "term": "I grew up",
     "translation": "Eu cresci",
@@ -731,79 +731,79 @@
     "term": "Based",
     "translation": "Baseado",
     "example": "Based on a true story. | Based on true events. | The company is based in New York.",
-    "description": "Com base ou baseado em algum lugar.",
-    "pronunciation": ""
+    "description": "Indica algo que se baseia em outra coisa ou está localizado em algum lugar.",
+    "pronunciation": "Bêisd"
   },
   {
     "term": "I have been with them for about five years now",
     "translation": "Eu estive com eles há 5 anos.",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
+    "example": "I have been with them for five years now. | She has been with the company since 2018.",
+    "description": "Expressão usada para indicar o tempo que alguém está com um grupo, empresa ou equipe.",
+    "pronunciation": "Ai rév bín uíðêm fór abáut fáiv iêrs náu"
   },
   {
     "term": "Pleasure",
     "translation": "Prazer",
-    "example": "My Pleasure (Muito pazer)",
-    "description": "",
-    "pronunciation": ""
+    "example": "My pleasure. (Muito prazer.)| It’s a pleasure to meet you.",
+    "description": "Expressão usada para indicar satisfação ou para responder educadamente a um agradecimento.",
+    "pronunciation": "Plézher"
   },
   {
-    "term": "Bless you! | Good Bless you!",
-    "translation": "Saúde! | Saúde",
-    "example": "",
-    "description": "Usamos esse termo quando alguém espirra. Em português geralmente usamos [saúde]",
-    "pronunciation": ""
+    "term": "Bless you! | God bless you!",
+    "translation": "Saúde! | Deus te abençoe!",
+    "example": "Bless you! (quando alguém espirra) | God bless you for your kindness.",
+    "description": "Frase dita para alguém que espirrou, equivalente a 'saúde' em português. Também pode ser usada para desejar bênçãos a alguém.",
+    "pronunciation": "Blés iu | Gód blés iu"
   },  
   {
     "term": "Arise",
     "translation": "Surgir | Aparecer",
-    "example": "Something unexpected may arise during the meeting. | He arose early to catch the first train. | Problems arise when people don't communicate well. | Problems arise when people don't expect.",
-    "description": "Algo que começa a acontecer geralmente de maneira inesperada.",
-    "pronunciation": ""
+    "example": "Problems arise during the project. | Opportunities may arise soon.",
+    "description": "Usado para indicar que algo começa a acontecer, geralmente de forma inesperada.",
+    "pronunciation": "Aráiz"
   },
   {
     "term": "Thank you for having me",
     "translation": "Obrigado por me receber | Obrigado por me convidar",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
+    "example": "Thank you for having me here today. | Thanks for having me at the meeting.",
+    "description": "Frase usada para agradecer a hospitalidade ou convite para um evento, reunião ou entrevista.",
+    "pronunciation": "Thénk iu fór révín mí"
   },
   {
     "term": "I have a background in sales and marketing",
     "translation": "Eu tenho experiência com vendas e marketing.",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
-  },
+    "example": "I have a background in sales and marketing. | She has a background in finance.",
+    "description": "Expressão para indicar experiência ou formação em uma área específica.",
+    "pronunciation": "Ai rév â bákgráund in séils and márketing"
+  },  
   {
     "term": "Leveraging (do verbo Leverage)",
-    "translation": "Utilizando. | Aproveitando ao máximo.",
-    "example": "The company is leveraging (aproveitando ao máximo) its (sua) technology to improve customer service. | She is leveraging her network to find new business opportunities. | They plan to leverage their expertise in marketing to expand their business. | The company plans to leverage its new technology to expand its market share.",
-    "description": "Usar algo (como recursos, habilidades ou influências) de forma eficaz para alcançar um objetivo, muitas vezes com o intuito de maximizar resultados.",
-    "pronunciation": ""
+    "translation": "Utilizando | Aproveitando ao máximo",
+    "example": "The company is leveraging its technology. | She is leveraging her contacts.",
+    "description": "Usar recursos ou habilidades para tirar o máximo proveito em uma situação.",
+    "pronunciation": "Lévêridj"
   },
   {
     "term": "Various",
     "translation": "Vários | Diversos",
-    "example": "There are various options available for the project.",
-    "description": "",
-    "pronunciation": ""
+    "example": "There are various options available. | Various teams participated.",
+    "description": "Indica múltiplas opções ou tipos diferentes de algo.",
+    "pronunciation": "Vêriâs"
   },
   {
     "term": "I'm a firm believer in continuous learning",
-    "translation": "Sou um firme defensor do aprendizado continuo.",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
-  },
+    "translation": "Sou um firme defensor do aprendizado contínuo.",
+    "example": "I'm a firm believer in continuous learning. | She is a firm believer in lifelong education.",
+    "description": "Frase para expressar forte convicção sobre a importância de aprender sempre.",
+    "pronunciation": "Aim â férm bilíver in contínius lârning"
+  },  
   {
     "term": "Commendable",
-    "translation": "Louvável | Digno de elogios.",
-    "example": "Her efforts to help the community are truly commendable. | he team's performance in the tournament was commendable. | They are commendable for what they made.",
-    "description": "",
-    "pronunciation": ""
-  },
+    "translation": "Louvável | Digno de elogios",
+    "example": "Her work is commendable. | The team's effort was commendable.",
+    "description": "Usado para descrever algo que merece reconhecimento ou elogios.",
+    "pronunciation": "Kôméndâbl"
+  },  
   {
     "term": "Sudden (Adjetivo)",
     "translation": "Algo que acontece de forma inesperada ou repentina",
@@ -828,80 +828,80 @@
   {
     "term": "Effort",
     "translation": "Esforço",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
+    "example": "She put a lot of effort into the project. | Effort is needed to succeed. | They made an effort to finish early.",
+    "description": "Ação de se dedicar para alcançar algo.",
+    "pronunciation": "Éfor-t"
   },
   {
-    "term": "Role fits",
-    "translation": "Adequação de uma pessoa a uma função",
-    "example": "",
-    "description": "",
-    "pronunciation": ""
-  },
+    "term": "Fit",
+    "translation": "Adequado | Encaixar-se",
+    "example": "He is a good fit for the job. | This shirt fits me well. | She fits perfectly in the team.",
+    "description": "Usado para indicar que algo ou alguém se encaixa bem em uma função, lugar ou roupa.",
+    "pronunciation": "Fít"
+  },  
   {
     "term": "As long as (Provided that)",
     "translation": "Contanto",
-    "example": "You can go to the party, as long as you finish your homework first. | I will help you, provided that you ask politely (educadamente). | You can join the team, as long as you are committed to the project. | He will attend the meeting, provided that he finishes his report on time.",
-    "description": "Podemos usar [as long as] ou [provided that]",
-    "pronunciation": ""
+    "example": "You can go to the party, as long as you finish your homework first. | I will help you, provided that you ask politely. | You can join the team, as long as you are committed to the project.",
+    "description": "Expressões usadas para indicar condição ou requisito para algo acontecer.",
+    "pronunciation": "As lóng ás | Próváid dét"
   },
   {
     "term": "Attain",
     "translation": "Alcançar | Atingir",
-    "example": "He worked hard to attain success in his career. | She attained the highest score in the class. | The company aims to attain a 10% growth in sales this year.",
-    "description": "Attained - passado",
-    "pronunciation": ""
+    "example": "He worked hard to attain success. | She attained the highest score. | They attained their goals after months of effort.",
+    "description": "Verbo que significa alcançar ou conseguir algo, especialmente com esforço.",
+    "pronunciation": "Atéin"
   },
   {
     "term": "Fall",
     "translation": "Cair",
-    "example": "I fall when I run too fast. | He fell down the stairs. | Every autumn, the leaves fall from the trees. | She fell off the bike when she tried to jump the ramp.",
-    "description": "Fell - passado",
-    "pronunciation": ""
+    "example": "I fall when I run too fast. | He fell down the stairs. | Leaves fall in autumn.",
+    "description": "Verbo que indica o ato de cair; 'fell' é o passado.",
+    "pronunciation": "Fól"
   },
   {
     "term": "Engage",
     "translation": "Engajar | Envolver-se",
-    "example": "She engages with her audience by asking questions. | The students engaged in a deep discussion about climate change.",
-    "description": "",
-    "pronunciation": ""
+    "example": "She engages with her audience. | They engaged in a discussion. | The team engaged in the project actively.",
+    "description": "Participar ativamente ou envolver-se em algo.",
+    "pronunciation": "En-gueidj"
   },
   {
     "term": "Enhance",
     "translation": "Melhorar | Aprimorar | Intensificar",
-    "example": "This new software enhances productivity in the workplace. | Good lighting enhances the beauty of a room. | Regular practice enhances your chances of success.",
-    "description": "",
-    "pronunciation": ""
+    "example": "This software enhances productivity. | Good lighting enhances a room. | Practice enhances skills.",
+    "description": "Tornar algo melhor ou mais eficaz.",
+    "pronunciation": "En-héns"
   },
   {
     "term": "Drive growth",
     "translation": "Impulsionar o crescimento",
-    "example": "Innovative strategies help drive growth in the technology sector. | nvesting in digital marketing can drive growth for small businesses. | New technologies drive growth by increasing efficiency and reducing costs.",
-    "description": "",
-    "pronunciation": ""
+    "example": "Strategies drive growth in business. | Marketing drives growth. | New tech drives growth by cutting costs.",
+    "description": "Frase que indica promover ou acelerar o crescimento de algo.",
+    "pronunciation": "Dráiv gróuth"
   },
   {
     "term": "Fast-Paced",
     "translation": "Rápido | Dinâmico | Acelerado",
-    "example": "She enjoys working in a fast-paced (dinâmico) environment. | The movie had a fast-paced (acelerado) plot that kept the audience engaged.",
-    "description": "",
-    "pronunciation": ""
+    "example": "She likes fast-paced work. | The movie had a fast-paced plot. | The city has a fast-paced lifestyle.",
+    "description": "Usado para descrever algo que acontece rapidamente ou com muita atividade.",
+    "pronunciation": "Fást pésd"
   },
   {
     "term": "Appear (Verbo)",
     "translation": "Aparecer",
-    "example": "A rainbow appeared after the rain.",
-    "description": "",
-    "pronunciation": ""
+    "example": "A rainbow appeared after the rain. | A new problem appeared suddenly. | He appeared at the door unexpectedly.",
+    "description": "Mostrar-se ou tornar-se visível.",
+    "pronunciation": "Apír"
   },
   {
     "term": "Disappear (Verbo)",
     "translation": "Desaparecer",
-    "example": "The magician made the rabbit disappear.",
-    "description": "",
-    "pronunciation": ""
-  },
+    "example": "The magician made the rabbit disappear. | The sun disappeared behind the clouds. | My keys disappeared yesterday.",
+    "description": "Deixar de estar visível ou presente.",
+    "pronunciation": "Disapír"
+  },  
   {
     "term": "Everything else",
     "translation": "Todo o resto. | Tudo mais.",
