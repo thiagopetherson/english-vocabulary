@@ -448,13 +448,6 @@
     "pronunciation": "Ái guét áp"
   },  
   {
-    "term": "Towards",
-    "translation": "Em direção a... | Para...",
-    "example": "She walked towards the door. | His attitude towards me has changed. | The car was heading towards the city.",
-    "description": "Usado para indicar direção física, atitude ou movimento em relação a algo ou alguém.",
-    "pronunciation": "tûórdz"
-  },  
-  {
     "term": "Moreover",
     "translation": "Além do mais | Além disso",
     "example": "She is a great singer. Moreover, she is a talented dancer. | The project is delayed, and moreover, we are facing budget issues.",
@@ -3195,5 +3188,68 @@
     "example": "She insisted on finishing the report herself. | They insisted that we attend the meeting. | He always insists that we use NestJs in the company's projects.",
     "description": "Verbo usado para afirmar algo com firmeza ou para pedir que algo seja feito.",
     "pronunciation": "In-síst"
+  },
+  {
+    "term": "Very fond",
+    "translation": "Muito apegado | Gosta muito",
+    "example": "She is very fond of her dog. | I’m very fond of Italian food. | He’s very fond of his childhood memories.",
+    "description": "Expressão usada para mostrar carinho, apreço ou afeição intensa por algo ou alguém.",
+    "pronunciation": "Véri fónd"
+  },
+  {
+    "term": "Soft spot",
+    "translation": "Ponto fraco | Fraquinho por",
+    "example": "She has a soft spot for stray animals. | I have a soft spot for classic movies. | He’s got a soft spot for homemade cookies.",
+    "description": "Expressão usada para indicar carinho ou preferência especial por algo ou alguém, apesar de possíveis defeitos ou contra‑indicativos.",
+    "pronunciation": "sóft spôt"
+  },
+  {
+    "term": "Income",
+    "translation": "Renda | Receita | Lucro",
+    "example": "His monthly income is enough to cover all his expenses. | The company reported a 20% increase in income. | She has a steady income from freelance work.",
+    "description": "Substantivo usado para descrever o dinheiro que uma pessoa ou empresa recebe, geralmente como pagamento por trabalho ou investimento.",
+    "pronunciation": "ín-kâm"
+  },
+  {
+    "term": "Please",
+    "translation": "Agradar | Satisfazer",
+    "example": "She always tries to please her boss. | It’s hard to please everyone. | The new policy didn’t please the employees.",
+    "description": "Verbo usado para indicar a ação de fazer algo que agrada ou satisfaz outra pessoa, muitas vezes buscando aprovação ou contentamento.",
+    "pronunciation": "plíz"
+  },
+  {
+    "term": "Arrange",
+    "translation": "Organizar | Agendar | Planejar",
+    "example": "I arranged a meeting with the client. | She arranged the files on her desk. | They arranged the project timeline carefully.",
+    "description": "Verbo usado para indicar o ato de organizar algo ou agendar compromissos, especialmente em contextos profissionais.",
+    "pronunciation": "arrêindj"
+  },
+  {
+    "term": "Grow",
+    "translation": "Crescer | Desenvolver | Aumentar",
+    "example": "The company plans to grow its market share. | She grew professionally over the last year. | Our sales have grown steadily this quarter.",
+    "description": "Verbo usado para indicar aumento ou desenvolvimento em tamanho, quantidade, ou habilidades, especialmente no contexto profissional ou empresarial.",
+    "pronunciation": "grôu"
+  },
+  {
+    "term": "Bond",
+    "translation": "Laço | Vínculo",
+    "example": "The team built a strong bond after the project. | Good leaders create bonds with their employees. | Trust helps bond colleagues together.",
+    "description": "Substantivo que se refere à conexão ou relacionamento forte entre pessoas, especialmente em ambientes de trabalho para cooperação e confiança.",
+    "pronunciation": "bônd"
+  },
+  {
+    "term": "Tire",
+    "translation": "Pneu | Cansar",
+    "example": "The car needs a new tire. | Employees tire after long meetings. | Don’t tire yourself with extra work.",
+    "description": "Pneu de carro; ou verbo cansar, ficar fatigado.",
+    "pronunciation": "táir"
+  },
+  {
+    "term": "Regardless",
+    "translation": "Independentemente | Sem importar",
+    "example": "We must meet the deadline regardless of difficulties. | She finished the report regardless of interruptions. | Regardless of the cost, quality is important.",
+    "description": "Advérbio usado para mostrar que algo acontece sem considerar obstáculos ou condições.",
+    "pronunciation": "rigárdless"
   }
 ]
