@@ -1204,13 +1204,6 @@
     "pronunciation": "ɪksˈpəʊz"
   },
   {
-    "term": "Go away",
-    "translation": "Ir embora | Sair",
-    "example": "Please go away, I'm busy right now. | She told him to go away after the argument. | The kids went away for the weekend to visit their grandparents.",
-    "description": "[Go away] tende a ser mais direto e usado para pedir que alguém se afaste de maneira imediata, enquanto [Leave] é mais neutro e usado para indicar a ação de sair, sem a mesma ênfase em afastamento.",
-    "pronunciation": "ɡoʊ əˈweɪ"
-  },
-  {
     "term": "Hire",
     "translation": "Contratar",
     "example": "The company hired a new manager last week. | She was hired as a software developer. | We need to hire more staff for the project.",
@@ -3251,5 +3244,68 @@
     "example": "We must meet the deadline regardless of difficulties. | She finished the report regardless of interruptions. | Regardless of the cost, quality is important.",
     "description": "Advérbio usado para mostrar que algo acontece sem considerar obstáculos ou condições.",
     "pronunciation": "rigárdless"
-  }
+  },
+  {
+    "term": "On the rise",
+    "translation": "Em ascensão | Aumentando",
+    "example": "Remote work is on the rise. | Complaints about delays are on the rise. | Productivity is on the rise this quarter.",
+    "description": "Expressão usada para indicar que algo está aumentando ou se tornando mais comum.",
+    "pronunciation": "ón dê ráiz"
+  },
+  {
+    "term": "Lately",
+    "translation": "Ultimamente",
+    "example": "Lately, I’ve been working overtime. | She’s been more focused lately. | Have you noticed any issues lately?",
+    "description": "Advérbio usado para falar de algo que vem acontecendo nos últimos dias ou semanas.",
+    "pronunciation": "lêitli"
+  },
+  {
+    "term": "Moving forward",
+    "translation": "Daqui pra frente | Avançando",
+    "example": "Moving forward, we will improve communication. | The team plans to meet moving forward. | Let’s focus on solutions moving forward.",
+    "description": "Expressão usada para indicar progresso ou continuidade em projetos ou tarefas.",
+    "pronunciation": "múvin fóruard"
+  },
+  {
+    "term": "Ahead",
+    "translation": "À frente | Adiantado",
+    "example": "We are ahead of schedule. | The manager is ahead in the project planning. | Look ahead to identify risks early.",
+    "description": "Advérbio ou adjetivo que indica estar na frente no tempo, espaço ou progresso.",
+    "pronunciation": "a-réd"
+  },
+  {
+    "term": "Postpone",
+    "translation": "Adiar | Prorrogar",
+    "example": "We need to postpone the meeting. | The deadline was postponed due to delays. | They postponed the training session.",
+    "description": "Verbo que indica transferir uma atividade para um momento futuro.",
+    "pronunciation": "póust-pôun"
+  },
+  {
+    "term": "Prevent",
+    "translation": "Prevenir | Evitar",
+    "example": "We must prevent errors in the report. | Training helps prevent accidents. | The system prevents unauthorized access.",
+    "description": "Verbo que significa impedir que algo aconteça.",
+    "pronunciation": "prê-vént"
+  },
+  {
+    "term": "Gain",
+    "translation": "Ganhar | Obter",
+    "example": "She gained new skills during training. | The company gained several clients last month. | Employees gain experience with each project.",
+    "description": "Verbo que significa obter ou conquistar algo, como habilidades, tempo ou vantagem.",
+    "pronunciation": "gên"
+  },
+  {
+    "term": "Excel",
+    "translation": "Sobressair | Destacar-se",
+    "example": "She excels at project management. | Does she excel in backend development ? | He wants to excel in his new role. | I exceled among the candidates.",
+    "description": "Verbo que significa ser muito bom ou se destacar em uma atividade ou área.",
+    "pronunciation": "ék-sel"
+  },
+  {
+    "term": "Role",
+    "translation": "Função | Papel",
+    "example": "Her role in the project is manager. | Employees understand their roles clearly. | My role in my last company was a backend developer.",
+    "description": "Substantivo que indica a função ou posição de alguém dentro de uma equipe ou organização.",
+    "pronunciation": "rôul"
+  }  
 ]
