@@ -19,14 +19,7 @@
     "example": "The landscapes in that region are breathtaking.",
     "description": "Geralmente usado para descrever a aparência natural de um lugar.",
     "pronunciation": "Lêndisquêips"
-  },
-  {
-    "term": "I went back",
-    "translation": "Eu voltei",
-    "example": "I went back to the office after lunch.",
-    "description": "Usado para dizer que retornou a um lugar onde já esteve.",
-    "pronunciation": "Ai uént bék"
-  },
+  },  
   {
     "term": "I'm back",
     "translation": "Eu estou de volta.",
@@ -866,13 +859,6 @@
     "example": "This software enhances productivity. | Good lighting enhances a room. | Practice enhances skills.",
     "description": "Tornar algo melhor ou mais eficaz.",
     "pronunciation": "En-héns"
-  },
-  {
-    "term": "Drive growth",
-    "translation": "Impulsionar o crescimento",
-    "example": "Strategies drive growth in business. | Marketing drives growth. | New tech drives growth by cutting costs.",
-    "description": "Frase que indica promover ou acelerar o crescimento de algo.",
-    "pronunciation": "Dráiv gróuth"
   },
   {
     "term": "Fast-Paced",
@@ -3307,5 +3293,145 @@
     "example": "Her role in the project is manager. | Employees understand their roles clearly. | My role in my last company was a backend developer.",
     "description": "Substantivo que indica a função ou posição de alguém dentro de uma equipe ou organização.",
     "pronunciation": "rôul"
-  }  
+  }, 
+  {
+    "term": "Achieve",
+    "translation": "Alcançar | Conquistar",
+    "example": "We achieved all project goals. | She achieved a promotion last month. | The team achieved excellent results.",
+    "description": "Verbo que significa alcançar ou conquistar algo planejado ou desejado.",
+    "pronunciation": "atchív"
+  },
+  {
+    "term": "Even so",
+    "translation": "Mesmo assim",
+    "example": "The deadline is tight; even so, we will finish on time. | He was tired; even so, he joined the meeting. | Even so, the results were positive.",
+    "description": "Expressão usada para indicar contraste, mostrando que algo acontece apesar de uma condição contrária.",
+    "pronunciation": "ívãn sôu"
+  },  
+  {
+    "term": "Contribute",
+    "translation": "Contribuir | Ajudar",
+    "example": "All employees contribute to the company’s success. | She contributed new ideas in the meeting. | Training contributes to better performance.",
+    "description": "Verbo que significa dar algo, como tempo, esforço ou ideias, para um objetivo comum.",
+    "pronunciation": "côn-tri-biút"
+  },
+  {
+    "term": "According to",
+    "translation": "De acordo com | Segundo",
+    "example": "According to the report, sales increased. | According to the manager, the project is on track. | We acted according to the company’s policy.",
+    "description": "Expressão usada para indicar que algo vem de uma fonte ou segue uma regra.",
+    "pronunciation": "acórdin tchu"
+  },
+  {
+    "term": "Attract",
+    "translation": "Atrair",
+    "example": "The company attracts top talent. | Marketing attracts new clients. | Good benefits attract employees.",
+    "description": "Verbo que significa chamar atenção ou interesse para algo ou alguém.",
+    "pronunciation": "á-tráct"
+  },
+  {
+    "term": "Contain",
+    "translation": "Conter | Incluir",
+    "example": "The report contains all necessary data. | The package contains the new software. | This folder contains project files.",
+    "description": "Verbo que indica que algo tem ou inclui algo dentro.",
+    "pronunciation": "côn-téin"
+  },
+  {
+    "term": "Skilled",
+    "translation": "Habilidoso | Qualificado",
+    "example": "She is skilled in programming. | The team is skilled at problem-solving. | Skilled workers improve productivity.",
+    "description": "Adjetivo que descreve alguém com habilidades ou qualificações para uma tarefa.",
+    "pronunciation": "skíld"
+  },
+  {
+    "term": "Solve",
+    "translation": "Resolver | Solucionar",
+    "example": "We need to solve this technical issue. | He solved the customer complaint quickly. | The team solved the problem together.",
+    "description": "Verbo que indica encontrar uma resposta ou solução para um problema.",
+    "pronunciation": "sólv"
+  },
+  {
+    "term": "Resolve",
+    "translation": "Resolver | Decidir",
+    "example": "They resolved the conflict peacefully. | She resolved to improve her work skills. | The manager resolved the budget issue.",
+    "description": "Verbo que significa solucionar problemas ou tomar uma decisão firme.",
+    "pronunciation": "rí-zólv"
+  },
+  {
+    "term": "I can't stand",
+    "translation": "Eu não suporto | Eu não aguento",
+    "example": "I can't stand long meetings. | She can't stand loud noises at work. | They can't stand delays in the project.",
+    "description": "Expressão usada para indicar algo que a pessoa não suporta ou não tolera.",
+    "pronunciation": "ái cánt stênd"
+  },
+  {
+    "term": "Naggy",
+    "translation": "Chato | Reclamão",
+    "example": "My boss is naggy about deadlines. | She can be naggy during team meetings. | Don’t be naggy with your coworkers.",
+    "description": "Adjetivo informal que descreve alguém que reclama ou insiste demais, causando incômodo.",
+    "pronunciation": "né-gi"
+  },  
+  {
+    "term": "Get back",
+    "translation": "Voltar | Retornar",
+    "example": "I will get back to you after the meeting. | She got back from vacation yesterday. | Let’s get back to the project now.",
+    "description": "Verbo frasal que significa retornar a um lugar, tarefa ou pessoa.",
+    "pronunciation": "gét béc"
+  },
+  {
+    "term": "Pity",
+    "translation": "Pena | Compaixão",
+    "example": "It’s a pity the project was delayed. | She felt pity for the struggling team. | It was a pity you couldn’t attend the meeting.",
+    "description": "Substantivo que expressa tristeza ou compaixão por algo negativo.",
+    "pronunciation": "píti"
+  },
+  {
+    "term": "Problem-solving",
+    "translation": "Resolução de problemas",
+    "example": "Problem-solving skills are essential at work. | The team used problem-solving techniques in the project. | Effective problem-solving improves productivity.",
+    "description": "Substantivo que descreve a capacidade de identificar e resolver problemas.",
+    "pronunciation": "próblem sólv-ing"
+  },
+  {
+    "term": "Result-driven",
+    "translation": "Focado em resultados",
+    "example": "She is result-driven and meets all targets. | The team is result-driven to improve sales. | Being result-driven helps achieve goals faster.",
+    "description": "Adjetivo que descreve alguém ou algo focado em alcançar resultados concretos.",
+    "pronunciation": "rí-z,âlt drí-vin"
+  },
+  {
+    "term": "Whatever works",
+    "translation": "O que funcionar | Qualquer coisa que dê certo",
+    "example": "Use whatever works to finish the task. | We can meet anytime, whatever works for you. | Choose whatever works best for the team.",
+    "description": "Expressão usada para indicar flexibilidade, aceitando qualquer opção que funcione.",
+    "pronunciation": "uátêvér uôrks"
+  },
+  {
+    "term": "Flexible",
+    "translation": "Flexível | Adaptável",
+    "example": "She is flexible with work hours. | The company offers flexible schedules. | Being flexible helps solve unexpected issues.",
+    "description": "Adjetivo que descreve a capacidade de se adaptar a mudanças ou diferentes situações.",
+    "pronunciation": "fléx-í-bol"
+  },
+  {
+    "term": "Humble",
+    "translation": "Humilde | Modesto",
+    "example": "He is humble despite his success. | A humble attitude improves teamwork. | She remained humble after the promotion.",
+    "description": "Adjetivo que descreve alguém com atitude modesta, sem arrogância.",
+    "pronunciation": "râmbol"
+  },
+  {
+    "term": "Review",
+    "translation": "Revisar | Avaliar",
+    "example": "We need to review the project plan. | The manager reviewed the report. | Please review the document before submission.",
+    "description": "Verbo que significa examinar algo para verificar ou avaliar.",
+    "pronunciation": "rí-viu"
+  },
+  {
+    "term": "Luckily",
+    "translation": "Felizmente | Por sorte",
+    "example": "Luckily, the meeting ended early. | We luckily avoided major issues. | Luckily, the client approved the proposal.",
+    "description": "Advérbio que indica que algo aconteceu de forma favorável ou com sorte.",
+    "pronunciation": "lâk-ili"
+  }
 ]
