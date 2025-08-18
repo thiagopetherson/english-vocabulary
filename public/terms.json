@@ -1541,8 +1541,8 @@
   },
   {
     "term": "Leave",
-    "translation": "Sair | Partir | Deixar | Abandonar",
-    "example": "Don't leave (deixe) your phone on the table. | My flight leaves at 8 AM. | He left his jacket in the car.",
+    "translation": "Sair | Deixar | Licença",
+    "example": "I leave the office at 6 p.m. | Please leave the documents on my desk. | My flight leaves at 8 AM. | He left his jacket in the car. | She is on maternity leave.",
     "description": "Passado [left]",
     "pronunciation": ""
   },
@@ -3433,5 +3433,83 @@
     "example": "Luckily, the meeting ended early. | We luckily avoided major issues. | Luckily, the client approved the proposal.",
     "description": "Advérbio que indica que algo aconteceu de forma favorável ou com sorte.",
     "pronunciation": "lâk-ili"
+  },
+  {
+  "term": "Quit",
+  "translation": "Sair | Abandonar | Pedir demissão",
+  "example": "He decided to quit his job. | She quit the project last month. | Don’t quit until the task is done.",
+  "description": "Verbo que significa parar ou abandonar algo, especialmente um trabalho ou atividade.",
+  "pronunciation": "kuít"
+  },
+  {
+    "term": "There will be",
+    "translation": "Haverá | Vai ter",
+    "example": "There will be a meeting tomorrow. | There will be changes in the policy. | There will be new opportunities soon.",
+    "description": "Expressão usada para indicar algo que vai acontecer no futuro.",
+    "pronunciation": "dér uíl bi"
+  },
+  {
+    "term": "There was",
+    "translation": "Houve | Tinha (singular)",
+    "example": "There was a delay in the project. | There was a problem with the system. | There was a meeting yesterday.",
+    "description": "Expressão no passado usada para algo que existiu ou aconteceu (singular).",
+    "pronunciation": "dér uóz"
+  },
+  {
+    "term": "There were",
+    "translation": "Havia | Tinham (plural)",
+    "example": "There were many tasks to complete. | There were several clients waiting. | There were errors in the report.",
+    "description": "Expressão no passado usada para algo que existiu ou aconteceu (plural).",
+    "pronunciation": "dér uâr"
+  },
+  {
+  "term": "Delay",
+  "translation": "Atraso | Adiar",
+  "example": "The report was sent with a delay. | Traffic delays the team every morning. | They delayed the meeting until next week.",
+  "description": "Pode ser substantivo para atraso ou verbo para adiar algo.",
+  "pronunciation": "dilêi"
+  },
+  {
+    "term": "Support",
+    "translation": "Apoiar | Suporte",
+    "example": "The manager supports his team. | We need IT support for the system. | She supports the new project idea.",
+    "description": "Verbo que significa ajudar ou dar suporte; também usado como substantivo para indicar assistência.",
+    "pronunciation": "supórt"
+  },
+  {
+    "term": "In order",
+    "translation": "Em ordem | Para",
+    "example": "The files are in order on the desk. | He explained the steps in order. | We work hard in order to meet the deadline. | We train employees in order to improve results. | She studied hard in order to get the promotion. | The team worked overtime in order to finish the project.",
+    "description": "Expressão que pode indicar organização ou finalidade (para alcançar algo).",
+    "pronunciation": "in órder"
+  },
+  {
+    "term": "So that",
+    "translation": "Para que | De modo que",
+    "example": "I explained clearly so that everyone understands. | We set deadlines so that the project finishes on time. | She shared the report so that the manager can review it.",
+    "description": "Conjunção usada para indicar propósito ou consequência de uma ação.",
+    "pronunciation": "sou dhât"
+  },
+  {
+    "term": "Moving forward",
+    "translation": "Seguindo em frente | Avançando",
+    "example": "Moving forward, we will improve communication. | The team plans to meet moving forward. | Let’s focus on solutions moving forward.",
+    "description": "Expressão usada para indicar progresso ou continuidade em tarefas ou projetos.",
+    "pronunciation": "múvin fóruard"
+  },
+  {
+    "term": "Hardworking",
+    "translation": "Dedicado | Trabalhador",
+    "example": "She is hardworking and meets all deadlines. | The team is hardworking and efficient. | Being hardworking helps achieve career goals.",
+    "description": "Adjetivo que descreve alguém que se dedica muito ao trabalho ou tarefas.",
+    "pronunciation": "hárd-uór-kin"
+  },
+  {
+    "term": "In the end",
+    "translation": "No final | Por fim | Afinal",
+    "example": "In the end, the project was successful. | In the end, we are in the same company. | In the end, I need to do that anyway. | We decided to hire her in the end. | In the end, teamwork solved the problem.",
+    "description": "Expressão usada para indicar o resultado final ou conclusão de uma situação.",
+    "pronunciation": "in dhê énd"
   }
+
 ]
