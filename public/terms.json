@@ -1,11 +1,4 @@
-[
-  {
-    "term": "Scrambled Eggs",
-    "translation": "Ovos Mexidos",
-    "example": "I want scrambled eggs for breakfast.",
-    "description": "Prato feito com ovos batidos cozidos em uma frigideira.",
-    "pronunciation": "Scrém-bold égs"
-  },
+[ 
   {
     "term": "No way",
     "translation": "Sem chance! | De jeito nenhum!",
@@ -61,14 +54,7 @@
     "example": "This city has many beautiful spots to visit.",
     "description": "Pode se referir a lugares interessantes ou pequenas áreas.",
     "pronunciation": "Spóts"
-  },
-  {
-    "term": "Couch Potato",
-    "translation": "Pessoa sedentária",
-    "example": "He became a couch potato after losing his job.",
-    "description": "Alguém que passa muito tempo sentado, geralmente assistindo TV.",
-    "pronunciation": "Cáutchi potêirou"
-  },
+  },  
   {
     "term": "Sedentary",
     "translation": "Sedentário",
@@ -105,13 +91,6 @@
     "pronunciation": "Teik ôuver"
   },
   {
-    "term": "Mad",
-    "translation": "Louco | Com raiva",
-    "example": "I'm so mad right now. | He's mad about sports.",
-    "description": "Pode significar raiva ou obsessão, dependendo do contexto.",
-    "pronunciation": "Méd"
-  },
-  {
     "term": "To have fun",
     "translation": "Se divertir",
     "example": "We always have fun during the team-building activities.",
@@ -119,11 +98,11 @@
     "pronunciation": "Tchu rév fãn"
   },
   {
-    "term": "Explored",
-    "translation": "Explorado",
-    "example": "We explored several new ideas during the meeting.",
-    "description": "Investigar ou conhecer algo a fundo.",
-    "pronunciation": "Iksplôrd"
+    "term": "Explore",
+    "translation": "Explorar | Investigar",
+    "example": "We need to explore new market opportunities. | She explored different strategies for the project. | The team explored solutions to improve productivity.",
+    "description": "Verbo que significa investigar, analisar ou examinar algo em detalhe.",
+    "pronunciation": "eks-plôr"
   },
   {
     "term": "Passed away",
@@ -133,12 +112,12 @@
     "pronunciation": "Péstêd uêi"
   },  
   {
-    "term": "I got there",
-    "translation": "Eu cheguei lá",
-    "example": "I got there just in time. | She got there before everyone else. | We finally got there after a long trip.",
-    "description": "Expressão usada para indicar que alguém chegou a um lugar específico.",
-    "pronunciation": "Ai gót dér"
-  },  
+    "term": "Get there",
+    "translation": "Chegar lá | Alcançar o objetivo",
+    "example": "We will get there by 9 a.m. | The team worked hard to get there on time. | Don’t worry, we will get there eventually.",
+    "description": "Expressão usada para indicar chegar a um lugar físico ou atingir um objetivo.",
+    "pronunciation": "gét dhér"
+  },
   {
     "term": "Afraid",
     "translation": "Medo (adjetivo)",
@@ -343,11 +322,11 @@
     "pronunciation": "Beik"
   },
   {
-    "term": "Left behind",
-    "translation": "Deixado para trás | Ficar para trás",
-    "example": "They left me behind. | I forgot my phone and left it behind. | Many employees feel left behind during fast tech transitions. | I got left behind on this project. I'll need some time.",
-    "description": "Usado quando algo ou alguém não acompanha o restante ou é esquecido.",
-    "pronunciation": "Léft bihaind"
+    "term": "Leave behind",
+    "translation": "Deixar para trás | Abandonar",
+    "example": "We need to leave behind old processes. | She left behind unnecessary tasks. | Don’t leave important documents behind.",
+    "description": "Verbo frasal que significa abandonar algo ou alguém ou não levar consigo.",
+    "pronunciation": "líiv biháind"
   },
   {
     "term": "Greed",
@@ -411,14 +390,7 @@
     "example": "Everyone deserves a chance to be born free. | It's a miracle to be born.",
     "description": "Expressão usada para indicar o ato de vir ao mundo.",
     "pronunciation": "Tú bî bó"
-  },
-  {
-    "term": "I was born",
-    "translation": "Eu nasci",
-    "example": "I was born in Brazil. | I was born in 1990. | I was born on a rainy day.",
-    "description": "Forma no passado da expressão 'be born', usada para dizer quando e onde você nasceu.",
-    "pronunciation": "Ái wôz bórn"
-  },
+  },  
   {
     "term": "Be born",
     "translation": "Nascer",
@@ -504,12 +476,12 @@
     "pronunciation": "Lénd"
   },
   {
-    "term": "Looking forward",
-    "translation": "Ansioso | Esperando ansiosamente",
-    "example": "I was looking forward to this moment. | We are looking forward to meeting you. | I'm looking forward to the company retreat. | She's looking forward to her vacation next week.",
-    "description": "Expressão usada para mostrar entusiasmo ou expectativa por algo futuro.",
-    "pronunciation": "Lúking fóruârd"
-  },  
+    "term": "Look forward",
+    "translation": "Aguardar ansiosamente | Esperar com entusiasmo",
+    "example": "I look forward to our meeting. | She looks forward to starting the new project. | We look forward to your feedback.",
+    "description": "Verbo frasal usado para expressar expectativa positiva em relação a algo futuro.",
+    "pronunciation": "lúk fôruard"
+  },
   {
     "term": "Struggle",
     "translation": "Lutar | Esforçar-se | Enfrentar dificuldades",
@@ -523,14 +495,7 @@
     "example": "Would you like anything else? | Is there anything else I can do for you? | I don’t think there’s anything else to discuss.",
     "description": "É comumente usada para perguntar se há mais alguma coisa ou se alguém precisa de algo mais.",
     "pronunciation": "Énithing éls"
-  },
-  {
-    "term": "Over there",
-    "translation": "Ali | Lá",
-    "example": "The park is over there. | You can find the restaurant over there, near the corner. | I saw him over there, talking to someone.",
-    "description": "É uma expressão que indica um lugar distante de quem está falando, geralmente em uma direção específica.",
-    "pronunciation": "Ôuvêr dér"
-  },
+  },  
   {
     "term": "What else",
     "translation": "O que mais... | Mais o que...",
@@ -572,14 +537,7 @@
     "example": "The company provides free Wi-Fi. | Can you provide more details? | This service will provide assistance to those in need.",
     "description": "Usado quando se oferece ou disponibiliza algo para alguém, como ajuda, informações ou recursos.",
     "pronunciation": "Prôváid"
-  },
-  {
-    "term": "Couple of minutes",
-    "translation": "Alguns minutos",
-    "example": "I'll be ready in a couple of minutes. | It will only take a couple of minutes. | Wait here for a couple of minutes, please.",
-    "description": "Expressão informal que significa 'alguns minutos'. Usada para indicar um curto período de tempo.",
-    "pronunciation": "Kâpôl âv mínâts"
-  },
+  }, 
   {
     "term": "Couple of weeks",
     "translation": "Algumas semanas",
@@ -595,12 +553,12 @@
     "pronunciation": "Wîzín"
   },
   {
-    "term": "Besides that",
-    "translation": "Além disso | Fora isso",
-    "example": "I was very tired yesterday. Besides that, I had a lot of work to do. | The hotel was too expensive. Besides that, the service was terrible. | I don’t like coffee. Besides that, I prefer tea in the morning.",
-    "description": "Expressão usada para adicionar uma informação extra ou destacar outro ponto relevante.",
-    "pronunciation": "Bissáidz dhét"
-  },      
+    "term": "Besides",
+    "translation": "Além disso | Além de",
+    "example": "I was very tired yesterday. Besides that, I had a lot of work to do. | Besides the report, we need the presentation ready. | She is skilled besides being punctual. | Besides working late, he also volunteers on weekends.",
+    "description": "Preposição ou advérbio usada para adicionar informações ou indicar algo além do já mencionado.",
+    "pronunciation": "bih-sáids"
+  },
   {
     "term": "Deserve",
     "translation": "Merecer",
@@ -635,14 +593,7 @@
     "example": "It was nice to meet you. – Likewise! | He was frustrated with the delay, and she felt likewise. | You should take breaks during the day. Likewise, avoid working overtime too often.",
     "description": "Usado para expressar que algo também se aplica ou é igualmente verdadeiro.",
     "pronunciation": "Láikwáiz"
-  },
-  {
-    "term": "Are you from around here?",
-    "translation": "Você é daqui?",
-    "example": "Are you from around here, or did you relocate for the job? | I asked my new coworker: 'Are you from around here?'",
-    "description": "Pergunta usada para saber se a pessoa mora ou trabalha na região onde a conversa está acontecendo.",
-    "pronunciation": "Ar iú frãm aráund rirr?"
-  },
+  },  
   {
     "term": "Raise",
     "translation": "Levantar | Erguer | Aumentar | Criar | Educar | Aumento (substantivo)",
@@ -763,11 +714,11 @@
     "pronunciation": "Ai rév â bákgráund in séils and márketing"
   },  
   {
-    "term": "Leveraging (do verbo Leverage)",
-    "translation": "Utilizando | Aproveitando ao máximo",
-    "example": "The company is leveraging its technology. | She is leveraging her contacts.",
-    "description": "Usar recursos ou habilidades para tirar o máximo proveito em uma situação.",
-    "pronunciation": "Lévêridj"
+    "term": "Leverage",
+    "translation": "Aproveitar | Tirar vantagem",
+    "example": "We can leverage our network to find clients. | She leveraged her experience to get a promotion. | The company leveraged new technology to improve efficiency.",
+    "description": "Verbo usado para indicar usar recursos ou habilidades de forma estratégica para obter vantagem ou resultado.",
+    "pronunciation": "lév-er-ridge"
   },
   {
     "term": "Various",
@@ -3510,6 +3461,131 @@
     "example": "In the end, the project was successful. | In the end, we are in the same company. | In the end, I need to do that anyway. | We decided to hire her in the end. | In the end, teamwork solved the problem.",
     "description": "Expressão usada para indicar o resultado final ou conclusão de uma situação.",
     "pronunciation": "in dhê énd"
+  },
+  {
+    "term": "Rant",
+    "translation": "Desabafo | Reclamar muito",
+    "example": "He went on a rant about the new policy. | The employee ranted about long meetings. | She ranted when the system failed again.",
+    "description": "Substantivo ou verbo que indica falar de forma irritada e prolongada sobre algo.",
+    "pronunciation": "rént"
+  },
+  {
+    "term": "Flow",
+    "translation": "Fluxo | Fluir",
+    "example": "The workflow must be smooth to increase productivity. | Ideas flow better in team discussions. | Information flows quickly through the system. | The meeting flowed better than we expected.",
+    "description": "Substantivo ou verbo que indica movimento contínuo e natural de algo, como ideias, processos ou informações.",
+    "pronunciation": "flôu"
+  },
+  {
+    "term": "Ramble",
+    "translation": "Divagar | Falar sem foco",
+    "example": "He rambled during the presentation. | The email rambled and confused the team. | Let's not ramble; stick to the agenda.",
+    "description": "Verbo para falar longo e sem foco em reuniões ou textos.",
+    "pronunciation": "rém-bol"
+  },
+  {
+    "term": "Commuting",
+    "translation": "Deslocamento diário (casa ↔ trabalho)",
+    "example": "She spends two hours commuting every day. | Commuting can be stressful in big cities. | I started working from home to avoid commuting.",
+    "description": "Substantivo/gerúndio usado para descrever o ato de se deslocar regularmente entre casa e trabalho/escola.",
+    "pronunciation": "ko-MYOO-ting"
+  },
+  {
+    "term": "As",
+    "translation": "Como / Enquanto / Assim como",
+    "example": "She works as a teacher. | As I was leaving, it started to rain. | He is tall, as his brother.",
+    "description": "Palavra multifuncional usada como conjunção, preposição ou advérbio. Pode indicar função, comparação, tempo ou causa.",
+    "pronunciation": "æz"
+  },
+  {
+    "term": "At the same time",
+    "translation": "Ao mesmo tempo | Simultaneamente",
+    "example": "She managed two projects at the same time. | They answered the emails at the same time. | The team worked at the same time to meet the deadline.",
+    "description": "Expressão usada para indicar que duas ou mais ações acontecem simultaneamente.",
+    "pronunciation": "æt dhê sêim táim"
+  },
+  {
+    "term": "Then",
+    "translation": "Então | Depois | Em seguida",
+    "example": "Finish the report, then send it to the manager. | We met at 9 a.m., then had a team meeting. | If it rains, then we will postpone the event.",
+    "description": "Advérbio ou conjunção usado para indicar sequência, consequência ou tempo.",
+    "pronunciation": "dhén"
+  },
+  {
+    "term": "Such as",
+    "translation": "Como | Por exemplo",
+    "example": "We need tools such as laptops and projectors. | Skills such as communication are important. | Companies offer benefits such as health insurance.",
+    "description": "Expressão usada para introduzir exemplos ou itens específicos dentro de um grupo.",
+    "pronunciation": "sâtch âz"
+  },
+  {
+    "term": "In other words",
+    "translation": "Em outras palavras | Ou seja",
+    "example": "He’s busy, in other words, he cannot attend the meeting. | In other words, we need to improve efficiency. | The project failed, in other words, we must try a new approach.",
+    "description": "Expressão usada para explicar algo de forma diferente ou simplificada.",
+    "pronunciation": "in âdher uôrdz"
+  },
+  {
+    "term": "In contrast",
+    "translation": "Em contraste | Ao contrário",
+    "example": "In contrast, the second team performed better. | In contrast to last year, sales increased. | In contrast, remote work improved productivity.",
+    "description": "Expressão usada para mostrar diferença ou oposição entre duas situações ou ideias.",
+    "pronunciation": "in côn-trást"
+  },
+  {
+    "term": "On the contrary",
+    "translation": "Pelo contrário | Ao contrário",
+    "example": "I am not tired; on the contrary, I feel energized. | On the contrary, the plan brought positive results. | She didn’t complain; on the contrary, she helped the team.",
+    "description": "Expressão usada para enfatizar que algo é oposto ao que foi dito ou esperado.",
+    "pronunciation": "ón dhê côn-tréri"
+  },
+  {
+    "term": "Just as",
+    "translation": "Assim como | Exatamente como",
+    "example": "Just as we planned, the meeting started on time. | She handled the task just as her manager instructed. | Just as I expected, the project was successful.",
+    "description": "Expressão usada para comparar ações ou situações, indicando similaridade exata.",
+    "pronunciation": "djâst æz"
+  },
+  {
+    "term": "Highlight",
+    "translation": "Destacar | Evidenciar",
+    "example": "The report highlights key achievements. | Please highlight the main points in the presentation. | She highlighted her experience during the interview.",
+    "description": "Verbo usado para chamar atenção para algo importante ou relevante.",
+    "pronunciation": "rái-tch-láit"
+  },
+  {
+    "term": "Brief",
+    "translation": "Resumir | Breve",
+    "example": "I will brief the team about the project. | Let me give you a brief overview. | She briefed the manager on the situation. | In brief (em resumo), the project was a success. | The manager explained, in brief (de forma breve), the new policy.",
+    "description": "Verbo ou adjetivo usado para resumir informações ou indicar algo curto e direto.",
+    "pronunciation": "bríif"
+  },
+  {
+    "term": "In short",
+    "translation": "Em resumo | Resumindo",
+    "example": "In short, the project was successful. | In short, we need to hire more staff. | In short, communication must improve.",
+    "description": "Expressão usada para resumir informações de forma concisa.",
+    "pronunciation": "in shôrt"
+  },
+  {
+    "term": "In conclusion",
+    "translation": "Em conclusão | Para concluir | Concluindo...",
+    "example": "In conclusion, the project met all goals. | In conclusion, teamwork improved productivity. | In conclusion, we recommend implementing the new system.",
+    "description": "Expressão usada para apresentar o resultado final ou resumo de uma análise ou discussão.",
+    "pronunciation": "in côn-klú-dhêns"
+  },
+  {
+    "term": "As a result",
+    "translation": "Como resultado | Portanto",
+    "example": "As a result, the team completed the project early. | Sales increased, as a result of the new strategy. | He missed the deadline; as a result, the client was unhappy.",
+    "description": "Expressão usada para indicar consequência ou efeito de uma ação ou situação.",
+    "pronunciation": "æz ê rí-zâlt"
+  },
+  {
+    "term": "Place",
+    "translation": "Colocar | Posicionar",
+    "example": "Please place the files on my desk. | She placed the order yesterday. | The manager placed emphasis on teamwork.",
+    "description": "Verbo que significa colocar algo em um local específico ou atribuir posição/ênfase.",
+    "pronunciation": "pléis"
   }
-
 ]
