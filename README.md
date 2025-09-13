@@ -6,7 +6,7 @@ This is a simple English dictionary built as a didactic project using Vue 3 and 
 
 ## See it working
 
-https://my-english-vocabulary.netlify.app/
+https://improving-my-english.netlify.app/
 
 ## Setup
 
