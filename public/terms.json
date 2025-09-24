@@ -889,13 +889,6 @@
     "pronunciation": "déc-ô-reit"
   },
   {
-  "term": "Soft",
-  "translation": "Macio | Suave | Leve",
-  "example": "The pillow is very soft, so I sleep well. | She has a soft voice that calms everyone around her. | This fabric feels soft to the touch.",
-  "description": "Adjetivo usado para indicar algo agradável ao toque, delicado ou suave.",
-  "pronunciation": "sóft"
-  },
-  {
     "term": "Customers",
     "translation": "Clientes",
     "example": "The store offers discounts to loyal customers. | Customers are always our top priority. | We received positive feedback from our customers.",
@@ -908,14 +901,7 @@
     "example": "I love to hug my friends when I see them. | She gave me a warm hug after the long journey. | He needs a big hug to feel better.",
     "description": "Verbo ou substantivo que indica envolver alguém com os braços em gesto de carinho ou afeto.",
     "pronunciation": "hâg"
-  },
-  {
-    "term": "Tightly",
-    "translation": "Firmemente | Apertadamente",
-    "example": "He gave me a tight hug before leaving. | Make sure the screws are tight so the shelf doesn’t fall. | She held the rope tightly during the climb.",
-    "description": "Advérbio derivado de 'tight', usado para indicar algo feito com firmeza ou de forma apertada.",
-    "pronunciation": "táit-ly"
-  },
+  },  
   {
     "term": "Weaker",
     "translation": "Mais fraco",
@@ -3601,5 +3587,110 @@
     "example": "Apply the new strategy to the project. | She applied for the manager position. | Please apply the changes before submitting.",
     "description": "Verbo que significa colocar em prática, usar ou candidatar-se a algo.",
     "pronunciation": "â-plái"
+  },
+  {
+    "term": "At any time",
+    "translation": "A qualquer momento | A qualquer hora",
+    "example": "You can call me at any time. | The store is open at any time during the holiday season. | Accidents can happen at any time, so stay alert. | Feel free to visit us at any time.",
+    "description": "Expressão usada para indicar que algo pode acontecer ou ser feito em qualquer momento, sem restrição de horário.",
+    "pronunciation": "At éni táim"
+  },
+  {
+    "term": "Rephrase",
+    "translation": "Reformular | Reexpressar | Dizer de outra forma",
+    "example": "Could you rephrase the question, please? | She rephrased her statement to make it clearer. | I need to rephrase the sentence so it sounds more natural.",
+    "description": "Usado quando queremos dizer algo de uma forma diferente, geralmente para tornar mais claro ou adequado.",
+    "pronunciation": "Rifréiz"
+  },
+  {
+    "term": "Request",
+    "translation": "Pedido | Solicitação | Solicitar (verbo)",
+    "example": "I made a request for more information. | The manager approved his request for vacation. | She requested a taxi to the airport. | You can request assistance at the front desk.",
+    "description": "Pode ser usado como substantivo (pedido/solicitação) ou verbo (solicitar/requisitar).",
+    "pronunciation": "Rêquést"
+  },
+  {
+    "term": "In the past",
+    "translation": "No passado | Antigamente",
+    "example": "In the past, people wrote letters instead of emails. | She lived in London in the past. | In the past, I didn’t like vegetables, but now I do. | Many traditions were stronger in the past.",
+    "description": "Usado para falar sobre algo que aconteceu ou era verdade antes, mas não é mais necessariamente assim agora.",
+    "pronunciation": "In dê páast"
+  },  
+  {
+    "term": "Return",
+    "translation": "Voltar | Retornar | Devolver",
+    "example": "She will return from vacation tomorrow. | Please return the book to the library. | He returned home late at night. | I expect a quick return on my investment.",
+    "description": "Pode ser usado como verbo (voltar, devolver).",
+    "pronunciation": "Ritârn"
+  },
+  {
+    "term": "Criticize",
+    "translation": "Criticar",
+    "example": "She always criticizes his work. | The teacher criticized the students for being late. | Don’t criticize others if you can’t accept criticism.",
+    "description": "Verbo usado para apontar falhas ou defeitos.",
+    "pronunciation": "Crírêsaiz"
+  },
+  {
+    "term": "Criticism",
+    "translation": "Crítica",
+    "example": "He didn’t take the criticism well. | The movie received a lot of criticism. | Constructive criticism helps people improve.",
+    "description": "Substantivo que se refere ao ato ou conteúdo da crítica. Pode ser positivo (construtivo) ou negativo.",
+    "pronunciation": "Crírêsizâm"
+  },
+  {
+    "term": "Earn",
+    "translation": "Ganhar (por mérito, trabalho ou esforço)",
+    "example": "She earns a good salary at her job. | He earned the respect of his colleagues. | You need to work hard to earn success. | He earned $100 for his work.",
+    "description": "Usado para ganhos obtidos por esforço, trabalho ou merecimento (dinheiro, respeito, reconhecimento).",
+    "pronunciation": "Ârn"
+  },
+  {
+    "term": "Doubt",
+    "translation": "Dúvida | Duvidar",
+    "example": "I have some doubts about the plan. | She doubted his explanation. | There is no doubt that he is a great player. | I doubt we will arrive on time.",
+    "description": "Pode ser usado como substantivo (dúvida) ou verbo (duvidar).",
+    "pronunciation": "Dáut"
+  }, 
+  {
+    "term": "Excuse",
+    "translation": "Desculpa | Justificar | Permissão",
+    "example": "Please excuse my mistake. | He tried to excuse his lateness. | Excuse me, can I pass?",
+    "description": "Pode ser usado como verbo (desculpar, justificar) ou substantivo (desculpa).",
+    "pronunciation": "Ékskiúz"
+  },
+  {
+    "term": "Willing",
+    "translation": "Disposto | Com vontade",
+    "example": "She is willing to help whenever needed. | I am willing to try new things. | He’s willing to learn from his mistakes.",
+    "description": "Indica disponibilidade ou predisposição para fazer algo.",
+    "pronunciation": "Wíling"
+  },
+  {
+    "term": "Probably",
+    "translation": "Provavelmente | Certamente",
+    "example": "I will probably arrive late. | It will probably rain tomorrow. | She’s probably the best candidate for the job.",
+    "description": "Usado para indicar probabilidade.",
+    "pronunciation": "Próbulí"
+  },
+  {
+    "term": "For a while",
+    "translation": "Por um tempo | Por um período curto",
+    "example": "I stayed there for a while. | She lived abroad for a while before returning home. | Let’s rest for a while.",
+    "description": "Indica uma duração de tempo não muito longa.",
+    "pronunciation": "For a wáil"
+  },  
+  {
+    "term": "Come from",
+    "translation": "Vir de | Ser originário de",
+    "example": "She comes from Brazil. | This tradition comes from ancient times. | Where do you come from?",
+    "description": "Usado para indicar origem de pessoas, objetos ou ideias.",
+    "pronunciation": "Câm frôm"
+  },
+  {
+    "term": "Profit",
+    "translation": "Lucro | Ganho | Benefício",
+    "example": "The company made a huge profit last year. | Investing wisely can bring profit. | We should focus on profit and customer satisfaction.",
+    "description": "Usado para indicar o ganho financeiro ou benefício de uma ação.",
+    "pronunciation": "Prófît"
   }
 ]
