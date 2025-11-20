@@ -1370,14 +1370,7 @@
     "example": "She is an excellent student. Furthermore, she always helps her classmates. | The project is behind schedule. Furthermore, we are running out of budget.",
     "description": "Usado para adicionar uma informação relevante ou reforçar um argumento.",
     "pronunciation": "Fârdarmór"
-  },
-  {
-    "term": "Reach",
-    "translation": "Alcançar | Atingir | Chegar",
-    "example": "We finally reached the hotel after a long trip. | She reached her goal of becoming a doctor. | We hope to reach more customers with this new strategy.",
-    "description": "Pode se referir a alcançar fisicamente algo, atingir metas ou estabelecer contato.",
-    "pronunciation": "Ríitch"
-  },
+  },  
   {
     "term": "Risky",
     "translation": "Arriscado",
@@ -2446,14 +2439,7 @@
     "example": "The university granted him a scholarship. | She was granted permission to leave early. | He applied for a government grant.",
     "description": "Pode ser usado como verbo (conceder algo oficialmente) ou como substantivo (um tipo de benefício financeiro, como bolsas e subsídios).",
     "pronunciation": "Grént"
-  },
-  {
-    "term": "Concede",
-    "translation": "Admitir | Ceder | Conceder",
-    "example": "He finally conceded that he was wrong. | She conceded the election. | The company conceded some demands after negotiations.",
-    "description": "Verbo usado para admitir algo, especialmente depois de resistir, ou para ceder diante de uma situação.",
-    "pronunciation": "Kânsíd"
-  },
+  },  
   {
     "term": "Happy",
     "translation": "Feliz | Contente",
@@ -3244,14 +3230,7 @@
     "example": "We need to solve this technical issue. | He solved the customer complaint quickly. | The team solved the problem together.",
     "description": "Verbo que indica encontrar uma resposta ou solução para um problema.",
     "pronunciation": "sólv"
-  },
-  {
-    "term": "Resolve",
-    "translation": "Resolver | Decidir",
-    "example": "They resolved the conflict peacefully. | She resolved to improve her work skills. | The manager resolved the budget issue.",
-    "description": "Verbo que significa solucionar problemas ou tomar uma decisão firme.",
-    "pronunciation": "rí-zólv"
-  },
+  },  
   {
     "term": "I can't stand",
     "translation": "Eu não suporto | Eu não aguento",
@@ -3468,14 +3447,7 @@
     "example": "He’s busy, in other words, he cannot attend the meeting. | In other words, we need to improve efficiency. | The project failed, in other words, we must try a new approach.",
     "description": "Expressão usada para explicar algo de forma diferente ou simplificada.",
     "pronunciation": "in âdher uôrdz"
-  },
-  {
-    "term": "In contrast",
-    "translation": "Em contraste | Ao contrário",
-    "example": "In contrast, the second team performed better. | In contrast to last year, sales increased. | In contrast, remote work improved productivity.",
-    "description": "Expressão usada para mostrar diferença ou oposição entre duas situações ou ideias.",
-    "pronunciation": "in côn-trást"
-  },
+  },  
   {
     "term": "On the contrary",
     "translation": "Pelo contrário | Ao contrário",
@@ -3692,5 +3664,103 @@
     "example": "The company made a huge profit last year. | Investing wisely can bring profit. | We should focus on profit and customer satisfaction.",
     "description": "Usado para indicar o ganho financeiro ou benefício de uma ação.",
     "pronunciation": "Prófît"
+  },
+  {
+    "term": "Strongly",
+    "translation": "Fortemente | Enfaticamente",
+    "example": "I strongly recommend this approach. | She strongly disagreed with the proposal. | He feels strongly about protecting the environment.",
+    "description": "Advérbio usado para enfatizar a intensidade de uma opinião, sentimento ou recomendação.",
+    "pronunciation": "stróng-li"
+  },
+  {
+    "term": "Criticize",
+    "translation": "Criticar",
+    "example": "It's easy to criticize others without knowing the full story. | She criticized the report for lacking clear data. | They criticized the new policy during the meeting.",
+    "description": "Verbo que significa apontar falhas, erros ou pontos negativos em algo ou alguém.",
+    "pronunciation": "krí-ri-sáiz"
+  },
+  {
+    "term": "Criticism",
+    "translation": "Crítica",
+    "example": "The project received a lot of criticism from the team. | He accepted the criticism and improved his work. | Her article faced criticism for being unclear.",
+    "description": "Substantivo que se refere ao ato de avaliar negativamente algo, apontando falhas ou sugerindo melhorias.",
+    "pronunciation": "krí-ri-sizm"
+  },
+  {
+    "term": "Worth",
+    "translation": "Valer | Ter valor | Vale a pena",
+    "example": "This book is worth reading. | The painting is worth a lot of money. | It's worth taking a look at the new feature.",
+    "description": "Usado para indicar valor (financeiro ou não) ou para expressar que algo vale a pena ser feito.",
+    "pronunciation": "uórth"
+  },
+  {
+    "term": "Slow down",
+    "translation": "Desacelerar | Diminuir a velocidade | Pegar leve",
+    "example": "You should slow down when driving in the rain. | The doctor told him to slow down and reduce stress. | The project is moving too fast; we need to slow down.",
+    "description": "Expressão usada para indicar a ação de diminuir a velocidade ou reduzir o ritmo de algo, seja físico ou figurado.",
+    "pronunciation": "slôu dáun"
+  },
+  {
+    "term": "Obliged",
+    "translation": "Agradecido | Obrigado | Obrigado a (no sentido de dever)",
+    "example": "I’m much obliged for your help. | She felt obliged to tell the truth. | He was obliged to follow the company’s rules.",
+    "description": "Pode significar 'agradecido' em um tom mais formal, ou 'obrigado a' no sentido de dever, necessidade ou obrigação.",
+    "pronunciation": "obláidjd"
+  },
+  {
+    "term": "Free will",
+    "translation": "Livre-arbítrio",
+    "example": "Humans have the free will to make their own choices. | He acted out of his own free will. | The debate about free will has existed for centuries.",
+    "description": "Expressão que se refere à capacidade de tomar decisões de forma independente, sem coerção externa.",
+    "pronunciation": "frí uíl"
+  },
+  {
+    "term": "Bother",
+    "translation": "Incomodar | Aborrecer | Se dar ao trabalho",
+    "example": "I don't want to bother you while you're working. | Loud noises really bother him. | She didn’t even bother to check the instructions. | I'm bothered by the constant interruptions.",
+    "description": "Verbo usado para indicar causar incômodo a alguém ou fazer esforço/se dar ao trabalho para realizar algo.",
+    "pronunciation": "bó-der"
+  },
+  {
+    "term": "Fully",
+    "translation": "Totalmente | Completamente | Plenamente",
+    "example": "I fully understand your concerns. | The feature is not fully functional yet. | She was fully prepared for the presentation.",
+    "description": "Advérbio usado para indicar algo feito ou entendido de maneira completa, total ou plena.",
+    "pronunciation": "fú-li"
+  },
+  {
+    "term": "Swear",
+    "translation": "Jurar | Prometer | Xingar (usar palavrões)",
+    "example": "I swear I didn’t know about it. | He swore to keep the secret. | She got angry and started to swear loudly.",
+    "description": "Verbo que pode significar jurar ou prometer algo com sinceridade, ou usar palavrões em momentos de raiva ou frustração.",
+    "pronunciation": "suér"
+  },
+  {
+    "term": "Blasphemous",
+    "translation": "Blasfemo | Profano | Ofensivo (em contexto religioso)",
+    "example": "Many considered his comments blasphemous. | The artwork was criticized for being blasphemous. | She apologized after making a blasphemous joke.",
+    "description": "Adjetivo usado para descrever algo que mostra desrespeito ou irreverência em relação ao que é considerado sagrado, especialmente em contextos religiosos.",
+    "pronunciation": "blás-fâ-mas"
+  },
+  {
+    "term": "Praise",
+    "translation": "Elogiar | Louvar | Apreciação",
+    "example": "The teacher praised the students for their hard work. | He received a lot of praise for his performance. | They praised her for handling the situation so well.",
+    "description": "Pode ser usado como verbo (elogiar, louvar) ou como substantivo (elogio, apreciação). Refere-se a expressar admiração ou aprovação.",
+    "pronunciation": "preiz"
+  },
+  {
+    "term": "Envious",
+    "translation": "Invejoso | Cheio de inveja",
+    "example": "She felt envious of her friend’s success. | He became envious when he saw their new car. | Don’t be envious — everyone has their own journey.",
+    "description": "Adjetivo usado para descrever alguém que sente inveja do sucesso, das posses ou das qualidades de outra pessoa.",
+    "pronunciation": "én-vi-as"
+  },
+  {
+    "term": "Prone to",
+    "translation": "Propenso a | Inclinado a | Suscetível a",
+    "example": "She is prone to headaches when stressed. | The system is prone to errors if not updated. | He’s prone to forgetting important dates.",
+    "description": "Expressão usada para indicar tendência ou susceptibilidade a algo, geralmente algo negativo ou indesejado.",
+    "pronunciation": "prôn tu"
   }
 ]
