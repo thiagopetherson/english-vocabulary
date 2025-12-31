@@ -40,21 +40,7 @@
     "example": "In March, I'll travel to a town in the countryside.",
     "description": "Região rural ou fora dos grandes centros urbanos.",
     "pronunciation": "Cântri-said"
-  },
-  {
-    "term": "Spots",
-    "translation": "Locais | Manchas",
-    "example": "This city has many beautiful spots to visit.",
-    "description": "Pode se referir a lugares interessantes ou pequenas áreas.",
-    "pronunciation": "Spóts"
-  },  
-  {
-    "term": "Sedentary",
-    "translation": "Sedentário",
-    "example": "A sedentary lifestyle can lead to health problems.",
-    "description": "Refere-se a alguém ou algo com pouca atividade física.",
-    "pronunciation": "Sêden-téri"
-  },
+  },    
   {
     "term": "Journey",
     "translation": "Jornada",
@@ -152,14 +138,7 @@
     "example": "I'm staying home for now. | That's enough for now. | We're using this tool for now, but we might change it later. | Let's keep this process as it is for now and review it next month.",
     "description": "Usado para indicar algo temporário ou provisório.",
     "pronunciation": "Fór náu"
-  },
-  {
-    "term": "Annoying",
-    "translation": "Chato | Irritante",
-    "example": "It is annoying. | This noise is so annoying! | He's always interrupting me. It's really annoying. | It's annoying when people talk loudly during meetings.",
-    "description": "Algo ou alguém que causa irritação ou incômodo.",
-    "pronunciation": "Anóing"
-  },
+  },  
   {
     "term": "Carry",
     "translation": "Carregar | Levar consigo | Transportar",
@@ -1015,13 +994,6 @@
     "pronunciation": "héd"
   },
   {
-    "term": "Drag on",
-    "translation": "Se arrastar | Demorar mais que o esperado",
-    "example": "The meeting dragged on for hours. | The movie was interesting at first, but then it dragged on. | Their argument dragged on for weeks without a resolution.",
-    "description": "Verbo frasal usado para indicar que algo dura mais tempo do que o necessário ou esperado.",
-    "pronunciation": "drág ôn"
-  },
-  {
     "term": "At first",
     "translation": "A princípio | No começo",
     "example": "At first, I found the new job difficult, but now I enjoy it. | She didn’t like the city at first, but she got used to it. | At first, the project seemed impossible, but we managed to finish it.",
@@ -1209,13 +1181,6 @@
     "example": "She stretches every morning to stay flexible. | The road stretches for miles ahead. | He tried to stretch the budget to make it last longer (durar mais).",
     "description": "Estender ou alongar algo física ou figurativamente.",
     "pronunciation": "Strétch"
-  },
-  {
-    "term": "Last longer",
-    "translation": "Durar mais",
-    "example": "We are trying to make the battery last longer. | These shoes were made to last longer. | He worked extra hours to make the project last longer than expected.",
-    "description": "Manter-se funcional ou existente por mais tempo.",
-    "pronunciation": "Lást lònguer"
   },  
   {
     "term": "Stuck",
@@ -3106,7 +3071,7 @@
     "pronunciation": "táir"
   },
   {
-    "term": "Regardless",
+    "term": "Regardless of",
     "translation": "Independentemente | Sem importar",
     "example": "We must meet the deadline regardless of difficulties. | She finished the report regardless of interruptions. | Regardless of the cost, quality is important.",
     "description": "Advérbio usado para mostrar que algo acontece sem considerar obstáculos ou condições.",
@@ -3776,5 +3741,159 @@
     "example": "I really appreciate your help. | She appreciates fine art and music. | We appreciate your patience during this process.",
     "description": "Verbo que significa reconhecer o valor ou importância de algo, ou sentir gratidão por alguém ou algo.",
     "pronunciation": "a-prí-shi-êit"
+  },  
+  {
+    "term": "Above",
+    "translation": "Acima | Sobre | Superior a",
+    "example": "The plane flew above the clouds. | Please sign your name above the line. | His score was above average.",
+    "description": "Pode ser usado como advérbio ou preposição. Indica posição superior, algo que está em um nível mais alto ou em quantidade, valor ou classificação maior que outro.",
+    "pronunciation": "a-bâv"
+  },
+  {
+    "term": "Below",
+    "translation": "Abaixo | Embaixo de | Inferior a",
+    "example": "The temperature dropped below zero. | Please write your name below the line. | The apartment below mine is empty.",
+    "description": "Pode ser usado como advérbio ou preposição. Indica posição inferior, nível mais baixo ou algo que está sob outra coisa, tanto em sentido físico quanto abstrato (valores, níveis, classificação).",
+    "pronunciation": "bi-lôu"
+  },
+  {
+    "term": "Average",
+    "translation": "Médio | Média | Comum",
+    "example": "His performance was average. | The average temperature in July is high. | She earns an average of $2,000 per month.",
+    "description": "Pode ser usado como adjetivo ou substantivo. Refere-se a algo que está no nível comum ou intermediário, ou ao valor obtido ao dividir um total pela quantidade de itens.",
+    "pronunciation": "é-və-ridj"
+  },
+  {
+    "term": "Fade",
+    "translation": "Desbotar | Desaparecer aos poucos | Enfraquecer",
+    "example": "The colors began to fade in the sun. | His voice faded as he walked away. | The memory slowly faded over time.",
+    "description": "Verbo que indica algo perdendo intensidade, cor, força ou clareza gradualmente. Também pode ser usado de forma figurada para emoções, sons ou lembranças.",
+    "pronunciation": "fêid"
+  },
+  {
+    "term": "Strengthen",
+    "translation": "Fortalecer | Reforçar | Tornar mais forte",
+    "example": "They are trying to strengthen the economy. | They strengthened their relationships. | Exercise helps strengthen your muscles. | This decision will strengthen their relationship.",
+    "description": "Verbo usado para indicar o ato de tornar algo mais forte, mais sólido ou mais eficaz, seja fisicamente, emocionalmente ou de forma abstrata (ideias, relações, sistemas).",
+    "pronunciation": "stréng-then"
+  },
+  {
+    "term": "Overall",
+    "translation": "No geral | Geral | Total",
+    "example": "Overall, the experience was very positive. | The overall cost was higher than expected. | She was satisfied with the overall results.",
+    "description": "Pode ser usado como advérbio ou adjetivo. Refere-se a uma visão geral ou total de algo, considerando todos os aspectos em conjunto.",
+    "pronunciation": "ôu-ver-ól"
+  },
+  {
+    "term": "Overall",
+    "translation": "No geral | Geral | Total",
+    "example": "Overall, the experience was very positive. | People like parties overall. | The overall cost was higher than expected. | She was satisfied with the overall results.",
+    "description": "Pode ser usado como advérbio ou adjetivo. Refere-se a uma visão geral ou total de algo, considerando todos os aspectos em conjunto.",
+    "pronunciation": "ôu-ver-ól"
+  },
+  {
+    "term": "Slow down",
+    "translation": "Diminuir a velocidade | Desacelerar | Ir com mais calma",
+    "example": "You should slow down while driving in the rain. | He told her to slow down and relax. | The economy started to slow down last year.",
+    "description": "Phrasal verb usado para indicar a redução de velocidade, ritmo ou intensidade, tanto em sentido físico quanto figurado.",
+    "pronunciation": "slôu dáun"
+  },
+  {
+    "term": "Slow-going",
+    "translation": "Lento | Demorado | Que avança devagar",
+    "example": "The project is slow-going due to budget issues. | Progress has been slow-going this week. | Learning a new language can be slow-going at first.",
+    "description": "Adjetivo usado para descrever algo que progride com dificuldade ou mais lentamente do que o esperado.",
+    "pronunciation": "slôu gôu-ing"
+  },
+  {
+    "term": "Breaking down",
+    "translation": "Quebrando | Parando de funcionar | Entrando em colapso",
+    "example": "The car is breaking down again. | The machine started breaking down after years of use. | He was breaking down under too much pressure.",
+    "description": "Phrasal verb usado para indicar algo que para de funcionar, se deteriora ou entra em colapso. Também pode ser usado em sentido emocional, quando alguém perde o controle devido ao estresse ou pressão.",
+    "pronunciation": "brêi-kin dáun"
+  },
+  {
+    "term": "Like that",
+    "translation": "Assim | Desse jeito | Dessa forma",
+    "example": "Don’t talk to me like that. | Do it like that, not the other way. | I didn’t expect him to react like that.",
+    "description": "Expressão usada para se referir à maneira como algo é feito ou acontece, geralmente apontando para um comportamento, atitude ou forma específica.",
+    "pronunciation": "lái-k dát"
+  },
+  {
+    "term": "Rethink",
+    "translation": "Repensar | Rever | Considerar novamente",
+    "example": "We need to rethink our strategy. | She rethought her decision after hearing the feedback. | He’s rethinking his career plans.",
+    "description": "Verbo usado para indicar a ação de pensar novamente sobre algo, geralmente com o objetivo de mudar, melhorar ou corrigir uma decisão, plano ou opinião.",
+    "pronunciation": "rí-think"
+  },
+  {
+    "term": "Brush off",
+    "translation": "Ignorar | Desprezar | Dar pouca importância",
+    "example": "He brushed off her concerns. | She brushed off the criticism and kept going. | Don’t brush off his advice so easily.",
+    "description": "Phrasal verb usado para indicar o ato de ignorar alguém ou algo, tratando como se não fosse importante ou relevante.",
+    "pronunciation": "brâsh óf"
+  },
+  {
+    "term": "Stand out",
+    "translation": "Se destacar | Sobressair | Chamar atenção",
+    "example": "Her talent really makes her stand out. | This feature stands out from the others. | He stood out in the interview. | She stood out in this project.",
+    "description": "Phrasal verb usado para indicar algo ou alguém que é facilmente notado por ser diferente, melhor ou mais marcante em comparação aos demais.",
+    "pronunciation": "sténd áut"
+  },
+  {
+    "term": "Accustom",
+    "translation": "Acostumar | Habituar",
+    "example": "She quickly accustomed herself to the new routine. | It takes time to accustom your eyes to the dark. | He is accustomed to working under pressure. | She accustomed herself to the rules.",
+    "description": "Verbo usado para indicar o processo de se tornar familiar ou habituado a algo ao longo do tempo. É comum aparecer na forma \"be accustomed to\".",
+    "pronunciation": "a-kâs-təm"
+  },
+  {
+    "term": "What if",
+    "translation": "E se | O que aconteceria se",
+    "example": "What if we try a different approach? | What if he doesn’t show up (aparecer_? | What if things go wrong? | What if he doesn't manage it?",
+    "description": "Expressão usada para introduzir uma hipótese, possibilidade ou cenário imaginado, geralmente para explorar consequências ou levantar dúvidas.",
+    "pronunciation": "uót íf"
+  },
+  {
+    "term": "Were",
+    "translation": "Eram | Estavam | Fosse(m) (condicional)",
+    "example": "They were happy with the results. | We were waiting for you. | If I were you, I would apologize. | I wish he were more patient. | If she were here, she could help us.",
+    "description": "Forma do verbo 'to be' usada no passado para 'you, we, they' e também no subjuntivo/condicional ('If I were...') para situações hipotéticas.",
+    "pronunciation": "uâr"
+  },
+  {
+    "term": "Leisure",
+    "translation": "Lazer | Tempo livre",
+    "example": "She enjoys reading in her leisure time. | The park is a popular place for leisure activities. | He finally has some leisure after finishing the project.",
+    "description": "Substantivo usado para se referir ao tempo disponível fora das obrigações, dedicado ao descanso, entretenimento ou atividades prazerosas.",
+    "pronunciation": "lí-jər"
+  },
+  {
+    "term": "Boring",
+    "translation": "Chato | Entediante | Monótono",
+    "example": "The movie was really boring. | He found the lecture boring and long. | Doing the same task every day can be boring.",
+    "description": "Adjetivo usado para descrever algo que causa falta de interesse, tédio ou desânimo.",
+    "pronunciation": "bô-ring"
+  },
+  {
+    "term": "Bored",
+    "translation": "Entediado | Aborrecido | Sem interesse",
+    "example": "I was bored during the meeting. | She felt bored at home all day. | He gets bored easily.",
+    "description": "Adjetivo usado para descrever como alguém se sente quando não há estímulo, interesse ou entretenimento suficiente.",
+    "pronunciation": "bôrd"
+  },
+  {
+    "term": "Annoying",
+    "translation": "Chato | Irritante",
+    "example": "It is annoying. | This noise is so annoying! | He's always interrupting me. It's really annoying. | It's annoying when people talk loudly during meetings.",
+    "description": "Algo ou alguém que causa irritação ou incômodo.",
+    "pronunciation": "Anóing"
+  },
+  {
+    "term": "Annoyed",
+    "translation": "Irritado | Incomodado | Chateado",
+    "example": "She was annoyed by the noise. | He felt annoyed when they arrived late. | I get annoyed easily in traffic.",
+    "description": "Adjetivo usado para descrever o sentimento de leve irritação ou incômodo causado por uma situação, pessoa ou comportamento.",
+    "pronunciation": "a-nóid"
   }
 ]
