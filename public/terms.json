@@ -1828,10 +1828,10 @@
   },
   {
     "term": "Concern",
-    "translation": "Preocupação | Interesse | Preocupar (Verbo) | Afetar (Verbo) | Dizer respeito a algo (Verbo)",
-    "example": "This issue concerns (diz respeito) everyone in the company. | Her health concerns me (me preocupa) a lot. | The rules concern (diz respeito) all employees. | There is growing concern (preocupação) about climate change. | Education should be a bigger concern (preocupação) for the government.",
-    "description": "",
-    "pronunciation": "Kânsérn"
+    "translation": "Preocupação | Assunto | Interessar | Preocupar",
+    "example": "This issue concerns everyone in the team. | Her safety is my main concern. | He expressed concern about the new policy.",
+    "description": "Pode ser usado como verbo (preocupar, envolver, dizer respeito) ou como substantivo (preocupação, assunto importante). Refere-se a algo que causa atenção, cuidado ou interesse.",
+    "pronunciation": "kən-sârn"
   },
   {
     "term": "Issue",
