@@ -775,14 +775,7 @@
     "example": "She engages with her audience. | They engaged in a discussion. | The team engaged in the project actively.",
     "description": "Participar ativamente ou envolver-se em algo.",
     "pronunciation": "En-gueidj"
-  },
-  {
-    "term": "Enhance",
-    "translation": "Melhorar | Aprimorar | Intensificar",
-    "example": "This software enhances productivity. | Good lighting enhances a room. | Practice enhances skills.",
-    "description": "Tornar algo melhor ou mais eficaz.",
-    "pronunciation": "En-héns"
-  },
+  },  
   {
     "term": "Fast-Paced",
     "translation": "Rápido | Dinâmico | Acelerado",
@@ -1769,14 +1762,7 @@
     "example": "We need to ensure that all data is protected. | We need to ensure that everyone has access to clean water. | Please ensure that all doors are locked before leaving. | The new software update ensures better security for users.",
     "description": "Mesmo significado que [make sure], só que mais formal e usado em contextos profissionais",
     "pronunciation": "Ênshûr"
-  },
-  {
-    "term": "Tarp",
-    "translation": "Lona",
-    "example": "This tarp is yellow",
-    "description": "",
-    "pronunciation": "Tárp"
-  },
+  }, 
   {
     "term": "Jealous (Adjetivo)",
     "translation": "Ciumento | Invejoso",
@@ -2936,14 +2922,7 @@
     "example": "He felt ashamed of his mistake. | She was ashamed to ask for help. | They seemed ashamed after the accident.",
     "description": "Sentimento de vergonha ou constrangimento por algo que se fez ou aconteceu.",
     "pronunciation": "A-xêimd"
-  },
-  {
-    "term": "Course of time",
-    "translation": "Com o passar do tempo | Ao longo do tempo",
-    "example": "Many changes happened over the course of time. | Skills improve in the course of time. | The team got stronger in the course of time.",
-    "description": "Expressão usada para indicar que algo ocorre gradualmente ou se desenvolve ao longo de um período de tempo.",
-    "pronunciation": "Côrs âv táim"
-  },
+  },  
   {
     "term": "Coincide",
     "translation": "Coincidir | Acontecer ao mesmo tempo",
@@ -3034,21 +3013,7 @@
     "example": "His monthly income is enough to cover all his expenses. | The company reported a 20% increase in income. | She has a steady income from freelance work.",
     "description": "Substantivo usado para descrever o dinheiro que uma pessoa ou empresa recebe, geralmente como pagamento por trabalho ou investimento.",
     "pronunciation": "ín-kâm"
-  },
-  {
-    "term": "Please",
-    "translation": "Agradar | Satisfazer",
-    "example": "She always tries to please her boss. | It’s hard to please everyone. | The new policy didn’t please the employees.",
-    "description": "Verbo usado para indicar a ação de fazer algo que agrada ou satisfaz outra pessoa, muitas vezes buscando aprovação ou contentamento.",
-    "pronunciation": "plíz"
-  },
-  {
-    "term": "Arrange",
-    "translation": "Organizar | Agendar | Planejar",
-    "example": "I arranged a meeting with the client. | She arranged the files on her desk. | They arranged the project timeline carefully.",
-    "description": "Verbo usado para indicar o ato de organizar algo ou agendar compromissos, especialmente em contextos profissionais.",
-    "pronunciation": "arrêindj"
-  },
+  },   
   {
     "term": "Grow",
     "translation": "Crescer | Desenvolver | Aumentar",
@@ -3062,13 +3027,6 @@
     "example": "The team built a strong bond after the project. | Good leaders create bonds with their employees. | Trust helps bond colleagues together.",
     "description": "Substantivo que se refere à conexão ou relacionamento forte entre pessoas, especialmente em ambientes de trabalho para cooperação e confiança.",
     "pronunciation": "bônd"
-  },
-  {
-    "term": "Tire",
-    "translation": "Pneu | Cansar",
-    "example": "The car needs a new tire. | Employees tire after long meetings. | Don’t tire yourself with extra work.",
-    "description": "Pneu de carro; ou verbo cansar, ficar fatigado.",
-    "pronunciation": "táir"
   },
   {
     "term": "Regardless of",
@@ -3895,5 +3853,194 @@
     "example": "She was annoyed by the noise. | He felt annoyed when they arrived late. | I get annoyed easily in traffic.",
     "description": "Adjetivo usado para descrever o sentimento de leve irritação ou incômodo causado por uma situação, pessoa ou comportamento.",
     "pronunciation": "a-nóid"
-  }
+  },
+  {
+    "term": "Argue",
+    "translation": "Discutir | Argumentar | Debater",
+    "example": "They often argue about money. | She argued that the decision was unfair. | He didn’t want to argue with his parents.",
+    "description": "Verbo usado para expressar desacordo, trocar argumentos ou defender um ponto de vista, podendo envolver discussão emocional ou racional.",
+    "pronunciation": "ár-gui"
+  },
+  {
+    "term": "Go wrong",
+    "translation": "Dar errado | Sair errado | Não sair como esperado",
+    "example": "Something went wrong with the plan. | If anything goes wrong, call me. | The project can go wrong without proper planning.",
+    "description": "Expressão usada para indicar que algo falha, não funciona corretamente ou não acontece conforme o planejado.",
+    "pronunciation": "gôu róng"
+  },
+  {
+    "term": "Worry",
+    "translation": "Preocupar-se | Preocupação | Afligir",
+    "example": "Don’t worry about me. | She worries too much about the future. | His constant delays are a worry for the team.",
+    "description": "Pode ser usado como verbo (sentir ansiedade ou preocupação) ou como substantivo (algo que causa preocupação ou ansiedade).",
+    "pronunciation": "uâr-ri"
+  },
+  {
+    "term": "Family event",
+    "translation": "Evento familiar | Encontro de família",
+    "example": "We’re having a family event this weekend. | She missed the meeting because of a family event. | The wedding was a big family event.",
+    "description": "Expressão usada para se referir a qualquer reunião ou ocasião especial envolvendo membros da família, como festas, casamentos, aniversários ou comemorações.",
+    "pronunciation": "fâ-mi-li i-vênt"
+  },
+  {
+    "term": "Impress",
+    "translation": "Impressionar | Causar boa impressão",
+    "example": "She wanted to impress her boss. | His confidence really impressed the audience. | Try to impress them with your skills, not just words.",
+    "description": "Verbo usado para indicar o ato de causar admiração ou uma impressão positiva em alguém por meio de habilidades, atitudes ou resultados.",
+    "pronunciation": "im-préss"
+  },
+  {
+    "term": "Unstable",
+    "translation": "Instável | Inseguro | Irregular",
+    "example": "The ladder is unstable and dangerous. | The country is going through an unstable period. | His internet connection is unstable.",
+    "description": "Adjetivo usado para descrever algo que não é firme, seguro ou consistente, podendo se referir a situações físicas, emocionais, políticas ou técnicas.",
+    "pronunciation": "an-stêi-bol"
+  },
+  {
+    "term": "Stable",
+    "translation": "Estável | Firme | Seguro",
+    "example": "The chair is stable enough to stand on. | She has a stable job now. | The patient is in stable condition.",
+    "description": "Adjetivo usado para descrever algo que é firme, seguro ou consistente, sem grandes mudanças ou riscos imediatos.",
+    "pronunciation": "stêi-bol"
+  },
+  {
+    "term": "Fake",
+    "translation": "Falso | Falsificado | De mentira",
+    "example": "The news turned out to be fake. | He bought a fake designer bag. | Don’t believe everything you see online — some profiles are fake.",
+    "description": "Pode ser usado como adjetivo ou substantivo. Refere-se a algo que não é verdadeiro, autêntico ou real, geralmente feito para enganar ou imitar o original.",
+    "pronunciation": "fêik"
+  },
+  {
+    "term": "Accomplish",
+    "translation": "Realizar | Concluir | Alcançar",
+    "example": "She accomplished all her goals this year. | He worked hard to accomplish the task. | Together, they accomplished something remarkable.",
+    "description": "Verbo usado para indicar o ato de completar algo com sucesso, especialmente após esforço, planejamento ou dedicação.",
+    "pronunciation": "a-kóm-plish"
+  },
+  {
+    "term": "Entrepreneur",
+    "translation": "Empreendedor | Empresário",
+    "example": "She is a successful entrepreneur. | The entrepreneur launched a tech startup. | Many entrepreneurs take risks to grow their businesses.",
+    "description": "Substantivo usado para descrever uma pessoa que cria, organiza e gerencia um negócio, geralmente assumindo riscos financeiros em busca de lucro ou inovação.",
+    "pronunciation": "ân-trə-prə-nâr"
+  },  
+  {
+    "term": "Taste",
+    "translation": "Gosto | Sabor | Provar",
+    "example": "This soup has a great taste. | I like the taste of coffee. | She tasted the sauce before serving.",
+    "description": "Pode ser usado como substantivo (gosto, sabor) ou como verbo (provar, experimentar o sabor de algo). Também pode ser usado de forma figurada para preferência pessoal.",
+    "pronunciation": "têist"
+  },
+  {
+    "term": "Pace",
+    "translation": "Ritmo | Passo | Velocidade",
+    "example": "He walked at a slow pace. | The pace of the game was intense. | She tried to keep pace with the others.",
+    "description": "Pode ser usado como substantivo ou verbo. Refere-se à velocidade ou ritmo com que algo acontece ou alguém se move, física ou figurativamente.",
+    "pronunciation": "pêis"
+  },
+  {
+    "term": "Guarantee",
+    "translation": "Garantir | Garantia | Assegurar",
+    "example": "The product comes with a two-year guarantee. | I guarantee you’ll enjoy the movie. | They guarantee fast delivery.",
+    "description": "Pode ser usado como verbo (garantir, assegurar) ou substantivo (garantia). Refere-se à promessa de que algo será cumprido, seguro ou confiável.",
+    "pronunciation": "gár-an-ti"
+  },
+  {
+    "term": "Prank",
+    "translation": "Troca | Brincadeira | Pegadinha",
+    "example": "They played a prank on their friend. | He loves doing harmless pranks. | The office prank made everyone laugh.",
+    "description": "Substantivo ou verbo usado para descrever uma brincadeira feita para enganar ou divertir alguém, geralmente de forma leve e humorística.",
+    "pronunciation": "prénk"
+  },
+  {
+    "term": "It's all Greek to me",
+    "translation": "É grego para mim | Não entendo nada | Não faço ideia",
+    "example": "I tried to read the instructions, but it’s all Greek to me. | He explained the math problem, but it was all Greek to me. | Legal jargon is all Greek to me.",
+    "description": "Expressão idiomática usada para indicar que algo é completamente incompreensível ou confuso para a pessoa.",
+    "pronunciation": "its ól grík tu mí"
+  },
+  {
+    "term": "Talk in circles",
+    "translation": "Falar em círculos | Falar sem chegar ao ponto | Rodear o assunto",
+    "example": "Stop talking in circles and give me a straight answer. | He kept talking in circles during the meeting. | The politician talked in circles without addressing the issue.",
+    "description": "Expressão idiomática usada para descrever alguém que fala muito, mas sem avançar ou chegar a uma conclusão, repetindo ideias de forma confusa ou indireta.",
+    "pronunciation": "tók in sîr-kəlz"
+  },
+  {
+    "term": "Baloney",
+    "translation": "Besteira | Bobagem | Mentira",
+    "example": "Don’t believe his story — it’s all baloney. | That excuse is pure baloney. | She said it was true, but I think it’s baloney.",
+    "description": "Substantivo informal usado para se referir a algo que é falso, exagerado ou absurdo, geralmente usado para desacreditar uma afirmação ou história.",
+    "pronunciation": "bə-lóu-ni"
+  },
+  {
+    "term": "Reply",
+    "translation": "Responder | Resposta | Retornar",
+    "example": "I replied to her email yesterday. | He didn’t reply to my question. | Please reply as soon as possible.",
+    "description": "Pode ser usado como verbo (responder, replicar) ou substantivo (resposta). Refere-se ao ato de fornecer uma reação, resposta ou retorno a uma pergunta, mensagem ou comentário.",
+    "pronunciation": "ri-plái"
+  }, 
+  {
+    "term": "Pull one's weight",
+    "translation": "Fazer a sua parte | Cumprir com suas responsabilidades",
+    "example": "Everyone on the team needs to pull their weight. | If you want to stay in this group, you have to pull your weight. | He’s not pulling his weight at work.",
+    "description": "Expressão idiomática usada para indicar que alguém está cumprindo suas responsabilidades ou contribuindo adequadamente em um esforço conjunto.",
+    "pronunciation": "púl uâns wêit"
+  },
+  {
+    "term": "Get on well",
+    "translation": "Dar-se bem | Ter um bom relacionamento | Convivência harmoniosa",
+    "example": "She gets on well with her colleagues. | Do you get on well with your neighbors? | They’ve always gotten on well despite their differences.",
+    "description": "Expressão usada para indicar que pessoas mantêm um relacionamento positivo, amigável ou cooperativo entre si.",
+    "pronunciation": "gét ón wêl"
+  },  
+  {
+    "term": "Pass the buck",
+    "translation": "Transferir a responsabilidade | Empurrar a culpa",
+    "example": "Don’t try to pass the buck — take responsibility for your actions. | He always passes the buck when things go wrong. | The manager passed the buck to his assistant.",
+    "description": "Expressão idiomática usada para descrever a ação de evitar responsabilidade ou culpa, transferindo-a para outra pessoa.",
+    "pronunciation": "pás dhə bâk"
+  },  
+  {
+    "term": "Compensate",
+    "translation": "Compensar | Indenizar | Recompensar",
+    "example": "The company will compensate you for your travel expenses. | Nothing can compensate for the loss of a loved one. | He tried to compensate for his mistakes by working harder.",
+    "description": "Verbo usado para indicar o ato de fornecer algo em troca de perda, dano ou esforço, ou para equilibrar uma situação desfavorável.",
+    "pronunciation": "kóm-pən-sêit"
+  },  
+  {
+    "term": "Interfere",
+    "translation": "Interferir | Intervir | Atrapalhar",
+    "example": "Don’t interfere in their personal matters. | The noise interfered with my concentration. | He tends to interfere when it’s not his business.",
+    "description": "Verbo usado para indicar a ação de se envolver em algo de forma a afetar ou atrapalhar, muitas vezes sem ser convidado ou sem ter autoridade.",
+    "pronunciation": "in-tər-fír"
+  },
+  {
+    "term": "Violate",
+    "translation": "Violar | Infringir | Desrespeitar",
+    "example": "He violated the rules of the game. | They were arrested for violating the law. | She felt that her privacy had been violated.",
+    "description": "Verbo usado para indicar o ato de quebrar regras, leis, acordos ou limites, ou de desrespeitar direitos ou privacidade de alguém.",
+    "pronunciation": "vái-ə-lêt"
+  },
+  {
+    "term": "Charge",
+    "translation": "Cobrar | Carregar | Acusar | Encargo",
+    "example": "The store charges $10 for delivery. | Please charge your phone before leaving. | He was charged with theft. | She took charge of the project.",
+    "description": "Verbo ou substantivo com vários usos: pode significar cobrar dinheiro, carregar um dispositivo ou energia, acusar legalmente alguém, ou assumir responsabilidade/controle sobre algo.",
+    "pronunciation": "tchárj"
+  },
+  {
+    "term": "Mind",
+    "translation": "Mente | Importar-se | Cuidar | Atenção",
+    "example": "She has a sharp mind. | Do you mind if I open the window? | Mind your step on the stairs. | Keep in mind the instructions.",
+    "description": "Pode ser usado como substantivo (mente, pensamento) ou verbo (importar-se, prestar atenção, cuidar). Refere-se à capacidade de pensar, lembrar, preocupar-se ou estar atento a algo.",
+    "pronunciation": "máind"
+  },
+  {
+    "term": "Run into",
+    "translation": "Encontrar por acaso | Esbarrar com alguém",
+    "example": "I ran into my old friend at the mall. | She ran into her teacher on the street. | We ran into some problems during the project.",
+    "description": "Phrasal verb usado para indicar um encontro inesperado com alguém ou enfrentar algo inesperadamente, como problemas ou obstáculos.",
+    "pronunciation": "rán in-tu"
+  }  
 ]
