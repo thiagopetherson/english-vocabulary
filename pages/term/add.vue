@@ -1,67 +1,77 @@
 <template>
-  <div class="p-6 max-w-2xl mx-auto bg-gray-900 dark:bg-gray-900 shadow-md rounded-lg">
-    <h2 class="text-2xl font-semibold mb-6 text-gray-200 dark:text-gray-200">Add New Term</h2>
+  <section class="mx-auto max-w-2xl rounded-2xl border border-white/10 bg-gray-900/95 p-6 shadow-xl shadow-black/20">
+    <div class="mb-6 border-b border-white/10 pb-5">
+      <h1 class="mt-2 text-2xl font-semibold text-gray-100">Add New Term</h1>
+    </div>
 
-    <UFormGroup label="Term" class="mb-4">
-      <UInput 
-        v-model="newTerm.term" 
-        placeholder="Digite o termo" 
-        class="py-2 focus:ring-0 text-gray-100 dark:text-gray-100"
-      />
-    </UFormGroup>
+    <form class="space-y-4" @submit.prevent="addTerm">
+      <UFormGroup label="Term" required class="mb-4">
+        <UInput 
+          v-model="newTerm.term" 
+          placeholder="Digite o termo" 
+          class="py-2 focus:ring-0 text-gray-100 dark:text-gray-100"
+          aria-describedby="term-help"
+        />
+        <p id="term-help" class="mt-2 text-xs text-gray-500">Campo obrigatorio.</p>
+      </UFormGroup>
 
-    <UFormGroup label="Translation" class="mb-4">
-      <UInput 
-        v-model="newTerm.translation" 
-        placeholder="Use '|' to separate multiple translations." 
-        class="py-2 focus:ring-0 text-gray-100 dark:text-gray-100"
-      />
-    </UFormGroup>
+      <UFormGroup label="Translation" required class="mb-4">
+        <UInput 
+          v-model="newTerm.translation" 
+          placeholder="Use '|' to separate multiple translations." 
+          class="py-2 focus:ring-0 text-gray-100 dark:text-gray-100"
+          aria-describedby="translation-help"
+        />
+        <p id="translation-help" class="mt-2 text-xs text-gray-500">Campo obrigatorio. Exemplo: palavra 1 | palavra 2.</p>
+      </UFormGroup>
 
-    <UFormGroup label="Example" class="mb-4">
-      <UTextarea 
-        v-model="newTerm.example" 
-        placeholder="Use '|' to separate multiple examples." 
-        class="py-2 focus:ring-0 text-gray-100 dark:text-gray-100"
-      />
-    </UFormGroup>
+      <UFormGroup label="Example" class="mb-4">
+        <UTextarea 
+          v-model="newTerm.example" 
+          placeholder="Use '|' to separate multiple examples." 
+          class="py-2 focus:ring-0 text-gray-100 dark:text-gray-100"
+        />
+      </UFormGroup>
 
-    <UFormGroup label="Description" class="mb-4">
-      <UTextarea 
-        v-model="newTerm.description" 
-        placeholder="Use '|' to separate multiple descriptions." 
-        class="py-2 focus:ring-0 text-gray-100 dark:text-gray-100"
-      />
-    </UFormGroup>
+      <UFormGroup label="Description" class="mb-4">
+        <UTextarea 
+          v-model="newTerm.description" 
+          placeholder="Use '|' to separate multiple descriptions." 
+          class="py-2 focus:ring-0 text-gray-100 dark:text-gray-100"
+        />
+      </UFormGroup>
 
-    <UFormGroup label="Pronunciation" class="mb-4">
-      <UInput 
-        v-model="newTerm.pronunciation" 
-        placeholder="Use '|' to separate multiple pronunciations." 
-        class="py-2 focus:ring-0 text-gray-100 dark:text-gray-100"
-      />
-    </UFormGroup>
+      <UFormGroup label="Pronunciation" class="mb-4">
+        <UInput 
+          v-model="newTerm.pronunciation" 
+          placeholder="Use '|' to separate multiple pronunciations." 
+          class="py-2 focus:ring-0 text-gray-100 dark:text-gray-100"
+        />
+      </UFormGroup>
 
-    <UFormGroup label="Password" class="mb-4">
-      <UInput 
-        v-model="password" 
-        type="password" 
-        placeholder="Type the password" 
-        class="py-2 focus:ring-0 text-gray-100 dark:text-gray-100"
-      />
-    </UFormGroup>
+      <div class="rounded-xl border border-amber-400/20 bg-amber-400/5 p-4">
+        <UFormGroup label="Password" class="mb-0">
+          <UInput 
+            v-model="password" 
+            type="password" 
+            placeholder="Type the password" 
+            class="py-2 focus:ring-0 text-gray-100 dark:text-gray-100"
+          />
+        </UFormGroup>
+      </div>
 
-    <UButton 
-      @click="addTerm"
-      color="primary"
-      block
-      :loading="loading"
-      class="mt-4 px-6 py-4 text-lg font-semibold transition-all duration-300 ease-in-out 
-        bg-blue-600 dark:bg-blue-600 hover:bg-blue-700 dark:hover:bg-blue-700 text-white disabled:opacity-50 disabled:cursor-not-allowed"
-    >
-      Save
-    </UButton>
-  </div>
+      <UButton 
+        type="submit"
+        color="primary"
+        block
+        :loading="loading"
+        class="mt-4 px-6 py-4 text-lg font-semibold transition-all duration-300 ease-in-out 
+          bg-blue-600 dark:bg-blue-600 hover:bg-blue-700 dark:hover:bg-blue-700 text-white disabled:opacity-50 disabled:cursor-not-allowed"
+      >
+        Save
+      </UButton>
+    </form>
+  </section>
 </template>
 
 <script setup>

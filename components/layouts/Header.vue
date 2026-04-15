@@ -1,15 +1,15 @@
 <template>
-  <header class="w-full bg-gray-900 shadow-md text-white py-4">
-    <div class="w-[95%] mx-auto flex justify-between items-center px-6">
+  <header class="sticky top-0 z-30 w-full border-b border-white/10 bg-gray-950/85 text-white shadow-lg backdrop-blur">
+    <div class="mx-auto flex w-[95%] items-center justify-between px-4 py-4 sm:px-6">
       <NuxtLink to="/" class="flex items-center space-x-2">
-        <span class="border-2 border-white rounded-full px-3 py-1 text-lg font-bold">EV</span>
-        <span class="text-xl font-semibold">English Vocabulary</span>
+        <span class="rounded-full border-2 border-teal-400/80 px-3 py-1 text-lg font-bold text-teal-200">EV</span>
+        <span class="block text-xl font-semibold leading-none">English Vocabulary</span>
       </NuxtLink>
 
       <NuxtLink 
         v-if="!isCurrenciesPage" 
         to="/term/add"
-        class="bg-teal-500 hover:bg-teal-600 text-white font-semibold px-4 py-2 rounded"
+        class="rounded-lg bg-teal-500 px-4 py-2 font-semibold text-white transition hover:bg-teal-400 focus-visible:outline-none"
       >
         Add
       </NuxtLink>
