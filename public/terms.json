@@ -4045,4 +4045,123 @@
     "description": "Phrasal verb usado para indicar um encontro inesperado com alguém ou enfrentar algo inesperadamente, como problemas ou obstáculos.",
     "pronunciation": "rán in-tu"
   }
+  ,{
+    "term": "Present",
+    "translation": "Presente | Apresentar | Atual",
+    "example": "Please present your ID at the entrance. | This gift is for you, present and ready to open. | The present situation requires attention.",
+    "description": "Pode funcionar como verbo, adjetivo ou substantivo, dependendo do contexto.",
+    "pronunciation": "pré-zent"
+  },
+  {
+    "term": "Deceive",
+    "translation": "Enganar | Ludibriar",
+    "example": "He tried to deceive the customers. | Don’t let appearances deceive you. | The report was designed to deceive the public.",
+    "description": "Verbo usado quando alguém faz outra pessoa acreditar em algo falso.",
+    "pronunciation": "di-síiv"
+  },
+  {
+    "term": "Disappoint",
+    "translation": "Decepcionar | Frustrar",
+    "example": "I don't want to disappoint you. | The result disappointed the team. | It would disappoint me if you left early.",
+    "description": "Verbo usado quando algo não atende às expectativas de alguém.",
+    "pronunciation": "dis-apóint"
+  },
+  {
+    "term": "Multitasking",
+    "translation": "Multitarefa",
+    "example": "Multitasking can reduce focus. | She is good at multitasking during busy days. | The job requires strong multitasking skills.",
+    "description": "Capacidade de fazer mais de uma tarefa ao mesmo tempo.",
+    "pronunciation": "mâl-ti-tásk-ing"
+  },
+  {
+    "term": "Adaptable",
+    "translation": "Adaptável",
+    "example": "She is very adaptable in new environments. | We need adaptable people on this team. | The plan must be adaptable to changes.",
+    "description": "Adjetivo usado para descrever algo ou alguém que consegue se ajustar facilmente a mudanças.",
+    "pronunciation": "â-dáp-tâ-bol"
+  },
+  {
+    "term": "Proative",
+    "translation": "Proativo",
+    "example": "She is proative and always looks for solutions. | A proative approach helps prevent problems. | We need a more proative attitude in the team.",
+    "description": "Adjetivo usado para indicar alguém que age antes que os problemas apareçam.",
+    "pronunciation": "prô-êi-tiv"
+  },
+  {
+    "term": "Proficient",
+    "translation": "Proficiente | Habilidoso",
+    "example": "She is proficient in English and Spanish. | He became proficient with the software quickly. | Our team is proficient at solving technical problems.",
+    "description": "Adjetivo usado para indicar alto nível de habilidade ou competência em algo.",
+    "pronunciation": "prô-fí-shent"
+  },
+  {
+    "term": "Prove",
+    "translation": "Provar | Comprovar",
+    "example": "Can you prove that it works? | The results proved his point. | She wanted to prove her skills in the interview.",
+    "description": "Verbo usado para demonstrar que algo é verdadeiro ou correto.",
+    "pronunciation": "prúv"
+  },
+  {
+    "term": "Whom",
+    "translation": "Quem | A quem",
+    "example": "Whom did you invite? | Whom are you talking to? | She is the person to whom I spoke.",
+    "description": "Pronome usado de forma mais formal, geralmente como objeto de uma ação ou preposição.",
+    "pronunciation": "rúm"
+  },
+  {
+    "term": "Whose",
+    "translation": "De quem | Cujo",
+    "example": "Whose book is this? | I met a woman whose brother lives abroad. | Whose idea was it?",
+    "description": "Pronome usado para perguntar ou indicar posse.",
+    "pronunciation": "rúz"
+  },
+  {
+    "term": "Who",
+    "translation": "Quem",
+    "example": "Who is calling? | Who did this? | Who wants coffee?",
+    "description": "Pronome usado para perguntar ou identificar uma pessoa.",
+    "pronunciation": "rú"
+  },
+  {
+    "term": "Exchange",
+    "translation": "Trocar | Intercâmbio | Câmbio",
+    "example": "We can exchange numbers later. | They exchanged gifts at the party. | She went abroad for an exchange program.",
+    "description": "Verbo ou substantivo usado para indicar troca, comunicação ou programa de intercâmbio.",
+    "pronunciation": "eks-tcheindj"
+  },
+  {
+    "term": "None of that",
+    "translation": "Nada disso | Nada daquilo",
+    "example": "None of that is true. | I want none of that drama. | None of that matters now.",
+    "description": "Expressão usada para negar ou rejeitar tudo o que foi mencionado.",
+    "pronunciation": "nân âv dét"
+  },
+  {
+    "term": "Maintaining",
+    "translation": "Mantendo | Manutenção | Manter",
+    "example": "Maintaining focus is important. | She is maintaining the equipment carefully. | Maintaining good habits takes effort.",
+    "description": "Forma do verbo maintain usada para indicar continuação, conservação ou manutenção de algo.",
+    "pronunciation": "méin-têin-ing"
+  },
+  {
+    "term": "Admit",
+    "translation": "Admitir",
+    "example": "He admitted his mistake. | I have to admit I was wrong. | She admitted that she was late.",
+    "description": "Verbo usado quando alguém reconhece, aceita ou confessa algo.",
+    "pronunciation": "ad-mít"
+  },
+  {
+    "term": "Arrival",
+    "translation": "Chegada",
+    "example": "The arrival of the guests was delayed. | We are waiting for the arrival of the package. | Her arrival made everyone happy.",
+    "description": "Substantivo usado para indicar o ato de chegar a um lugar.",
+    "pronunciation": "â-rái-vâl"
+  },
+  {
+    "term": "Betray",
+    "translation": "Trair",
+    "example": "He would never betray his friends. | She felt betrayed by the team. | Don't betray my trust.",
+    "description": "Verbo usado quando alguém quebra a confiança ou age contra outra pessoa.",
+    "pronunciation": "bih-trêi"
+  }
 ]
