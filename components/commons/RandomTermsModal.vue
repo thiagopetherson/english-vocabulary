@@ -37,10 +37,24 @@
           <li
             v-for="(term, index) in randomTerms"
             :key="index"
-            class="mb-3 rounded-xl border border-white/8 bg-white/5 px-4 py-3 text-left text-[1.05rem] text-gray-100"
+            class="mb-3 flex items-center justify-between rounded-xl border border-white/8 bg-white/5 px-4 py-3 text-left text-[1.05rem] text-gray-100"
           >
-            <span class="mr-3 text-sm font-semibold text-teal-300">{{ index + 1 }}.</span>
-            <strong>{{ term.term }}</strong>
+            <span>
+              <span class="mr-3 text-sm font-semibold text-teal-300">{{ index + 1 }}.</span>
+              <strong>{{ term.term }}</strong>
+            </span>
+            <button
+              type="button"
+              class="rounded-md p-1 text-teal-400 transition hover:bg-teal-400/10 hover:text-teal-300"
+              @click="speak(term.term)"
+              :aria-label="`Listen to ${term.term}`"
+              title="Listen"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20" class="w-5 h-5">
+                <path d="M9 3L4 7H1v6h3l5 4V3zM16.707 4.293l-1.414 1.414A7.967 7.967 0 0118 10a7.967 7.967 0 01-2.707 5.293l1.414 1.414A9.953 9.953 0 0020 10c0-2.761-1.117-5.261-3.293-7.293z"></path>
+                <path d="M13.293 7.293L11.879 8.707A3.98 3.98 0 0113 10a3.98 3.98 0 01-1.121 2.293l1.414 1.414A5.978 5.978 0 0015 10a5.978 5.978 0 00-1.707-4.293z"></path>
+              </svg>
+            </button>
           </li>
         </ul>
 
@@ -71,8 +85,10 @@
 
 <script setup>
 import { ref, defineProps } from 'vue'
+import { useSpeech } from '~/composables/useSpeech'
 
 const { $toast } = useNuxtApp()
+const { speak } = useSpeech()
 
 const props = defineProps({
   terms: {
