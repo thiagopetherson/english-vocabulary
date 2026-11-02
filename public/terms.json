@@ -336,25 +336,11 @@
     "pronunciation": "Greitful"
   },
   {
-    "term": "Bald",
-    "translation": "Careca",
-    "example": "He is bald and wears a hat. | My grandfather has been bald for years. | My uncle is bald, but he likes his look.",
-    "description": "Adjetivo usado para descrever alguém que não tem cabelo na cabeça.",
-    "pronunciation": "Bóld"
-  },
-  {
     "term": "Blind",
     "translation": "Cego",
     "example": "She has been blind since birth. | The blind man uses a cane to walk. | The school offers support for blind students.",
     "description": "Adjetivo usado para indicar a falta de visão total ou parcial.",
     "pronunciation": "Bláind"
-  },
-  {
-    "term": "Deaf",
-    "translation": "Surdo",
-    "example": "He is deaf and communicates using sign language. | The deaf community has its own culture. | The movie has subtitles for deaf viewers.",
-    "description": "Adjetivo usado para indicar a perda total ou parcial da audição.",
-    "pronunciation": "Dêf"
   },
   {
     "term": "Be born",
@@ -623,13 +609,6 @@
     "pronunciation": "Âkrós"
   },
   {
-    "term": "Based",
-    "translation": "Baseado",
-    "example": "Based on a true story. | Based on true events. | The company is based in New York.",
-    "description": "Indica algo que se baseia em outra coisa ou está localizado em algum lugar.",
-    "pronunciation": "Bêisd"
-  },
-  {
     "term": "I have been with them for about five years now",
     "translation": "Eu estive com eles há 5 anos.",
     "example": "I have been with them for five years now. | She has been with the company since 2018. | I have been with them for about five years now, and I still enjoy the work.",
@@ -873,13 +852,6 @@
     "example": "Have you finished the report? Not yet! | Is dinner ready? Not yet, give it ten more minutes. | Did she call you back? Not yet.",
     "description": "Resposta curta usada para indicar que algo ainda não aconteceu, mas pode acontecer em breve.",
     "pronunciation": "nót iét"
-  },
-  {
-    "term": "Loudly (Advérbio)",
-    "translation": "Alto | Ruidosamente | Em voz alta",
-    "example": "She sang loudly during the concert. | He laughed loudly when he heard the funny story. | The children played loudly in the yard.",
-    "description": "Usado para descrever ações que são feitas com um volume elevado ou de maneira ruidosa.",
-    "pronunciation": "laudli"
   },
   {
     "term": "Shout",
@@ -2051,13 +2023,6 @@
     "pronunciation": "Smail"
   },
   {
-    "term": "Young couple",
-    "translation": "Jovem casal",
-    "example": "A young couple moved into the apartment next door. | The movie follows a young couple on vacation. | We saw a young couple walking in the park.",
-    "description": "Expressão usada para se referir a um casal jovem.",
-    "pronunciation": "Iâng cápou"
-  },
-  {
     "term": "Set",
     "translation": "Colocar | Ajustar | Definir | Conjunto (substantivo)",
     "example": "I will set the table for dinner. | She set the alarm for 7 a.m. | We need to set clear goals for this quarter. | I bought a new set (conjunto) of knives.",
@@ -2164,7 +2129,7 @@
   },
   {
     "term": "So",
-    "translation": "Então | Por isso | Tãoy",
+    "translation": "Então | Por isso | Tão",
     "example": "The server went down, so we lost some data. | She was so tired after the presentation. | So, let’s begin the project review.",
     "description": "Pode ser usado para indicar consequência, ênfase (muito) ou para introduzir uma ideia.",
     "pronunciation": "Sou"
@@ -4102,13 +4067,6 @@
     "pronunciation": "uík-nâs"
   },
   {
-    "term": "Awareness",
-    "translation": "Consciência | Conscientização",
-    "example": "The campaign raised awareness about the issue. | She showed great awareness of the risks. | We need more awareness about data privacy.",
-    "description": "Substantivo usado para indicar o estado de estar consciente ou informado sobre algo.",
-    "pronunciation": "a-uér-nâs"
-  },
-  {
     "term": "Problem solver",
     "translation": "Solucionador de problemas",
     "example": "She is a great problem solver. | The company values problem solvers. | He proved himself to be an excellent problem solver during the crisis.",
@@ -4240,5 +4198,110 @@
     "example": "The idea crossed my mind yesterday. | It never crossed her mind that he could be wrong. | That thought crossed my mind too.",
     "description": "Expressão usada para indicar que um pensamento ou ideia surgiu brevemente na mente de alguém.",
     "pronunciation": "krôst mái máind"
+  },
+  {
+    "term": "Strengths",
+    "translation": "Pontos fortes | Forças",
+    "example": "Communication is one of her strengths. | We should focus on our team's strengths. | He highlighted his strengths during the interview.",
+    "description": "Substantivo no plural usado para indicar as qualidades ou habilidades mais fortes de alguém ou algo. Oposto de [Weakness].",
+    "pronunciation": "strêngths"
+  },
+  {
+    "term": "Even with",
+    "translation": "Mesmo com | Ainda com",
+    "example": "Even with all the delays, we finished on time. | She stayed calm even with so much pressure. | Even with his experience, he still asked for help.",
+    "description": "Expressão usada para indicar que algo acontece apesar de uma condição presente, geralmente um obstáculo.",
+    "pronunciation": "íven uíth"
+  },
+  {
+    "term": "My cup of tea",
+    "translation": "Minha praia | Do meu gosto",
+    "example": "Horror movies aren't really my cup of tea. | Public speaking is not his cup of tea. | Spicy food is definitely my cup of tea.",
+    "description": "Expressão idiomática usada para dizer que algo é (ou não é) do seu interesse ou gosto pessoal. Comum na forma negativa.",
+    "pronunciation": "mái câp âv tí"
+  },
+  {
+    "term": "Shine",
+    "translation": "Brilhar | Destacar-se",
+    "example": "The sun shone brightly all afternoon. | She always shines during presentations. | He will shine in his new role.",
+    "description": "Verbo irregular [Shine, Shone, Shone] usado para indicar brilho literal (luz) ou, de forma figurada, destacar-se em algo.",
+    "pronunciation": "sháin"
+  },
+  {
+    "term": "Step out",
+    "translation": "Sair por um momento | Dar um passo para fora",
+    "example": "I need to step out for a quick call. | She stepped out of the meeting early. | He stepped out to get some fresh air.",
+    "description": "Phrasal verb usado para indicar que alguém sai de um lugar por um curto período, geralmente de forma breve.",
+    "pronunciation": "stép áut"
+  },
+  {
+    "term": "Barely",
+    "translation": "Mal | Apenas | Quase não",
+    "example": "I barely slept last night. | She barely finished the report on time. | We can barely hear you.",
+    "description": "Advérbio usado para indicar que algo aconteceu com muita dificuldade ou em grau mínimo, quase não acontecendo.",
+    "pronunciation": "bér-li"
+  },
+  {
+    "term": "Guilt",
+    "translation": "Culpa (sentimento) | Remorso",
+    "example": "She felt guilt after missing the deadline. | He couldn't hide his guilt. | The guilt of forgetting her birthday stayed with him for days.",
+    "description": "Substantivo que indica o sentimento de culpa ou remorso por algo que se fez de errado. Diferente de [Fault], que indica de quem é a responsabilidade pelo erro.",
+    "pronunciation": "guílt"
+  },
+  {
+    "term": "Fault",
+    "translation": "Culpa (responsabilidade) | Defeito | Falha",
+    "example": "It's not my fault the project was late. | The accident was his fault. | The software has a fault in the login system.",
+    "description": "Substantivo que indica de quem é a responsabilidade por um erro, ou um defeito em um sistema/objeto. Diferente de [Guilt], que é o sentimento de culpa.",
+    "pronunciation": "fólt"
+  },
+  {
+    "term": "Base",
+    "translation": "Base | Basear",
+    "example": "The company's base is in São Paulo. | They based their decision on the report. | We need a solid base to build this strategy on.",
+    "description": "Pode ser substantivo (fundamento, sede de uma empresa) ou verbo (fundamentar algo em outra coisa).",
+    "pronunciation": "béis"
+  },
+  {
+    "term": "Cozy",
+    "translation": "Aconchegante | Confortável",
+    "example": "The office has a cozy reading corner. | We spent a cozy evening at home. | This café feels cozy and relaxing.",
+    "description": "Adjetivo usado para descrever um lugar ou ambiente confortável e acolhedor.",
+    "pronunciation": "kô-zi"
+  },
+  {
+    "term": "Constantly",
+    "translation": "Constantemente | Sempre",
+    "example": "She is constantly checking her email. | The market is constantly changing. | He constantly interrupts during meetings.",
+    "description": "Advérbio usado para indicar que algo acontece repetidamente ou sem interrupção.",
+    "pronunciation": "kóns-tant-li"
+  },
+  {
+    "term": "Consequently",
+    "translation": "Consequentemente | Por consequência",
+    "example": "The flight was delayed; consequently, we missed the connection. | He didn't prepare, and consequently, he failed the interview. | Sales dropped, consequently affecting the budget.",
+    "description": "Advérbio formal usado para indicar o resultado ou consequência direta de algo mencionado anteriormente.",
+    "pronunciation": "kón-sê-kuent-li"
+  },
+  {
+    "term": "Fulfilling",
+    "translation": "Gratificante | Realizador",
+    "example": "She finds her job very fulfilling. | It was a fulfilling experience for the whole team. | Volunteering can be fulfilling.",
+    "description": "Adjetivo usado para descrever algo que traz satisfação profunda ou sensação de realização pessoal.",
+    "pronunciation": "ful-fíl-ing"
+  },
+  {
+    "term": "Unfulfilling",
+    "translation": "Insatisfatório | Que não realiza",
+    "example": "He left the job because it felt unfulfilling. | The routine became unfulfilling over time. | An unfulfilling career can affect mental health.",
+    "description": "Adjetivo usado para descrever algo que não traz satisfação ou sensação de realização pessoal. Oposto de [Fulfilling].",
+    "pronunciation": "ân-ful-fíl-ing"
+  },
+  {
+    "term": "Trust",
+    "translation": "Confiar | Confiança",
+    "example": "I trust her completely. | Trust is essential in any relationship. | He trusts his team to make good decisions.",
+    "description": "Pode ser verbo (confiar no caráter ou nas intenções de alguém) ou substantivo (confiança). Diferente de [Rely], que indica depender de algo ou alguém de forma mais prática, sem necessariamente envolver confiança emocional.",
+    "pronunciation": "trâst"
   }
 ]
